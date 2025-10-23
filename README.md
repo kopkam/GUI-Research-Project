@@ -1,1 +1,1 @@
-# GUI-Research-ProjecT
+# GUI-Research-Project
