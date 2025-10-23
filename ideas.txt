@@ -1,0 +1,3 @@
+Rozpoznawanie popularnych przyciskow? (z implementacja funkcji?) np. exit itp.
+
+Dodanie padding?
