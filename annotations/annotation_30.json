@@ -1,0 +1,141 @@
+{
+  "image": "screenshots/screenshot_30.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_tmrDlmLI",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 266,
+        "x_max": 108,
+        "y_max": 338
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_VCUFYH",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 592,
+        "x_max": 108,
+        "y_max": 662
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_WzGToi",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 662,
+        "x_max": 108,
+        "y_max": 746
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_FMiszvkkv",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 126,
+        "x_max": 230,
+        "y_max": 223
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "label_JYZgo",
+      "bbox": {
+        "x_min": 108,
+        "y_min": 662,
+        "x_max": 230,
+        "y_max": 746
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "label_CHDcfgAZ",
+      "bbox": {
+        "x_min": 230,
+        "y_min": 0,
+        "x_max": 349,
+        "y_max": 60
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_TbcIQH",
+      "bbox": {
+        "x_min": 230,
+        "y_min": 662,
+        "x_max": 349,
+        "y_max": 746
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_iUANzk",
+      "bbox": {
+        "x_min": 773,
+        "y_min": 0,
+        "x_max": 904,
+        "y_max": 126
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "label_tvVuwdAEQv",
+      "bbox": {
+        "x_min": 773,
+        "y_min": 126,
+        "x_max": 904,
+        "y_max": 223
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 904,
+        "y_min": 60,
+        "x_max": 1103,
+        "y_max": 126
+      }
+    },
+    {
+      "id": "label_7",
+      "type": "Label",
+      "text": "label_sohjfocwmS",
+      "bbox": {
+        "x_min": 1258,
+        "y_min": 266,
+        "x_max": 1536,
+        "y_max": 338
+      }
+    },
+    {
+      "id": "label_8",
+      "type": "Label",
+      "text": "label_yBdwXxI",
+      "bbox": {
+        "x_min": 1258,
+        "y_min": 592,
+        "x_max": 1536,
+        "y_max": 662
+      }
+    }
+  ]
+}

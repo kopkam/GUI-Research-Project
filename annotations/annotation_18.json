@@ -1,0 +1,119 @@
+{
+  "image": "screenshots/screenshot_18.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_lbWNg",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 180,
+        "y_max": 69
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_RWtAS",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 210,
+        "x_max": 180,
+        "y_max": 269
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 269,
+        "x_max": 180,
+        "y_max": 405
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_HyMIEihbpz",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 692,
+        "x_max": 334,
+        "y_max": 768
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_TWEFWztCnZ",
+      "bbox": {
+        "x_min": 668,
+        "y_min": 768,
+        "x_max": 820,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1018,
+        "y_min": 0,
+        "x_max": 1142,
+        "y_max": 69
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1018,
+        "y_min": 768,
+        "x_max": 1142,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_4",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1289,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 69
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_TToRMc",
+      "bbox": {
+        "x_min": 1289,
+        "y_min": 69,
+        "x_max": 1536,
+        "y_max": 128
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_FPgDL",
+      "bbox": {
+        "x_min": 1289,
+        "y_min": 210,
+        "x_max": 1536,
+        "y_max": 269
+      }
+    }
+  ]
+}
