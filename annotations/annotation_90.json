@@ -1,0 +1,130 @@
+{
+  "image": "screenshots/screenshot_90.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_VNLbXFC",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 236,
+        "x_max": 95,
+        "y_max": 307
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_CMlryck",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 409,
+        "x_max": 95,
+        "y_max": 477
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_Utekt",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 733,
+        "x_max": 95,
+        "y_max": 824
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_qZMYfkcm",
+      "bbox": {
+        "x_min": 95,
+        "y_min": 236,
+        "x_max": 223,
+        "y_max": 307
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 307,
+        "x_max": 223,
+        "y_max": 377
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_fJfVMbqgNS",
+      "bbox": {
+        "x_min": 473,
+        "y_min": 824,
+        "x_max": 612,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "label_zMpUd",
+      "bbox": {
+        "x_min": 612,
+        "y_min": 824,
+        "x_max": 804,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_LEqPoG",
+      "bbox": {
+        "x_min": 1081,
+        "y_min": 0,
+        "x_max": 1185,
+        "y_max": 161
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "label_bdoeT",
+      "bbox": {
+        "x_min": 1081,
+        "y_min": 733,
+        "x_max": 1185,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "label_bLuxELOxZN",
+      "bbox": {
+        "x_min": 1185,
+        "y_min": 824,
+        "x_max": 1312,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1312,
+        "y_min": 409,
+        "x_max": 1536,
+        "y_max": 477
+      }
+    }
+  ]
+}

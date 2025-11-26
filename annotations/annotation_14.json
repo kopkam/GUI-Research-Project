@@ -1,0 +1,119 @@
+{
+  "image": "screenshots/screenshot_14.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_qructwIis",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 419,
+        "x_max": 139,
+        "y_max": 505
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_skOJJVqal",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 680,
+        "x_max": 139,
+        "y_max": 750
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_elgsgJuJ",
+      "bbox": {
+        "x_min": 316,
+        "y_min": 0,
+        "x_max": 452,
+        "y_max": 35
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_CHrItwRz",
+      "bbox": {
+        "x_min": 316,
+        "y_min": 750,
+        "x_max": 452,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_DLhzg",
+      "bbox": {
+        "x_min": 452,
+        "y_min": 0,
+        "x_max": 628,
+        "y_max": 35
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_kXFWoo",
+      "bbox": {
+        "x_min": 452,
+        "y_min": 35,
+        "x_max": 628,
+        "y_max": 104
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 735,
+        "y_min": 387,
+        "x_max": 915,
+        "y_max": 419
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "label_bUjPdiKpn",
+      "bbox": {
+        "x_min": 1305,
+        "y_min": 104,
+        "x_max": 1536,
+        "y_max": 182
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "button_vsfsu",
+      "bbox": {
+        "x_min": 1305,
+        "y_min": 316,
+        "x_max": 1536,
+        "y_max": 419
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1305,
+        "y_min": 505,
+        "x_max": 1536,
+        "y_max": 564
+      }
+    }
+  ]
+}

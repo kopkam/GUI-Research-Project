@@ -1,0 +1,119 @@
+{
+  "image": "screenshots/screenshot_51.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_gtxIZgkt",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 135,
+        "y_max": 48
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_MaTJH",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 658,
+        "x_max": 135,
+        "y_max": 747
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_HFRvKexMKK",
+      "bbox": {
+        "x_min": 135,
+        "y_min": 658,
+        "x_max": 332,
+        "y_max": 747
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "label_BlYIp",
+      "bbox": {
+        "x_min": 332,
+        "y_min": 747,
+        "x_max": 493,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_aSthaL",
+      "bbox": {
+        "x_min": 775,
+        "y_min": 747,
+        "x_max": 875,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "label_VbJPjSThey",
+      "bbox": {
+        "x_min": 1052,
+        "y_min": 0,
+        "x_max": 1169,
+        "y_max": 48
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_tgTGAxJI",
+      "bbox": {
+        "x_min": 1300,
+        "y_min": 48,
+        "x_max": 1536,
+        "y_max": 138
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "label_ZLKjkPrDC",
+      "bbox": {
+        "x_min": 1300,
+        "y_min": 359,
+        "x_max": 1536,
+        "y_max": 438
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1300,
+        "y_min": 438,
+        "x_max": 1536,
+        "y_max": 493
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_tCBIsoHw",
+      "bbox": {
+        "x_min": 1300,
+        "y_min": 747,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "image": "screenshots/screenshot_76.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_qZduw",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 84,
+        "x_max": 182,
+        "y_max": 149
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_kYkCovHg",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 149,
+        "x_max": 182,
+        "y_max": 205
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_CsQzimEY",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 450,
+        "x_max": 356,
+        "y_max": 527
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_xYMweD",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 574,
+        "x_max": 182,
+        "y_max": 646
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 764,
+        "x_max": 182,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "button_mQWHzXQX",
+      "bbox": {
+        "x_min": 356,
+        "y_min": 764,
+        "x_max": 528,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "button_XlXzio",
+      "bbox": {
+        "x_min": 528,
+        "y_min": 0,
+        "x_max": 689,
+        "y_max": 84
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_MkLYvvydJ",
+      "bbox": {
+        "x_min": 528,
+        "y_min": 764,
+        "x_max": 689,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_6",
+      "type": "Button",
+      "text": "button_nbfjWB",
+      "bbox": {
+        "x_min": 991,
+        "y_min": 686,
+        "x_max": 1092,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_nIapRig",
+      "bbox": {
+        "x_min": 1251,
+        "y_min": 84,
+        "x_max": 1536,
+        "y_max": 149
+      }
+    }
+  ]
+}

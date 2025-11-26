@@ -1,0 +1,75 @@
+{
+  "image": "screenshots/screenshot_28.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_LzWcelddp",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 152,
+        "y_max": 88
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_KbTKKMfer",
+      "bbox": {
+        "x_min": 152,
+        "y_min": 0,
+        "x_max": 333,
+        "y_max": 88
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_UMXURuCBJ",
+      "bbox": {
+        "x_min": 152,
+        "y_min": 762,
+        "x_max": 333,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "button_xWFWwhrjg",
+      "bbox": {
+        "x_min": 925,
+        "y_min": 762,
+        "x_max": 1014,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "button_XyLzxbEWVv",
+      "bbox": {
+        "x_min": 1014,
+        "y_min": 762,
+        "x_max": 1097,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_6",
+      "type": "Button",
+      "text": "button_VRSMo",
+      "bbox": {
+        "x_min": 1305,
+        "y_min": 762,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

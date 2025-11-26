@@ -1,0 +1,119 @@
+{
+  "image": "screenshots/screenshot_6.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "label_WqvkqpgnI",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 243,
+        "x_max": 188,
+        "y_max": 320
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_RHbXtG",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 664,
+        "x_max": 188,
+        "y_max": 730
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_PqIBcGmb",
+      "bbox": {
+        "x_min": 188,
+        "y_min": 243,
+        "x_max": 372,
+        "y_max": 320
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "label_GNNeRe",
+      "bbox": {
+        "x_min": 372,
+        "y_min": 0,
+        "x_max": 546,
+        "y_max": 93
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "label_oRUnsIrfyP",
+      "bbox": {
+        "x_min": 546,
+        "y_min": 0,
+        "x_max": 718,
+        "y_max": 93
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "button_qleWAVQK",
+      "bbox": {
+        "x_min": 546,
+        "y_min": 767,
+        "x_max": 718,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "button_EgDNQavU",
+      "bbox": {
+        "x_min": 718,
+        "y_min": 767,
+        "x_max": 866,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "button_KIhCrVdA",
+      "bbox": {
+        "x_min": 958,
+        "y_min": 0,
+        "x_max": 1152,
+        "y_max": 93
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 1382,
+        "y_min": 185,
+        "x_max": 1536,
+        "y_max": 243
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "label_arXVCDc",
+      "bbox": {
+        "x_min": 1382,
+        "y_min": 567,
+        "x_max": 1536,
+        "y_max": 664
+      }
+    }
+  ]
+}

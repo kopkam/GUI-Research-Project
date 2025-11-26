@@ -1,0 +1,31 @@
+{
+  "image": "screenshots/screenshot_10.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "button_KpPhSwpAWA",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 265,
+        "x_max": 156,
+        "y_max": 314
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "button_jzunaock",
+      "bbox": {
+        "x_min": 1282,
+        "y_min": 452,
+        "x_max": 1536,
+        "y_max": 495
+      }
+    }
+  ]
+}
