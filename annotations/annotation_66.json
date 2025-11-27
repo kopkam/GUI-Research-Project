@@ -6,58 +6,36 @@
   },
   "widgets": [
     {
-      "id": "button_1",
-      "type": "Button",
-      "text": "button_lIdFIcRxQ",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 672,
-        "x_max": 136,
-        "y_max": 716
-      }
-    },
-    {
       "id": "entry_1",
       "type": "Entry",
       "text": "",
       "bbox": {
-        "x_min": 749,
-        "y_min": 0,
-        "x_max": 889,
-        "y_max": 58
+        "x_min": 0,
+        "y_min": 307,
+        "x_max": 152,
+        "y_max": 368
       }
     },
     {
-      "id": "label_1",
-      "type": "Label",
-      "text": "label_cYJMunbQdu",
+      "id": "button_1",
+      "type": "Button",
+      "text": "mlGWDZDMyq",
       "bbox": {
-        "x_min": 749,
-        "y_min": 58,
-        "x_max": 889,
-        "y_max": 147
+        "x_min": 0,
+        "y_min": 583,
+        "x_max": 152,
+        "y_max": 627
       }
     },
     {
       "id": "button_2",
       "type": "Button",
-      "text": "button_JQccckIDK",
+      "text": "fsxQgWtS",
       "bbox": {
-        "x_min": 889,
-        "y_min": 773,
-        "x_max": 1062,
+        "x_min": 790,
+        "y_min": 717,
+        "x_max": 882,
         "y_max": 864
-      }
-    },
-    {
-      "id": "button_3",
-      "type": "Button",
-      "text": "button_mqdDi",
-      "bbox": {
-        "x_min": 1340,
-        "y_min": 218,
-        "x_max": 1536,
-        "y_max": 296
       }
     },
     {
@@ -65,10 +43,32 @@
       "type": "Entry",
       "text": "",
       "bbox": {
-        "x_min": 1340,
-        "y_min": 773,
-        "x_max": 1536,
+        "x_min": 882,
+        "y_min": 660,
+        "x_max": 969,
         "y_max": 864
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 969,
+        "y_min": 717,
+        "x_max": 1162,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "oXEIglvKd",
+      "bbox": {
+        "x_min": 1354,
+        "y_min": 451,
+        "x_max": 1536,
+        "y_max": 504
       }
     }
   ]

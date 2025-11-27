@@ -6,58 +6,80 @@
   },
   "widgets": [
     {
-      "id": "button_1",
-      "type": "Button",
-      "text": "button_QapNOq",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 365,
-        "x_max": 85,
-        "y_max": 447
-      }
-    },
-    {
       "id": "label_1",
       "type": "Label",
-      "text": "label_jtLXH",
+      "text": "OHrBGxHXPn",
       "bbox": {
-        "x_min": 631,
-        "y_min": 697,
-        "x_max": 815,
-        "y_max": 864
-      }
-    },
-    {
-      "id": "button_2",
-      "type": "Button",
-      "text": "button_JEPzExg",
-      "bbox": {
-        "x_min": 964,
-        "y_min": 0,
-        "x_max": 1153,
-        "y_max": 32
+        "x_min": 0,
+        "y_min": 150,
+        "x_max": 176,
+        "y_max": 211
       }
     },
     {
       "id": "label_2",
       "type": "Label",
-      "text": "label_jkjIcJyD",
+      "text": "OTgVQTaUoQ",
       "bbox": {
-        "x_min": 964,
-        "y_min": 32,
-        "x_max": 1153,
-        "y_max": 101
+        "x_min": 0,
+        "y_min": 211,
+        "x_max": 176,
+        "y_max": 269
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 491,
+        "x_max": 176,
+        "y_max": 580
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "MgLkrxQiayd",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 668,
+        "x_max": 176,
+        "y_max": 729
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "RvcSiu",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 729,
+        "x_max": 176,
+        "y_max": 864
       }
     },
     {
       "id": "button_3",
       "type": "Button",
-      "text": "button_hNdlFeT",
+      "text": "iLyoYDcoHBGKovY",
       "bbox": {
-        "x_min": 1278,
-        "y_min": 697,
-        "x_max": 1536,
+        "x_min": 1122,
+        "y_min": 729,
+        "x_max": 1240,
         "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "qtmQXmcMms",
+      "bbox": {
+        "x_min": 1240,
+        "y_min": 0,
+        "x_max": 1431,
+        "y_max": 52
       }
     }
   ]
