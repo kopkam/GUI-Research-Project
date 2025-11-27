@@ -6,111 +6,45 @@
   },
   "widgets": [
     {
-      "id": "entry_1",
-      "type": "Entry",
-      "text": "",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 87,
-        "x_max": 116,
-        "y_max": 119
-      }
-    },
-    {
-      "id": "entry_2",
-      "type": "Entry",
-      "text": "",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 431,
-        "x_max": 116,
-        "y_max": 473
-      }
-    },
-    {
       "id": "button_1",
       "type": "Button",
-      "text": "button_TaVmgNwFN",
+      "text": "NKBug",
       "bbox": {
         "x_min": 0,
-        "y_min": 669,
-        "x_max": 116,
-        "y_max": 737
-      }
-    },
-    {
-      "id": "entry_3",
-      "type": "Entry",
-      "text": "",
-      "bbox": {
-        "x_min": 230,
-        "y_min": 737,
-        "x_max": 478,
-        "y_max": 864
+        "y_min": 425,
+        "x_max": 123,
+        "y_max": 502
       }
     },
     {
       "id": "label_1",
       "type": "Label",
-      "text": "label_goJZPGhfE",
+      "text": "OCUnVVe",
       "bbox": {
-        "x_min": 1024,
+        "x_min": 241,
         "y_min": 0,
-        "x_max": 1155,
-        "y_max": 87
+        "x_max": 395,
+        "y_max": 43
       }
     },
     {
-      "id": "entry_4",
+      "id": "entry_1",
       "type": "Entry",
       "text": "",
       "bbox": {
-        "x_min": 1294,
-        "y_min": 232,
-        "x_max": 1536,
-        "y_max": 271
+        "x_min": 1070,
+        "y_min": 0,
+        "x_max": 1356,
+        "y_max": 43
       }
     },
     {
-      "id": "button_2",
-      "type": "Button",
-      "text": "button_PsgbLeZq",
+      "id": "label_2",
+      "type": "Label",
+      "text": "muBAGWYaqV",
       "bbox": {
-        "x_min": 1155,
-        "y_min": 271,
-        "x_max": 1536,
-        "y_max": 355
-      }
-    },
-    {
-      "id": "button_3",
-      "type": "Button",
-      "text": "button_JMrMhEZnEW",
-      "bbox": {
-        "x_min": 1294,
-        "y_min": 355,
-        "x_max": 1536,
-        "y_max": 431
-      }
-    },
-    {
-      "id": "button_4",
-      "type": "Button",
-      "text": "button_hAQaKxzNkF",
-      "bbox": {
-        "x_min": 1294,
-        "y_min": 431,
-        "x_max": 1536,
-        "y_max": 473
-      }
-    },
-    {
-      "id": "entry_5",
-      "type": "Entry",
-      "text": "",
-      "bbox": {
-        "x_min": 1294,
-        "y_min": 737,
+        "x_min": 1356,
+        "y_min": 687,
         "x_max": 1536,
         "y_max": 864
       }

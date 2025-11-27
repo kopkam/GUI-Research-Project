@@ -8,56 +8,34 @@
     {
       "id": "label_1",
       "type": "Label",
-      "text": "label_JxFJmHfU",
+      "text": "qdXAeQXdZkcRaU",
       "bbox": {
         "x_min": 0,
-        "y_min": 385,
-        "x_max": 128,
-        "y_max": 477
-      }
-    },
-    {
-      "id": "button_1",
-      "type": "Button",
-      "text": "button_XMRqJpU",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 589,
-        "x_max": 128,
-        "y_max": 714
-      }
-    },
-    {
-      "id": "button_2",
-      "type": "Button",
-      "text": "button_jfwcbfeL",
-      "bbox": {
-        "x_min": 128,
-        "y_min": 0,
-        "x_max": 277,
-        "y_max": 42
-      }
-    },
-    {
-      "id": "button_3",
-      "type": "Button",
-      "text": "button_KOzMwtp",
-      "bbox": {
-        "x_min": 128,
-        "y_min": 589,
-        "x_max": 277,
-        "y_max": 714
+        "y_min": 598,
+        "x_max": 108,
+        "y_max": 656
       }
     },
     {
       "id": "label_2",
       "type": "Label",
-      "text": "label_xpXes",
+      "text": "rEjYaOqAp",
       "bbox": {
-        "x_min": 646,
-        "y_min": 804,
-        "x_max": 884,
+        "x_min": 555,
+        "y_min": 770,
+        "x_max": 753,
         "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "jtRnXkWwTzajzlx",
+      "bbox": {
+        "x_min": 753,
+        "y_min": 0,
+        "x_max": 990,
+        "y_max": 54
       }
     },
     {
@@ -65,10 +43,43 @@
       "type": "Entry",
       "text": "",
       "bbox": {
-        "x_min": 1351,
-        "y_min": 477,
+        "x_min": 1103,
+        "y_min": 770,
+        "x_max": 1213,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "xZvMqryA",
+      "bbox": {
+        "x_min": 1350,
+        "y_min": 273,
         "x_max": 1536,
-        "y_max": 549
+        "y_max": 328
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "NeErEWzCj",
+      "bbox": {
+        "x_min": 1350,
+        "y_min": 328,
+        "x_max": 1536,
+        "y_max": 466
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "aiSpcJHmD",
+      "bbox": {
+        "x_min": 1350,
+        "y_min": 656,
+        "x_max": 1536,
+        "y_max": 704
       }
     }
   ]
