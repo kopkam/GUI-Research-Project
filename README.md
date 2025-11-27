@@ -4,9 +4,10 @@ An AI-powered system for detecting and classifying GUI widgets (Buttons, Labels,
 
 ## 🎉 Status: Model Trained & Ready!
 
-✓ Model trained with **98.07% mAP@50**  
+✓ Model trained with **96.31% mAP@50** (clean data, no text leakage)  
 ✓ Detects Buttons, Labels, and Entry fields  
 ✓ Fast inference (~23ms per image on CPU)  
+✓ High precision (96.17%) - few false positives  
 ✓ 100 annotated training examples  
 
 ## 📋 Project Overview
@@ -56,10 +57,10 @@ python train_model.py
 
 | Metric | Score |
 |--------|-------|
-| mAP@50 | 98.07% |
-| mAP@50-95 | 90.82% |
-| Precision | 93.43% |
-| Recall | 96.33% |
+| mAP@50 | 96.31% |
+| mAP@50-95 | 88.28% |
+| Precision | 96.17% |
+| Recall | 90.68% |
 
 See [TRAINING_RESULTS.md](TRAINING_RESULTS.md) for detailed results.
 
@@ -99,9 +100,9 @@ GUI-Research-Project/
 
 ## 🎯 Detected Widget Types
 
-- **Button** 🔴 - Interactive buttons (93.2% precision, 98.6% recall)
-- **Label** 🟢 - Text labels (94.5% precision, 90.4% recall)
-- **Entry** 🔵 - Input fields (92.6% precision, 100% recall)
+- **Button** 🔴 - Interactive buttons (97.3% precision, 96.7% recall)
+- **Label** 🟢 - Text labels (93.5% precision, 75.4% recall)
+- **Entry** 🔵 - Input fields (97.7% precision, 100% recall)
 
 ## 📈 Training Details
 

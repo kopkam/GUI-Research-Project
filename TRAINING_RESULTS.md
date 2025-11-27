@@ -4,22 +4,22 @@
 
 ### Model Performance (on Validation Set)
 
+**Latest Model (bez prefixów text - CLEAN DATA):**
+
 | Metric | Score |
 |--------|-------|
-| **mAP@50** | **98.07%** |
-| **mAP@50-95** | **90.82%** |
-| **Precision** | **93.43%** |
-| **Recall** | **96.33%** |
+| **mAP@50** | **96.31%** |
+| **mAP@50-95** | **88.28%** |
+| **Precision** | **96.17%** |
+| **Recall** | **90.68%** |
 
 ### Per-Class Performance
 
 | Widget Type | Precision | Recall | mAP@50 | mAP@50-95 |
-|-------------|-----------|--------|--------|-----------|
-| **Button** | 93.2% | 98.6% | 98.8% | 93.3% |
-| **Label** | 94.5% | 90.4% | 96.1% | 83.1% |
-| **Entry** | 92.6% | 100% | 99.3% | 96.1% |
-
-## 🚀 What Was Done
+|-------------|-----------|--------|--------|-----------|  
+| **Button** | 97.3% | 96.7% | 98.0% | 89.6% |
+| **Label** | 93.5% | 75.4% | 91.4% | 81.9% |
+| **Entry** | 97.7% | 100% | 99.5% | 94.4% |## 🚀 What Was Done
 
 1. **Dataset Preparation**
    - Converted 100 JSON annotations to YOLO format
@@ -60,11 +60,20 @@
 
 ## 🎯 Model Strengths
 
-1. **High Accuracy**: 98% mAP@50 shows excellent detection capability
-2. **Perfect Entry Detection**: 100% recall on Entry fields
-3. **Fast Inference**: ~23ms per image on CPU
-4. **Lightweight**: Only 3M parameters, small model size (6.2MB)
-5. **Robust**: Good generalization to unseen GUI layouts
+1. **High Accuracy**: 96% mAP@50 shows excellent detection capability
+2. **Perfect Entry Detection**: 100% recall on Entry fields  
+3. **High Precision**: 96.2% precision - very few false positives
+4. **No Text Leakage**: Model learned actual visual features, not text patterns
+5. **Fast Inference**: ~23ms per image on CPU
+6. **Lightweight**: Only 3M parameters, small model size (5.9MB)
+7. **Robust**: Good generalization to real applications
+
+## ⚠️ Known Limitations
+
+- **Label Recall**: 75.4% recall for Labels (vs 100% for Entries)
+  - Labels are harder to distinguish without text hints
+  - May need more diverse training examples
+  - Consider adding more varied label styles in training data
 
 ## 📈 Training Progress
 

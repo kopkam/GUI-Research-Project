@@ -8,8 +8,8 @@ import cv2
 from pathlib import Path
 import os
 
-# Configuration
-MODEL_PATH = "gui_widget_detection/yolov8_training/weights/best.pt"  # Path to trained model
+# Configuration  
+MODEL_PATH = "gui_widget_detection/yolov8_training2/weights/best.pt"  # Path to trained model (LATEST - no text prefixes)
 TEST_IMAGES_DIR = "screenshots"  # Directory with test images
 OUTPUT_DIR = "test_results"  # Where to save results
 CONFIDENCE_THRESHOLD = 0.25  # Minimum confidence for detections

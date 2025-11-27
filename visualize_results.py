@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 import numpy as np
 
-MODEL_PATH = "gui_widget_detection/yolov8_training/weights/best.pt"
+MODEL_PATH = "gui_widget_detection/yolov8_training2/weights/best.pt"  # Latest model without text prefixes
 CONFIDENCE_THRESHOLD = 0.3
 
 
