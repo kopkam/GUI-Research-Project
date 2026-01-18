@@ -1,0 +1,85 @@
+{
+  "image": "screenshots/screenshot_157.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "memGAO",
+      "color": "#daafaf",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 176,
+        "y_max": 38
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 369,
+        "y_min": 0,
+        "x_max": 1299,
+        "y_max": 344
+      },
+      "structure": {
+        "rows": 5,
+        "cols": 4,
+        "headers": [
+          "QPmTEfw",
+          "HBb",
+          "noLO",
+          "HMd"
+        ],
+        "data": [
+          [
+            "YEpP",
+            "ESrAfpJpKuvr",
+            "JaNolVC",
+            "hjUjsAXIJDlz"
+          ],
+          [
+            "YjNh",
+            "VAJushwFYPiT",
+            "aPXAl",
+            "fTiPlSgFu"
+          ],
+          [
+            "pmneGWAuQCC",
+            "PlrbrvjLMeG",
+            "IlFFm",
+            "HNvq"
+          ],
+          [
+            "qeLwRqbmt",
+            "vlM",
+            "RTCoRmATKHtY",
+            "rfpa"
+          ],
+          [
+            "AvKtXpXO",
+            "lGtIncRrlytB",
+            "elec",
+            "RKZVYWwJ"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "zKGOLBf",
+      "color": "#daafaf",
+      "bbox": {
+        "x_min": 1299,
+        "y_min": 129,
+        "x_max": 1536,
+        "y_max": 169
+      }
+    }
+  ]
+}

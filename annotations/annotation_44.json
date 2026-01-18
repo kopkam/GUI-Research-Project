@@ -8,100 +8,37 @@
     {
       "id": "label_1",
       "type": "Label",
-      "text": "zswxI",
+      "text": "hKRunzA",
+      "color": "#b0cfb0",
       "bbox": {
         "x_min": 0,
-        "y_min": 457,
-        "x_max": 182,
-        "y_max": 493
+        "y_min": 700,
+        "x_max": 123,
+        "y_max": 785
       }
     },
     {
       "id": "label_2",
       "type": "Label",
-      "text": "pxiyVL",
+      "text": "cYavOyYMPxUED",
+      "color": "#b0cfb0",
       "bbox": {
-        "x_min": 911,
-        "y_min": 0,
-        "x_max": 1105,
-        "y_max": 36
-      }
-    },
-    {
-      "id": "button_1",
-      "type": "Button",
-      "text": "gVKTSKmiEEDe",
-      "bbox": {
-        "x_min": 911,
-        "y_min": 36,
-        "x_max": 1105,
-        "y_max": 106
-      }
-    },
-    {
-      "id": "button_2",
-      "type": "Button",
-      "text": "HWerIcgwahgmazd",
-      "bbox": {
-        "x_min": 1105,
-        "y_min": 0,
-        "x_max": 1263,
-        "y_max": 36
+        "x_min": 123,
+        "y_min": 700,
+        "x_max": 306,
+        "y_max": 785
       }
     },
     {
       "id": "label_3",
       "type": "Label",
-      "text": "CVJnvsFd",
+      "text": "jKqzwVoM",
+      "color": "#b0cfb0",
       "bbox": {
-        "x_min": 1105,
-        "y_min": 36,
-        "x_max": 1263,
-        "y_max": 106
-      }
-    },
-    {
-      "id": "button_3",
-      "type": "Button",
-      "text": "iPGxTSYdO",
-      "bbox": {
-        "x_min": 1263,
-        "y_min": 36,
-        "x_max": 1536,
-        "y_max": 106
-      }
-    },
-    {
-      "id": "label_4",
-      "type": "Label",
-      "text": "bEiIZoJpz",
-      "bbox": {
-        "x_min": 1263,
-        "y_min": 317,
-        "x_max": 1536,
-        "y_max": 405
-      }
-    },
-    {
-      "id": "button_4",
-      "type": "Button",
-      "text": "USaAZFjh",
-      "bbox": {
-        "x_min": 1263,
-        "y_min": 493,
-        "x_max": 1536,
-        "y_max": 582
-      }
-    },
-    {
-      "id": "button_5",
-      "type": "Button",
-      "text": "ECKvYkhriRATE",
-      "bbox": {
-        "x_min": 1263,
-        "y_min": 582,
-        "x_max": 1536,
-        "y_max": 652
+        "x_min": 0,
+        "y_min": 785,
+        "x_max": 306,
+        "y_max": 864
       }
     }
   ]

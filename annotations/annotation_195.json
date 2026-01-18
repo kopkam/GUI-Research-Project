@@ -1,0 +1,111 @@
+{
+  "image": "screenshots/screenshot_195.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "RVaHSvsxEX",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 307,
+        "y_max": 32
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "CVvzvhxScS",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 501,
+        "y_min": 761,
+        "x_max": 670,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 670,
+        "y_min": 531,
+        "x_max": 1167,
+        "y_max": 761
+      },
+      "structure": {
+        "rows": 9,
+        "cols": 3,
+        "headers": [
+          "gPZznUh",
+          "cyd",
+          "Npeg"
+        ],
+        "data": [
+          [
+            "veehx",
+            "sFyru",
+            "pDZZC"
+          ],
+          [
+            "qIwlMyHnwkD",
+            "ADvWNjBbGxt",
+            "Hyg"
+          ],
+          [
+            "jrHisyWSzjN",
+            "UperbOy",
+            "vawDBK"
+          ],
+          [
+            "OXhdRXOhjY",
+            "LcmZveCohJYD",
+            "NTZuzfRXp"
+          ],
+          [
+            "ZyEoeUmtZXlA",
+            "EaxrwWEX",
+            "Uuz"
+          ],
+          [
+            "ODkoy",
+            "dFQEq",
+            "KjzcLwZ"
+          ],
+          [
+            "ZPyBv",
+            "GRdITYLnl",
+            "ievazKpa"
+          ],
+          [
+            "RtWYqWAZfuy",
+            "TWcU",
+            "eoOszHKL"
+          ],
+          [
+            "tAITZdZDD",
+            "fdcVsM",
+            "DYIlSaIHBvqp"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "ZrhgxsnYBHzYjk",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1167,
+        "y_min": 761,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

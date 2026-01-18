@@ -1,3 +1,11 @@
 Rozpoznawanie popularnych przyciskow? (z implementacja funkcji?) np. exit itp.
 
-Dodanie padding?
+Dodanie przycinania screenow (limit / stala liczba wierszy / kolumn komorek z grid?)
+
+Dodanie generowania gui na podstawie json
+
+obrazy w tle
+
+znieksztalcenia
+
+duze widgety / rozwijane listy
