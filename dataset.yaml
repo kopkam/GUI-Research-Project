@@ -10,6 +10,7 @@ names:
   0: Button
   1: Label
   2: Entry
+  3: Table
 
 # Number of classes
-nc: 3
+nc: 4

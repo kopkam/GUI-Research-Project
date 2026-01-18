@@ -9,7 +9,7 @@ from pathlib import Path
 import os
 
 # Configuration  
-MODEL_PATH = "gui_widget_detection/yolov8_training2/weights/best.pt"  # Path to trained model (LATEST - no text prefixes)
+MODEL_PATH = "gui_widget_detection/yolov8_training3/weights/best.pt"  # Path to trained model (200 samples, 4 classes)
 TEST_IMAGES_DIR = "screenshots"  # Directory with test images
 OUTPUT_DIR = "test_results"  # Where to save results
 CONFIDENCE_THRESHOLD = 0.25  # Minimum confidence for detections
@@ -122,8 +122,8 @@ def evaluate_on_validation():
         split="val",
         batch=16,
         imgsz=640,
-        plots=True,
-        save_json=True,
+        plots=False,  # Disable plots to avoid KeyError
+        save_json=False,
         project=OUTPUT_DIR,
         name="validation"
     )

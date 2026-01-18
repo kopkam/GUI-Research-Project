@@ -4,13 +4,14 @@ This project trains a YOLOv8 object detection model to identify GUI widgets (But
 
 ## Dataset
 
-- **Total Images**: 100 annotated screenshots
-- **Train Set**: 80 images
-- **Validation Set**: 20 images
+- **Total Images**: 200 annotated screenshots
+- **Train Set**: 160 images
+- **Validation Set**: 40 images
 - **Classes**: 
   - Button (class 0)
   - Label (class 1)
   - Entry (class 2)
+  - Table (class 3)
 
 ## Setup
 

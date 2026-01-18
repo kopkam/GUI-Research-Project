@@ -23,10 +23,11 @@ TRAIN_SPLIT = 0.8  # 80% train, 20% validation
 CLASS_MAPPING = {
     "Button": 0,
     "Label": 1,
-    "Entry": 2
+    "Entry": 2,
+    "Table": 3
 }
 
-CLASS_NAMES = ["Button", "Label", "Entry"]
+CLASS_NAMES = ["Button", "Label", "Entry", "Table"]
 
 
 def convert_bbox_to_yolo(bbox, img_width, img_height):

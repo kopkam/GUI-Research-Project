@@ -4,11 +4,11 @@ An AI-powered system for detecting and classifying GUI widgets (Buttons, Labels,
 
 ## 🎉 Status: Model Trained & Ready!
 
-✓ Model trained with **96.31% mAP@50** (clean data, no text leakage)  
-✓ Detects Buttons, Labels, and Entry fields  
-✓ Fast inference (~23ms per image on CPU)  
-✓ High precision (96.17%) - few false positives  
-✓ 100 annotated training examples  
+✓ Model trained with **97.84% mAP@50** (200 samples, 4 classes including Tables)  
+✓ Detects Buttons, Labels, Entry fields, and Tables  
+✓ Fast inference (~60ms per image on CPU)  
+✓ High precision (95.27%) - few false positives  
+✓ 200 annotated training examples  
 
 ## 📋 Project Overview
 
@@ -57,10 +57,10 @@ python train_model.py
 
 | Metric | Score |
 |--------|-------|
-| mAP@50 | 96.31% |
-| mAP@50-95 | 88.28% |
-| Precision | 96.17% |
-| Recall | 90.68% |
+| mAP@50 | 97.84% |
+| mAP@50-95 | 92.02% |
+| Precision | 95.27% |
+| Recall | 96.84% |
 
 See [TRAINING_RESULTS.md](TRAINING_RESULTS.md) for detailed results.
 
@@ -103,12 +103,13 @@ GUI-Research-Project/
 - **Button** 🔴 - Interactive buttons (97.3% precision, 96.7% recall)
 - **Label** 🟢 - Text labels (93.5% precision, 75.4% recall)
 - **Entry** 🔵 - Input fields (97.7% precision, 100% recall)
+- **Table** 🟡 - Data tables (NEW in expanded dataset)
 
 ## 📈 Training Details
 
 - **Model**: YOLOv8 Nano (3M parameters)
-- **Training Time**: ~34 minutes (100 epochs)
-- **Dataset**: 80 train / 20 validation images
+- **Training Time**: ~60 minutes (100 epochs)
+- **Dataset**: 160 train / 40 validation images (200 total)
 - **Augmentation**: HSV, rotation, scaling, flipping, mosaic
 - **Hardware**: Trained on CPU (Apple M4)
 

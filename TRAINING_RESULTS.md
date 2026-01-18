@@ -4,14 +4,14 @@
 
 ### Model Performance (on Validation Set)
 
-**Latest Model (bez prefixów text - CLEAN DATA):**
+**Latest Model (200 samples, 4 classes):**
 
 | Metric | Score |
 |--------|-------|
-| **mAP@50** | **96.31%** |
-| **mAP@50-95** | **88.28%** |
-| **Precision** | **96.17%** |
-| **Recall** | **90.68%** |
+| **mAP@50** | **97.84%** |
+| **mAP@50-95** | **92.02%** |
+| **Precision** | **95.27%** |
+| **Recall** | **96.84%** |
 
 ### Per-Class Performance
 
@@ -22,9 +22,9 @@
 | **Entry** | 97.7% | 100% | 99.5% | 94.4% |## 🚀 What Was Done
 
 1. **Dataset Preparation**
-   - Converted 100 JSON annotations to YOLO format
-   - Split: 80 training images, 20 validation images
-   - 3 widget classes: Button, Label, Entry
+   - Converted 200 JSON annotations to YOLO format
+   - Split: 160 training images, 40 validation images
+   - 4 widget classes: Button, Label, Entry, Table
 
 2. **Model Training**
    - Model: YOLOv8 Nano (lightweight, fast)
