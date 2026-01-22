@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Aligned Random GUI Generator</title>
+</head>
+<body>
+
+<div id="app"></div>
+
+<script>
+// ---------------------- Constants ----------------------
+const SCREEN_WIDTH = 1280;
+const SCREEN_HEIGHT = 800;
+
+const MIN_ROW_HEIGHT = 50;
+const MAX_ROW_HEIGHT = 300;
+
+const MIN_COL_WIDTH = 50;
+const MAX_COL_WIDTH = 700;
+
+const WIDGET_TYPES = ["button", "input", "label", "checkbox"];
+
+// ---------------------- Utility ----------------------
+function rand(min, max) { return Math.floor(Math.random() * (max - min)) + min; }
+function choice(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+
+// ---------------------- State ----------------------
+let GUI_STATE = {
+    screen: { width: SCREEN_WIDTH, height: SCREEN_HEIGHT },
+    containers: []
+};
+
+let containerCounter = 0;
+let widgetCounter = 0;
+
+// ---------------------- Generate Layout ----------------------
+function generateGUI() {
+    const app = document.getElementById("app");
+    app.innerHTML = "";
+
+    // Generate row coordinates
+    let row_coords = [0];
+    while (true) {
+        const new_y = row_coords[row_coords.length - 1] + rand(MIN_ROW_HEIGHT, MAX_ROW_HEIGHT);
+        if (new_y >= SCREEN_HEIGHT) break;
+        row_coords.push(new_y);
+    }
+
+    // Generate column coordinates
+    let col_coords = [0];
+    while (true) {
+        const new_x = col_coords[col_coords.length - 1] + rand(MIN_COL_WIDTH, MAX_COL_WIDTH);
+        if (new_x >= SCREEN_WIDTH) break;
+        col_coords.push(new_x);
+    }
+
+    // Iterate over each grid cell
+    for (let r = 0; r < row_coords.length - 1; r++) {
+        const y1 = row_coords[r];
+        const y2 = row_coords[r + 1];
+
+        for (let c = 0; c < col_coords.length - 1; c++) {
+            const x1 = col_coords[c];
+            const x2 = col_coords[c + 1];
+
+            createContainer(x1, y1, x2 - x1, y2 - y1, app);
+        }
+    }
+}
+
+// ---------------------- Container ----------------------
+function createContainer(x, y, w, h, parent) {
+    const cid = "container_" + containerCounter++;
+    const containerDiv = document.createElement("div");
+    containerDiv.style.position = "absolute";
+    containerDiv.style.left = x + "px";
+    containerDiv.style.top = y + "px";
+    containerDiv.style.width = w + "px";
+    containerDiv.style.height = h + "px";
+
+    const containerJSON = {
+        id: cid,
+        x: x,
+        y: y,
+        width: w,
+        height: h,
+        widgets: []
+    };
+
+    populateContainer(containerDiv, containerJSON);
+
+    GUI_STATE.containers.push(containerJSON);
+    parent.appendChild(containerDiv);
+}
+
+// ---------------------- Widgets ----------------------
+function populateContainer(containerDiv, containerJSON) {
+    const numWidgets = rand(1, 4);
+    for (let i = 0; i < numWidgets; i++) {
+        const type = choice(WIDGET_TYPES);
+        const w = rand(50, 200);
+        const h = rand(25, 50);
+
+        const x = rand(0, containerJSON.width - w);
+        const y = rand(0, containerJSON.height - h);
+
+        const wid = "widget_" + widgetCounter++;
+        let el;
+
+        if (type === "button") {
+            el = document.createElement("button");
+            el.textContent = "Button";
+        } else if (type === "input") {
+            el = document.createElement("input");
+            el.placeholder = "Type here...";
+        } else if (type === "label") {
+            el = document.createElement("label");
+            el.textContent = "Label";
+        } else if (type === "checkbox") {
+            el = document.createElement("input");
+            el.type = "checkbox";
+        }
+
+        el.id = wid;
+        el.style.position = "absolute";
+        el.style.left = x + "px";
+        el.style.top = y + "px";
+        el.style.width = w + "px";
+        el.style.height = h + "px";
+
+        containerDiv.appendChild(el);
+
+        containerJSON.widgets.push({
+            id: wid,
+            type: type,
+            x: x,
+            y: y,
+            width: w,
+            height: h
+        });
+    }
+}
+
+// ---------------------- JSON Export ----------------------
+function exportJSON() {
+    const blob = new Blob([JSON.stringify(GUI_STATE, null, 2)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "gui_annotation.json";
+    a.click();
+}
+
+// ---------------------- Generate GUI ----------------------
+generateGUI();
+exportJSON(); // Automatically download JSON
+</script>
+</body>
+</html>
