@@ -2,158 +2,231 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Aligned Random GUI Generator</title>
+<title>App-like Random GUI Generator</title>
 </head>
+
 <body>
 
 <div id="app"></div>
 
 <script>
-// ---------------------- Constants ----------------------
-const SCREEN_WIDTH = 1280;
+// ---------------- Constants ----------------
+const SCREEN_WIDTH = 1200;
 const SCREEN_HEIGHT = 800;
 
-const MIN_ROW_HEIGHT = 50;
-const MAX_ROW_HEIGHT = 300;
-
-const MIN_COL_WIDTH = 50;
-const MAX_COL_WIDTH = 700;
+const HEADER_HEIGHT = 80;
+const SIDEBAR_WIDTH = 200;
+const PADDING = 10;
 
 const WIDGET_TYPES = ["button", "input", "label", "checkbox"];
 
-// ---------------------- Utility ----------------------
-function rand(min, max) { return Math.floor(Math.random() * (max - min)) + min; }
-function choice(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+// ---------------- Utility ----------------
+function rand(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
 
-// ---------------------- State ----------------------
+function choice(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+// ---------------- State ----------------
 let GUI_STATE = {
-    screen: { width: SCREEN_WIDTH, height: SCREEN_HEIGHT },
-    containers: []
+  screen: { width: SCREEN_WIDTH, height: SCREEN_HEIGHT },
+  containers: []
 };
 
-let containerCounter = 0;
 let widgetCounter = 0;
 
-// ---------------------- Generate Layout ----------------------
+// ---------------- Main ----------------
 function generateGUI() {
-    const app = document.getElementById("app");
-    app.innerHTML = "";
+  const app = document.getElementById("app");
+  app.innerHTML = "";
+  app.style.position = "relative";
+  app.style.width = SCREEN_WIDTH + "px";
+  app.style.height = SCREEN_HEIGHT + "px";
+  app.style.border = "2px solid black";
 
-    // Generate row coordinates
-    let row_coords = [0];
-    while (true) {
-        const new_y = row_coords[row_coords.length - 1] + rand(MIN_ROW_HEIGHT, MAX_ROW_HEIGHT);
-        if (new_y >= SCREEN_HEIGHT) break;
-        row_coords.push(new_y);
-    }
+  createHeader(app);
+  createSidebar(app);
+  createMainContent(app);
 
-    // Generate column coordinates
-    let col_coords = [0];
-    while (true) {
-        const new_x = col_coords[col_coords.length - 1] + rand(MIN_COL_WIDTH, MAX_COL_WIDTH);
-        if (new_x >= SCREEN_WIDTH) break;
-        col_coords.push(new_x);
-    }
-
-    // Iterate over each grid cell
-    for (let r = 0; r < row_coords.length - 1; r++) {
-        const y1 = row_coords[r];
-        const y2 = row_coords[r + 1];
-
-        for (let c = 0; c < col_coords.length - 1; c++) {
-            const x1 = col_coords[c];
-            const x2 = col_coords[c + 1];
-
-            createContainer(x1, y1, x2 - x1, y2 - y1, app);
-        }
-    }
+  exportJSON();
 }
 
-// ---------------------- Container ----------------------
-function createContainer(x, y, w, h, parent) {
-    const cid = "container_" + containerCounter++;
-    const containerDiv = document.createElement("div");
-    containerDiv.style.position = "absolute";
-    containerDiv.style.left = x + "px";
-    containerDiv.style.top = y + "px";
-    containerDiv.style.width = w + "px";
-    containerDiv.style.height = h + "px";
-
-    const containerJSON = {
-        id: cid,
-        x: x,
-        y: y,
-        width: w,
-        height: h,
-        widgets: []
-    };
-
-    populateContainer(containerDiv, containerJSON);
-
-    GUI_STATE.containers.push(containerJSON);
-    parent.appendChild(containerDiv);
+// ---------------- Header ----------------
+function createHeader(parent) {
+  const div = createContainer("header", 0, 0, SCREEN_WIDTH, HEADER_HEIGHT, parent);
+  generateHorizontalWidgets(div, "header");
 }
 
-// ---------------------- Widgets ----------------------
-function populateContainer(containerDiv, containerJSON) {
-    const numWidgets = rand(1, 4);
-    for (let i = 0; i < numWidgets; i++) {
-        const type = choice(WIDGET_TYPES);
-        const w = rand(50, 200);
-        const h = rand(25, 50);
+// ---------------- Sidebar ----------------
+function createSidebar(parent) {
+  const div = createContainer(
+    "sidebar",
+    0,
+    HEADER_HEIGHT,
+    SIDEBAR_WIDTH,
+    SCREEN_HEIGHT - HEADER_HEIGHT,
+    parent
+  );
+  generateVerticalWidgets(div, "sidebar");
+}
 
-        const x = rand(0, containerJSON.width - w);
-        const y = rand(0, containerJSON.height - h);
+// ---------------- Main Content ----------------
+function createMainContent(parent) {
+  const div = createContainer(
+    "main",
+    SIDEBAR_WIDTH,
+    HEADER_HEIGHT,
+    SCREEN_WIDTH - SIDEBAR_WIDTH,
+    SCREEN_HEIGHT - HEADER_HEIGHT,
+    parent
+  );
 
-        const wid = "widget_" + widgetCounter++;
-        let el;
+  const layout = choice(["form", "grid"]);
+  if (layout === "form") generateFormWidgets(div, "main");
+  else generateGridWidgets(div, "main");
+}
 
-        if (type === "button") {
-            el = document.createElement("button");
-            el.textContent = "Button";
-        } else if (type === "input") {
-            el = document.createElement("input");
-            el.placeholder = "Type here...";
-        } else if (type === "label") {
-            el = document.createElement("label");
-            el.textContent = "Label";
-        } else if (type === "checkbox") {
-            el = document.createElement("input");
-            el.type = "checkbox";
-        }
+// ---------------- Container Factory ----------------
+function createContainer(id, x, y, w, h, parent) {
+  const div = document.createElement("div");
+  div.style.position = "absolute";
+  div.style.left = x + "px";
+  div.style.top = y + "px";
+  div.style.width = w + "px";
+  div.style.height = h + "px";
+  div.style.border = "1px solid gray";
 
-        el.id = wid;
-        el.style.position = "absolute";
-        el.style.left = x + "px";
-        el.style.top = y + "px";
-        el.style.width = w + "px";
-        el.style.height = h + "px";
+  parent.appendChild(div);
 
-        containerDiv.appendChild(el);
+  GUI_STATE.containers.push({
+    id: id,
+    x: x,
+    y: y,
+    width: w,
+    height: h,
+    widgets: []
+  });
 
-        containerJSON.widgets.push({
-            id: wid,
-            type: type,
-            x: x,
-            y: y,
-            width: w,
-            height: h
-        });
+  return div;
+}
+
+// ---------------- Layout Generators ----------------
+function generateHorizontalWidgets(container, cid) {
+  let x = PADDING;
+  let y = PADDING;
+  const h = HEADER_HEIGHT - 2 * PADDING;
+
+  const count = rand(3, 6);
+
+  for (let i = 0; i < count; i++) {
+    const w = 100;
+    createWidget(container, cid, x, y, w, h);
+    x += w + PADDING;
+  }
+}
+
+function generateVerticalWidgets(container, cid) {
+  let x = PADDING;
+  let y = PADDING;
+  const w = SIDEBAR_WIDTH - 2 * PADDING;
+
+  const count = rand(4, 8);
+
+  for (let i = 0; i < count; i++) {
+    const h = 35;
+    createWidget(container, cid, x, y, w, h);
+    y += h + PADDING;
+  }
+}
+
+function generateFormWidgets(container, cid) {
+  let x = PADDING;
+  let y = PADDING;
+  const w = container.clientWidth - 2 * PADDING;
+
+  const count = rand(4, 8);
+
+  for (let i = 0; i < count; i++) {
+    const h = 35;
+    createWidget(container, cid, x, y, w, h);
+    y += h + PADDING;
+  }
+}
+
+function generateGridWidgets(container, cid) {
+  const cols = 3;
+  const rows = 3;
+
+  const cellW = (container.clientWidth - (cols + 1) * PADDING) / cols;
+  const cellH = (container.clientHeight - (rows + 1) * PADDING) / rows;
+
+  let idx = 0;
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      if (idx >= 6) return;
+
+      const x = PADDING + c * (cellW + PADDING);
+      const y = PADDING + r * (cellH + PADDING);
+
+      createWidget(container, cid, x, y, cellW, cellH);
+      idx++;
     }
+  }
 }
 
-// ---------------------- JSON Export ----------------------
+// ---------------- Widget Factory ----------------
+function createWidget(container, cid, x, y, w, h) {
+  const type = choice(WIDGET_TYPES);
+  const wid = "widget_" + widgetCounter++;
+
+  let el;
+  if (type === "button") {
+    el = document.createElement("button");
+    el.textContent = "Button";
+  } else if (type === "input") {
+    el = document.createElement("input");
+    el.placeholder = "Input";
+  } else if (type === "label") {
+    el = document.createElement("label");
+    el.textContent = "Label";
+  } else if (type === "checkbox") {
+    el = document.createElement("input");
+    el.type = "checkbox";
+  }
+
+  el.style.position = "absolute";
+  el.style.left = x + "px";
+  el.style.top = y + "px";
+  el.style.width = w + "px";
+  el.style.height = h + "px";
+
+  container.appendChild(el);
+
+  const containerJSON = GUI_STATE.containers.find(c => c.id === cid);
+  containerJSON.widgets.push({
+    id: wid,
+    type: type,
+    x: x,
+    y: y,
+    width: w,
+    height: h
+  });
+}
+
+// ---------------- JSON Export ----------------
 function exportJSON() {
-    const blob = new Blob([JSON.stringify(GUI_STATE, null, 2)], { type: "application/json" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = "gui_annotation.json";
-    a.click();
+  const blob = new Blob([JSON.stringify(GUI_STATE, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "gui_annotation.json";
+  a.click();
 }
 
-// ---------------------- Generate GUI ----------------------
+// ---------------- Run ----------------
 generateGUI();
-exportJSON(); // Automatically download JSON
 </script>
+
 </body>
 </html>
