@@ -1,0 +1,117 @@
+{
+  "image": "screenshots/screenshot_153.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "OVHYA",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 291,
+        "x_max": 172,
+        "y_max": 358
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#a2698c",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 395,
+        "x_max": 172,
+        "y_max": 452
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "BwqkkMkTfGAo",
+      "color": "#a2698c",
+      "bbox": {
+        "x_min": 365,
+        "y_min": 758,
+        "x_max": 478,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "nIdfOwpcwQVWTYw",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 736,
+        "y_min": 758,
+        "x_max": 861,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "qGmcCvFPKAfe",
+      "color": "#a2698c",
+      "bbox": {
+        "x_min": 1362,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 127
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "UjiVeabcYsF",
+      "color": "#a2698c",
+      "bbox": {
+        "x_min": 1362,
+        "y_min": 358,
+        "x_max": 1536,
+        "y_max": 395
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "otyhJE",
+      "color": "#a2698c",
+      "bbox": {
+        "x_min": 1362,
+        "y_min": 452,
+        "x_max": 1536,
+        "y_max": 492
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "KQZuFnX",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1362,
+        "y_min": 492,
+        "x_max": 1536,
+        "y_max": 554
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "gsCcWYsfMNMr",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1362,
+        "y_min": 758,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

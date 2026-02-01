@@ -1,0 +1,39 @@
+{
+  "source_image": "real_padded_screenshots/yt_1.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Video",
+      "bbox": [
+        539,
+        318,
+        1345,
+        765
+      ],
+      "confidence": 0.736194908618927,
+      "text": "Be One",
+      "center_x": 942.0,
+      "center_y": 541.5,
+      "width": 806,
+      "height": 447
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        900,
+        474,
+        988,
+        538
+      ],
+      "confidence": 0.35522595047950745,
+      "text": "",
+      "center_x": 944.0,
+      "center_y": 506.0,
+      "width": 88,
+      "height": 64
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "source_image": "real_padded_screenshots/excel.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1288,
+        558,
+        1575,
+        651
+      ],
+      "confidence": 0.9427762627601624,
+      "text": "How to Become a Data Analyst in 2026: 5 Steps to Start Your Career",
+      "center_x": 1431.5,
+      "center_y": 604.5,
+      "width": 287,
+      "height": 93
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1286,
+        397,
+        1420,
+        498
+      ],
+      "confidence": 0.8419846296310425,
+      "text": "How to Learn R 2026: An Expert",
+      "center_x": 1353.0,
+      "center_y": 447.5,
+      "width": 134,
+      "height": 101
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        766,
+        670,
+        1186,
+        781
+      ],
+      "confidence": 0.7897932529449463,
+      "text": "function to find specific employee's name",
+      "center_x": 976.0,
+      "center_y": 725.5,
+      "width": 420,
+      "height": 111
+    },
+    {
+      "widget_type": "Table",
+      "bbox": [
+        378,
+        437,
+        1156,
+        713
+      ],
+      "confidence": 0.7669988870620728,
+      "text": "Employee ID First Name Last Name Department Salary Salary Increment Status 101 Tom French Marketing 55,ooo Increment 102 Jenny Brown 75,000 No Increment 103 Raven William HR 48,000 Increment 104 Mary Johnson Finance 65,000 No Increment 105 Robin James Marketing 60,000 No Increment Learning to use the IFO function in Excel. Image by Author",
+      "center_x": 767.0,
+      "center_y": 575.0,
+      "width": 778,
+      "height": 276
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1286,
+        713,
+        1548,
+        818
+      ],
+      "confidence": 0.7400858402252197,
+      "text": "How to Clean Data in Excel: A Beginner's Guide",
+      "center_x": 1417.0,
+      "center_y": 765.5,
+      "width": 262,
+      "height": 105
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1288,
+        268,
+        1419,
+        340
+      ],
+      "confidence": 0.6350551843643188,
+      "text": "Resources",
+      "center_x": 1353.5,
+      "center_y": 304.0,
+      "width": 131,
+      "height": 72
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1412,
+        385,
+        1555,
+        503
+      ],
+      "confidence": 0.5214605927467346,
+      "text": "R From Scratch in Guide",
+      "center_x": 1483.5,
+      "center_y": 444.0,
+      "width": 143,
+      "height": 118
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1291,
+        649,
+        1416,
+        733
+      ],
+      "confidence": 0.4801563024520874,
+      "text": "",
+      "center_x": 1353.5,
+      "center_y": 691.0,
+      "width": 125,
+      "height": 84
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1413,
+        378,
+        1638,
+        507
+      ],
+      "confidence": 0.4069300889968872,
+      "text": "R From Scratch in rt Guide",
+      "center_x": 1525.5,
+      "center_y": 442.5,
+      "width": 225,
+      "height": 129
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        323,
+        699,
+        575,
+        787
+      ],
+      "confidence": 0.3496437966823578,
+      "text": "In this second example; based on their ID number.",
+      "center_x": 449.0,
+      "center_y": 743.0,
+      "width": 252,
+      "height": 88
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1286,
+        731,
+        1434,
+        815
+      ],
+      "confidence": 0.26685139536857605,
+      "text": "How to Clean Dat Beginner's Guide",
+      "center_x": 1360.0,
+      "center_y": 773.0,
+      "width": 148,
+      "height": 84
+    }
+  ]
+}

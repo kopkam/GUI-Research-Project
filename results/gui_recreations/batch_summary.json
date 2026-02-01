@@ -1,0 +1,210 @@
+[
+  {
+    "screenshot": "awwwards.png",
+    "num_widgets": 24,
+    "widgets_with_text": 23,
+    "num_rows": 3,
+    "json_output": "gui_recreations/awwwards_analysis.json",
+    "html_output": "gui_recreations/awwwards_recreation.html"
+  },
+  {
+    "screenshot": "calculator.png",
+    "num_widgets": 45,
+    "widgets_with_text": 11,
+    "num_rows": 8,
+    "json_output": "gui_recreations/calculator_analysis.json",
+    "html_output": "gui_recreations/calculator_recreation.html"
+  },
+  {
+    "screenshot": "calculator_light.png",
+    "num_widgets": 53,
+    "widgets_with_text": 16,
+    "num_rows": 10,
+    "json_output": "gui_recreations/calculator_light_analysis.json",
+    "html_output": "gui_recreations/calculator_light_recreation.html"
+  },
+  {
+    "screenshot": "currency_1.png",
+    "num_widgets": 23,
+    "widgets_with_text": 21,
+    "num_rows": 9,
+    "json_output": "gui_recreations/currency_1_analysis.json",
+    "html_output": "gui_recreations/currency_1_recreation.html"
+  },
+  {
+    "screenshot": "currency_2.png",
+    "num_widgets": 19,
+    "widgets_with_text": 17,
+    "num_rows": 4,
+    "json_output": "gui_recreations/currency_2_analysis.json",
+    "html_output": "gui_recreations/currency_2_recreation.html"
+  },
+  {
+    "screenshot": "currency_3.png",
+    "num_widgets": 19,
+    "widgets_with_text": 17,
+    "num_rows": 7,
+    "json_output": "gui_recreations/currency_3_analysis.json",
+    "html_output": "gui_recreations/currency_3_recreation.html"
+  },
+  {
+    "screenshot": "currency_4.png",
+    "num_widgets": 65,
+    "widgets_with_text": 8,
+    "num_rows": 14,
+    "json_output": "gui_recreations/currency_4_analysis.json",
+    "html_output": "gui_recreations/currency_4_recreation.html"
+  },
+  {
+    "screenshot": "excel.png",
+    "num_widgets": 11,
+    "widgets_with_text": 10,
+    "num_rows": 6,
+    "json_output": "gui_recreations/excel_analysis.json",
+    "html_output": "gui_recreations/excel_recreation.html"
+  },
+  {
+    "screenshot": "excel_1.png",
+    "num_widgets": 11,
+    "widgets_with_text": 4,
+    "num_rows": 8,
+    "json_output": "gui_recreations/excel_1_analysis.json",
+    "html_output": "gui_recreations/excel_1_recreation.html"
+  },
+  {
+    "screenshot": "geogebra.png",
+    "num_widgets": 12,
+    "widgets_with_text": 11,
+    "num_rows": 6,
+    "json_output": "gui_recreations/geogebra_analysis.json",
+    "html_output": "gui_recreations/geogebra_recreation.html"
+  },
+  {
+    "screenshot": "geogebra_empty.png",
+    "num_widgets": 32,
+    "widgets_with_text": 15,
+    "num_rows": 8,
+    "json_output": "gui_recreations/geogebra_empty_analysis.json",
+    "html_output": "gui_recreations/geogebra_empty_recreation.html"
+  },
+  {
+    "screenshot": "geogebra_plot.png",
+    "num_widgets": 24,
+    "widgets_with_text": 13,
+    "num_rows": 10,
+    "json_output": "gui_recreations/geogebra_plot_analysis.json",
+    "html_output": "gui_recreations/geogebra_plot_recreation.html"
+  },
+  {
+    "screenshot": "geogebra_plot_2.png",
+    "num_widgets": 16,
+    "widgets_with_text": 4,
+    "num_rows": 7,
+    "json_output": "gui_recreations/geogebra_plot_2_analysis.json",
+    "html_output": "gui_recreations/geogebra_plot_2_recreation.html"
+  },
+  {
+    "screenshot": "investing_1.png",
+    "num_widgets": 17,
+    "widgets_with_text": 17,
+    "num_rows": 7,
+    "json_output": "gui_recreations/investing_1_analysis.json",
+    "html_output": "gui_recreations/investing_1_recreation.html"
+  },
+  {
+    "screenshot": "investing_2.png",
+    "num_widgets": 9,
+    "widgets_with_text": 8,
+    "num_rows": 6,
+    "json_output": "gui_recreations/investing_2_analysis.json",
+    "html_output": "gui_recreations/investing_2_recreation.html"
+  },
+  {
+    "screenshot": "investing_3.png",
+    "num_widgets": 12,
+    "widgets_with_text": 12,
+    "num_rows": 8,
+    "json_output": "gui_recreations/investing_3_analysis.json",
+    "html_output": "gui_recreations/investing_3_recreation.html"
+  },
+  {
+    "screenshot": "investing_portfolio.png",
+    "num_widgets": 9,
+    "widgets_with_text": 8,
+    "num_rows": 4,
+    "json_output": "gui_recreations/investing_portfolio_analysis.json",
+    "html_output": "gui_recreations/investing_portfolio_recreation.html"
+  },
+  {
+    "screenshot": "kaggle_1.png",
+    "num_widgets": 7,
+    "widgets_with_text": 7,
+    "num_rows": 6,
+    "json_output": "gui_recreations/kaggle_1_analysis.json",
+    "html_output": "gui_recreations/kaggle_1_recreation.html"
+  },
+  {
+    "screenshot": "nosts.png",
+    "num_widgets": 0,
+    "widgets_with_text": 0,
+    "num_rows": 0,
+    "json_output": "gui_recreations/nosts_analysis.json",
+    "html_output": "gui_recreations/nosts_recreation.html"
+  },
+  {
+    "screenshot": "paint_1.png",
+    "num_widgets": 5,
+    "widgets_with_text": 5,
+    "num_rows": 4,
+    "json_output": "gui_recreations/paint_1_analysis.json",
+    "html_output": "gui_recreations/paint_1_recreation.html"
+  },
+  {
+    "screenshot": "putty.png",
+    "num_widgets": 13,
+    "widgets_with_text": 13,
+    "num_rows": 7,
+    "json_output": "gui_recreations/putty_analysis.json",
+    "html_output": "gui_recreations/putty_recreation.html"
+  },
+  {
+    "screenshot": "reaper.png",
+    "num_widgets": 9,
+    "widgets_with_text": 8,
+    "num_rows": 6,
+    "json_output": "gui_recreations/reaper_analysis.json",
+    "html_output": "gui_recreations/reaper_recreation.html"
+  },
+  {
+    "screenshot": "winscp.png",
+    "num_widgets": 11,
+    "widgets_with_text": 10,
+    "num_rows": 4,
+    "json_output": "gui_recreations/winscp_analysis.json",
+    "html_output": "gui_recreations/winscp_recreation.html"
+  },
+  {
+    "screenshot": "wireshark.png",
+    "num_widgets": 5,
+    "widgets_with_text": 5,
+    "num_rows": 3,
+    "json_output": "gui_recreations/wireshark_analysis.json",
+    "html_output": "gui_recreations/wireshark_recreation.html"
+  },
+  {
+    "screenshot": "youtube.png",
+    "num_widgets": 3,
+    "widgets_with_text": 3,
+    "num_rows": 3,
+    "json_output": "gui_recreations/youtube_analysis.json",
+    "html_output": "gui_recreations/youtube_recreation.html"
+  },
+  {
+    "screenshot": "yt_1.png",
+    "num_widgets": 2,
+    "widgets_with_text": 1,
+    "num_rows": 2,
+    "json_output": "gui_recreations/yt_1_analysis.json",
+    "html_output": "gui_recreations/yt_1_recreation.html"
+  }
+]

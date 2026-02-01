@@ -1,0 +1,115 @@
+{
+  "image": "screenshots/screenshot_107.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "hTwZpTkxzDQCu",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 169,
+        "x_max": 91,
+        "y_max": 230
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "ycyuzQbaDrMZV",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 396,
+        "x_max": 91,
+        "y_max": 527
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "LCWrmIufmIZbqkX",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 527,
+        "x_max": 91,
+        "y_max": 612
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "suBmbEsg",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 91,
+        "y_min": 396,
+        "x_max": 224,
+        "y_max": 439
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "TlFegNGHSSX",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 380,
+        "y_min": 737,
+        "x_max": 510,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "PldgcokfmURdB",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 780,
+        "y_min": 0,
+        "x_max": 948,
+        "y_max": 37
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "lbPtTE",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 948,
+        "y_min": 0,
+        "x_max": 1031,
+        "y_max": 37
+      }
+    },
+    {
+      "id": "plot",
+      "type": "Plot",
+      "bbox": {
+        "x_min": 948,
+        "y_min": 527,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "VNgte",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1031,
+        "y_min": 0,
+        "x_max": 1167,
+        "y_max": 37
+      }
+    }
+  ]
+}

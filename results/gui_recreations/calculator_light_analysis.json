@@ -1,0 +1,804 @@
+{
+  "source_image": "real_padded_screenshots/calculator_light.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        913,
+        500,
+        1215,
+        580
+      ],
+      "confidence": 0.9773550629615784,
+      "text": "",
+      "center_x": 1064.0,
+      "center_y": 540.0,
+      "width": 302,
+      "height": 80
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1215,
+        650,
+        1516,
+        727
+      ],
+      "confidence": 0.9766735434532166,
+      "text": "",
+      "center_x": 1365.5,
+      "center_y": 688.5,
+      "width": 301,
+      "height": 77
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1216,
+        499,
+        1517,
+        580
+      ],
+      "confidence": 0.9758107662200928,
+      "text": "",
+      "center_x": 1366.5,
+      "center_y": 539.5,
+      "width": 301,
+      "height": 81
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        308,
+        500,
+        609,
+        579
+      ],
+      "confidence": 0.9717923998832703,
+      "text": "",
+      "center_x": 458.5,
+      "center_y": 539.5,
+      "width": 301,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        609,
+        650,
+        913,
+        728
+      ],
+      "confidence": 0.9717543125152588,
+      "text": "",
+      "center_x": 761.0,
+      "center_y": 689.0,
+      "width": 304,
+      "height": 78
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        609,
+        502,
+        913,
+        580
+      ],
+      "confidence": 0.970451831817627,
+      "text": "",
+      "center_x": 761.0,
+      "center_y": 541.0,
+      "width": 304,
+      "height": 78
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        913,
+        650,
+        1216,
+        729
+      ],
+      "confidence": 0.9688555598258972,
+      "text": "",
+      "center_x": 1064.5,
+      "center_y": 689.5,
+      "width": 303,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        6,
+        650,
+        306,
+        728
+      ],
+      "confidence": 0.9687591195106506,
+      "text": "",
+      "center_x": 156.0,
+      "center_y": 689.0,
+      "width": 300,
+      "height": 78
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        5,
+        798,
+        307,
+        882
+      ],
+      "confidence": 0.9636645913124084,
+      "text": "10*",
+      "center_x": 156.0,
+      "center_y": 840.0,
+      "width": 302,
+      "height": 84
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        608,
+        799,
+        916,
+        881
+      ],
+      "confidence": 0.9548449516296387,
+      "text": "",
+      "center_x": 762.0,
+      "center_y": 840.0,
+      "width": 308,
+      "height": 82
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        6,
+        500,
+        306,
+        579
+      ],
+      "confidence": 0.9531195163726807,
+      "text": "2na",
+      "center_x": 156.0,
+      "center_y": 539.5,
+      "width": 300,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        309,
+        799,
+        608,
+        881
+      ],
+      "confidence": 0.9516717791557312,
+      "text": "",
+      "center_x": 458.5,
+      "center_y": 840.0,
+      "width": 299,
+      "height": 82
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1218,
+        798,
+        1516,
+        881
+      ],
+      "confidence": 0.9466423988342285,
+      "text": "",
+      "center_x": 1367.0,
+      "center_y": 839.5,
+      "width": 298,
+      "height": 83
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        913,
+        798,
+        1216,
+        882
+      ],
+      "confidence": 0.9374020099639893,
+      "text": "",
+      "center_x": 1064.5,
+      "center_y": 840.0,
+      "width": 303,
+      "height": 84
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        13,
+        575,
+        302,
+        654
+      ],
+      "confidence": 0.9225196838378906,
+      "text": "",
+      "center_x": 157.5,
+      "center_y": 614.5,
+      "width": 289,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        607,
+        878,
+        917,
+        952
+      ],
+      "confidence": 0.9111009240150452,
+      "text": "",
+      "center_x": 762.0,
+      "center_y": 915.0,
+      "width": 310,
+      "height": 74
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        608,
+        731,
+        915,
+        801
+      ],
+      "confidence": 0.9018730521202087,
+      "text": "",
+      "center_x": 761.5,
+      "center_y": 766.0,
+      "width": 307,
+      "height": 70
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1212,
+        575,
+        1520,
+        657
+      ],
+      "confidence": 0.8995878100395203,
+      "text": "mod",
+      "center_x": 1366.0,
+      "center_y": 616.0,
+      "width": 308,
+      "height": 82
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        309,
+        651,
+        608,
+        728
+      ],
+      "confidence": 0.8851350545883179,
+      "text": "",
+      "center_x": 458.5,
+      "center_y": 689.5,
+      "width": 299,
+      "height": 77
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        916,
+        576,
+        1216,
+        656
+      ],
+      "confidence": 0.8803000450134277,
+      "text": "exp",
+      "center_x": 1066.0,
+      "center_y": 616.0,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        4,
+        878,
+        308,
+        954
+      ],
+      "confidence": 0.8794659376144409,
+      "text": "log",
+      "center_x": 156.0,
+      "center_y": 916.0,
+      "width": 304,
+      "height": 76
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        609,
+        575,
+        913,
+        654
+      ],
+      "confidence": 0.872694730758667,
+      "text": "Lxl",
+      "center_x": 761.0,
+      "center_y": 614.5,
+      "width": 304,
+      "height": 79
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        914,
+        952,
+        1216,
+        1026
+      ],
+      "confidence": 0.7875790596008301,
+      "text": "",
+      "center_x": 1065.0,
+      "center_y": 989.0,
+      "width": 302,
+      "height": 74
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1213,
+        723,
+        1518,
+        806
+      ],
+      "confidence": 0.7820727229118347,
+      "text": "",
+      "center_x": 1365.5,
+      "center_y": 764.5,
+      "width": 305,
+      "height": 83
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        5,
+        727,
+        309,
+        803
+      ],
+      "confidence": 0.7815707921981812,
+      "text": "",
+      "center_x": 157.0,
+      "center_y": 765.0,
+      "width": 304,
+      "height": 76
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        310,
+        652,
+        609,
+        728
+      ],
+      "confidence": 0.7780130505561829,
+      "text": "",
+      "center_x": 459.5,
+      "center_y": 690.0,
+      "width": 299,
+      "height": 76
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        309,
+        575,
+        608,
+        654
+      ],
+      "confidence": 0.7765830159187317,
+      "text": "Vx",
+      "center_x": 458.5,
+      "center_y": 614.5,
+      "width": 299,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        607,
+        951,
+        915,
+        1026
+      ],
+      "confidence": 0.7752360701560974,
+      "text": "",
+      "center_x": 761.0,
+      "center_y": 988.5,
+      "width": 308,
+      "height": 75
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        11,
+        950,
+        307,
+        1028
+      ],
+      "confidence": 0.7415239214897156,
+      "text": "",
+      "center_x": 159.0,
+      "center_y": 989.0,
+      "width": 296,
+      "height": 78
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        315,
+        951,
+        605,
+        1027
+      ],
+      "confidence": 0.7186081409454346,
+      "text": "",
+      "center_x": 460.0,
+      "center_y": 989.0,
+      "width": 290,
+      "height": 76
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        309,
+        878,
+        608,
+        952
+      ],
+      "confidence": 0.7081930637359619,
+      "text": "",
+      "center_x": 458.5,
+      "center_y": 915.0,
+      "width": 299,
+      "height": 74
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        915,
+        725,
+        1216,
+        805
+      ],
+      "confidence": 0.698087215423584,
+      "text": "",
+      "center_x": 1065.5,
+      "center_y": 765.0,
+      "width": 301,
+      "height": 80
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1218,
+        877,
+        1517,
+        955
+      ],
+      "confidence": 0.6657825708389282,
+      "text": "",
+      "center_x": 1367.5,
+      "center_y": 916.0,
+      "width": 299,
+      "height": 78
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1529,
+        109,
+        1716,
+        174
+      ],
+      "confidence": 0.6405121088027954,
+      "text": "There's no history yet.",
+      "center_x": 1622.5,
+      "center_y": 141.5,
+      "width": 187,
+      "height": 65
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1217,
+        954,
+        1518,
+        1028
+      ],
+      "confidence": 0.6286563277244568,
+      "text": "",
+      "center_x": 1367.5,
+      "center_y": 991.0,
+      "width": 301,
+      "height": 74
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        308,
+        731,
+        609,
+        801
+      ],
+      "confidence": 0.591936469078064,
+      "text": "",
+      "center_x": 458.5,
+      "center_y": 766.0,
+      "width": 301,
+      "height": 70
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        308,
+        729,
+        608,
+        802
+      ],
+      "confidence": 0.5447902679443359,
+      "text": "",
+      "center_x": 458.0,
+      "center_y": 765.5,
+      "width": 300,
+      "height": 73
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        607,
+        577,
+        909,
+        652
+      ],
+      "confidence": 0.5437901616096497,
+      "text": "",
+      "center_x": 758.0,
+      "center_y": 614.5,
+      "width": 302,
+      "height": 75
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        912,
+        578,
+        1217,
+        653
+      ],
+      "confidence": 0.5122513175010681,
+      "text": "exp",
+      "center_x": 1064.5,
+      "center_y": 615.5,
+      "width": 305,
+      "height": 75
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1216,
+        576,
+        1514,
+        655
+      ],
+      "confidence": 0.47137588262557983,
+      "text": "mod",
+      "center_x": 1365.0,
+      "center_y": 615.5,
+      "width": 298,
+      "height": 79
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        919,
+        876,
+        1219,
+        955
+      ],
+      "confidence": 0.45219314098358154,
+      "text": "",
+      "center_x": 1069.0,
+      "center_y": 915.5,
+      "width": 300,
+      "height": 79
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1217,
+        725,
+        1514,
+        806
+      ],
+      "confidence": 0.4464363753795624,
+      "text": "",
+      "center_x": 1365.5,
+      "center_y": 765.5,
+      "width": 297,
+      "height": 81
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        49,
+        46,
+        226,
+        126
+      ],
+      "confidence": 0.42988431453704834,
+      "text": "Scientific",
+      "center_x": 137.5,
+      "center_y": 86.0,
+      "width": 177,
+      "height": 80
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        912,
+        877,
+        1216,
+        953
+      ],
+      "confidence": 0.4159408211708069,
+      "text": "",
+      "center_x": 1064.0,
+      "center_y": 915.0,
+      "width": 304,
+      "height": 76
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        310,
+        344,
+        478,
+        491
+      ],
+      "confidence": 0.3729769289493561,
+      "text": "M = MS",
+      "center_x": 394.0,
+      "center_y": 417.5,
+      "width": 168,
+      "height": 147
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        913,
+        728,
+        1218,
+        804
+      ],
+      "confidence": 0.3539774417877197,
+      "text": "",
+      "center_x": 1065.5,
+      "center_y": 766.0,
+      "width": 305,
+      "height": 76
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1534,
+        101,
+        1747,
+        183
+      ],
+      "confidence": 0.34468337893486023,
+      "text": "There's no history yet.",
+      "center_x": 1640.5,
+      "center_y": 142.0,
+      "width": 213,
+      "height": 82
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        0,
+        40,
+        53,
+        120
+      ],
+      "confidence": 0.3389468789100647,
+      "text": "",
+      "center_x": 26.5,
+      "center_y": 80.0,
+      "width": 53,
+      "height": 80
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1470,
+        101,
+        1729,
+        180
+      ],
+      "confidence": 0.3318532407283783,
+      "text": "There's no history yet.",
+      "center_x": 1599.5,
+      "center_y": 140.5,
+      "width": 259,
+      "height": 79
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        54,
+        45,
+        170,
+        122
+      ],
+      "confidence": 0.3254478871822357,
+      "text": "Scientific",
+      "center_x": 112.0,
+      "center_y": 83.5,
+      "width": 116,
+      "height": 77
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        308,
+        576,
+        603,
+        653
+      ],
+      "confidence": 0.30197131633758545,
+      "text": "Vx",
+      "center_x": 455.5,
+      "center_y": 614.5,
+      "width": 295,
+      "height": 77
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1216,
+        799,
+        1514,
+        880
+      ],
+      "confidence": 0.26968154311180115,
+      "text": "",
+      "center_x": 1365.0,
+      "center_y": 839.5,
+      "width": 298,
+      "height": 81
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        306,
+        950,
+        604,
+        1028
+      ],
+      "confidence": 0.25492608547210693,
+      "text": "",
+      "center_x": 455.0,
+      "center_y": 989.0,
+      "width": 298,
+      "height": 78
+    }
+  ]
+}

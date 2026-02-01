@@ -1,0 +1,369 @@
+{
+  "source_image": "real_padded_screenshots/geogebra_plot.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1276,
+        757,
+        1359,
+        812
+      ],
+      "confidence": 0.8333582282066345,
+      "text": "",
+      "center_x": 1317.5,
+      "center_y": 784.5,
+      "width": 83,
+      "height": 55
+    },
+    {
+      "widget_type": "Table",
+      "bbox": [
+        0,
+        288,
+        528,
+        708
+      ],
+      "confidence": 0.8108507990837097,
+      "text": "Tools Table Spreadsheet",
+      "center_x": 264.0,
+      "center_y": 498.0,
+      "width": 528,
+      "height": 420
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        580,
+        107,
+        793,
+        172
+      ],
+      "confidence": 0.8008842468261719,
+      "text": "Graphing",
+      "center_x": 686.5,
+      "center_y": 139.5,
+      "width": 213,
+      "height": 65
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        558,
+        757,
+        645,
+        812
+      ],
+      "confidence": 0.7987931966781616,
+      "text": "",
+      "center_x": 601.5,
+      "center_y": 784.5,
+      "width": 87,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        100,
+        176,
+        521,
+        238
+      ],
+      "confidence": 0.7824814319610596,
+      "text": "f:y = x2 sin(x)",
+      "center_x": 310.5,
+      "center_y": 207.0,
+      "width": 421,
+      "height": 62
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        304,
+        99,
+        558,
+        181
+      ],
+      "confidence": 0.7509018778800964,
+      "text": "Calculator Suite",
+      "center_x": 431.0,
+      "center_y": 140.0,
+      "width": 254,
+      "height": 82
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1741,
+        99,
+        1918,
+        176
+      ],
+      "confidence": 0.7012521028518677,
+      "text": "SIGN IN",
+      "center_x": 1829.5,
+      "center_y": 137.5,
+      "width": 177,
+      "height": 77
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1275,
+        920,
+        1359,
+        976
+      ],
+      "confidence": 0.6966779828071594,
+      "text": "",
+      "center_x": 1317.0,
+      "center_y": 948.0,
+      "width": 84,
+      "height": 56
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        28,
+        91,
+        312,
+        185
+      ],
+      "confidence": 0.6359315514564514,
+      "text": "= GeoGebra",
+      "center_x": 170.0,
+      "center_y": 138.0,
+      "width": 284,
+      "height": 94
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        819,
+        757,
+        907,
+        811
+      ],
+      "confidence": 0.5756468772888184,
+      "text": "",
+      "center_x": 863.0,
+      "center_y": 784.0,
+      "width": 88,
+      "height": 54
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1620,
+        115,
+        1741,
+        167
+      ],
+      "confidence": 0.5739449858665466,
+      "text": "ASSIGN",
+      "center_x": 1680.5,
+      "center_y": 141.0,
+      "width": 121,
+      "height": 52
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1276,
+        809,
+        1361,
+        868
+      ],
+      "confidence": 0.48746955394744873,
+      "text": "",
+      "center_x": 1318.5,
+      "center_y": 838.5,
+      "width": 85,
+      "height": 59
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1186,
+        757,
+        1277,
+        811
+      ],
+      "confidence": 0.4796973764896393,
+      "text": "",
+      "center_x": 1231.5,
+      "center_y": 784.0,
+      "width": 91,
+      "height": 54
+    },
+    {
+      "widget_type": "Plot",
+      "bbox": [
+        0,
+        172,
+        119,
+        705
+      ],
+      "confidence": 0.4734639525413513,
+      "text": "Algebra Tools Table Spreadsheet",
+      "center_x": 59.5,
+      "center_y": 438.5,
+      "width": 119,
+      "height": 533
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        87,
+        232,
+        515,
+        301
+      ],
+      "confidence": 0.4522438943386078,
+      "text": "Input_",
+      "center_x": 301.0,
+      "center_y": 266.5,
+      "width": 428,
+      "height": 69
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        646,
+        758,
+        732,
+        811
+      ],
+      "confidence": 0.4119875431060791,
+      "text": "",
+      "center_x": 689.0,
+      "center_y": 784.5,
+      "width": 86,
+      "height": 53
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1276,
+        865,
+        1360,
+        920
+      ],
+      "confidence": 0.39934659004211426,
+      "text": "",
+      "center_x": 1318.0,
+      "center_y": 892.5,
+      "width": 84,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        558,
+        922,
+        641,
+        977
+      ],
+      "confidence": 0.3959084749221802,
+      "text": "ans",
+      "center_x": 599.5,
+      "center_y": 949.5,
+      "width": 83,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1012,
+        757,
+        1101,
+        811
+      ],
+      "confidence": 0.39141780138015747,
+      "text": "",
+      "center_x": 1056.5,
+      "center_y": 784.0,
+      "width": 89,
+      "height": 54
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1464,
+        109,
+        1620,
+        173
+      ],
+      "confidence": 0.3203853666782379,
+      "text": "",
+      "center_x": 1542.0,
+      "center_y": 141.0,
+      "width": 156,
+      "height": 64
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        558,
+        810,
+        645,
+        867
+      ],
+      "confidence": 0.3102594017982483,
+      "text": "12",
+      "center_x": 601.5,
+      "center_y": 838.5,
+      "width": 87,
+      "height": 57
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        560,
+        710,
+        632,
+        755
+      ],
+      "confidence": 0.30470791459083557,
+      "text": "123",
+      "center_x": 596.0,
+      "center_y": 732.5,
+      "width": 72,
+      "height": 45
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1739,
+        107,
+        1867,
+        175
+      ],
+      "confidence": 0.28801998496055603,
+      "text": "SIGN IN",
+      "center_x": 1803.0,
+      "center_y": 141.0,
+      "width": 128,
+      "height": 68
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1098,
+        756,
+        1188,
+        811
+      ],
+      "confidence": 0.26071038842201233,
+      "text": "",
+      "center_x": 1143.0,
+      "center_y": 783.5,
+      "width": 90,
+      "height": 55
+    }
+  ]
+}

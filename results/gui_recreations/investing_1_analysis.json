@@ -1,0 +1,264 @@
+{
+  "source_image": "real_padded_screenshots/investing_1.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1189,
+        430,
+        1393,
+        479
+      ],
+      "confidence": 0.8025333285331726,
+      "text": "Investment Length",
+      "center_x": 1291.0,
+      "center_y": 454.5,
+      "width": 204,
+      "height": 49
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        729,
+        477,
+        883,
+        525
+      ],
+      "confidence": 0.771543025970459,
+      "text": "[S20,000",
+      "center_x": 806.0,
+      "center_y": 501.0,
+      "width": 154,
+      "height": 48
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        951,
+        481,
+        1409,
+        533
+      ],
+      "confidence": 0.7041637301445007,
+      "text": "Results Save",
+      "center_x": 1180.0,
+      "center_y": 507.0,
+      "width": 458,
+      "height": 52
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        731,
+        609,
+        883,
+        653
+      ],
+      "confidence": 0.7034526467323303,
+      "text": "annually",
+      "center_x": 807.0,
+      "center_y": 631.0,
+      "width": 152,
+      "height": 44
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        611,
+        778,
+        784,
+        835
+      ],
+      "confidence": 0.6616869568824768,
+      "text": "Calculate",
+      "center_x": 697.5,
+      "center_y": 806.5,
+      "width": 173,
+      "height": 57
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        732,
+        527,
+        883,
+        567
+      ],
+      "confidence": 0.5944299697875977,
+      "text": "10 years",
+      "center_x": 807.5,
+      "center_y": 547.0,
+      "width": 151,
+      "height": 40
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        882,
+        432,
+        1011,
+        477
+      ],
+      "confidence": 0.5476127862930298,
+      "text": "Return Rate",
+      "center_x": 946.5,
+      "center_y": 454.5,
+      "width": 129,
+      "height": 45
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        649,
+        430,
+        883,
+        476
+      ],
+      "confidence": 0.5369062423706055,
+      "text": "Additional Contribution",
+      "center_x": 766.0,
+      "center_y": 453.0,
+      "width": 234,
+      "height": 46
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        480,
+        432,
+        883,
+        482
+      ],
+      "confidence": 0.5138369202613831,
+      "text": "End Amount Additional Contribution",
+      "center_x": 681.5,
+      "center_y": 457.0,
+      "width": 403,
+      "height": 50
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        503,
+        428,
+        638,
+        471
+      ],
+      "confidence": 0.3135024309158325,
+      "text": "End Amount",
+      "center_x": 570.5,
+      "center_y": 449.5,
+      "width": 135,
+      "height": 43
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        498,
+        470,
+        734,
+        530
+      ],
+      "confidence": 0.29843851923942566,
+      "text": "Starting Amount",
+      "center_x": 616.0,
+      "center_y": 500.0,
+      "width": 236,
+      "height": 60
+    },
+    {
+      "widget_type": "Table",
+      "bbox": [
+        492,
+        489,
+        1419,
+        851
+      ],
+      "confidence": 0.2948974072933197,
+      "text": "Starting Amount S20,000 Results save After 10 years End Balance $198,290.40 Return Rate Starting Amount S20,000.00 Total Contributions $120,000.00 Compound annually Total Interest 858,290.40 Additional Contribution [$1,000 Starting Amount Contribute at the beginning end 0% Total Contributions 29% of each month year Interest 61% Calculate",
+      "center_x": 955.5,
+      "center_y": 670.0,
+      "width": 927,
+      "height": 362
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        860,
+        225,
+        1419,
+        382
+      ],
+      "confidence": 0.2885037064552307,
+      "text": "Print to calculate a specific parameter for an investment plan. The be found. For example; to calculate the return rate needed to inputs, click the 'Return Rate' tab.",
+      "center_x": 1139.5,
+      "center_y": 303.5,
+      "width": 559,
+      "height": 157
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1014,
+        430,
+        1186,
+        477
+      ],
+      "confidence": 0.27423346042633057,
+      "text": "Starting Amount",
+      "center_x": 1100.0,
+      "center_y": 453.5,
+      "width": 172,
+      "height": 47
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1087,
+        480,
+        1410,
+        532
+      ],
+      "confidence": 0.2740730941295624,
+      "text": "Save",
+      "center_x": 1248.5,
+      "center_y": 506.0,
+      "width": 323,
+      "height": 52
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        959,
+        481,
+        1218,
+        531
+      ],
+      "confidence": 0.2720526456832886,
+      "text": "Results",
+      "center_x": 1088.5,
+      "center_y": 506.0,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "widget_type": "Video",
+      "bbox": [
+        493,
+        495,
+        1419,
+        853
+      ],
+      "confidence": 0.25635865330696106,
+      "text": "Starting Amount $20,000 Results Save After 10 years End Balance $198,290.40 Return Rate Starting Amount $20,000.00 Total Contributions $120,000.00 Compound annually Total Interest S58,290.40 Additional Contribution $1,000 Starting Amount Contribute at the beginning end 0% Total Contributions 29% of each month year Interest 61% Calculate",
+      "center_x": 956.0,
+      "center_y": 674.0,
+      "width": 926,
+      "height": 358
+    }
+  ]
+}

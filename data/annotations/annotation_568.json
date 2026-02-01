@@ -1,0 +1,127 @@
+{
+  "image": "screenshots/screenshot_568.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "fRRBkcieQTLSWUP",
+      "color": "#c7b3da",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 79,
+        "x_max": 165,
+        "y_max": 167
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#c5d1e5",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 214,
+        "x_max": 165,
+        "y_max": 278
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "sTQsabTUu",
+      "color": "#6080af",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 406,
+        "x_max": 165,
+        "y_max": 501
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#c5d1e5",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 338,
+        "y_max": 79
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#c5d1e5",
+      "bbox": {
+        "x_min": 165,
+        "y_min": 79,
+        "x_max": 338,
+        "y_max": 167
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "VqSURCcqVG",
+      "color": "#c7b3da",
+      "bbox": {
+        "x_min": 165,
+        "y_min": 765,
+        "x_max": 338,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "SFeAMiWzku",
+      "color": "#c7b3da",
+      "bbox": {
+        "x_min": 626,
+        "y_min": 0,
+        "x_max": 750,
+        "y_max": 79
+      }
+    },
+    {
+      "id": "entry_4",
+      "type": "Entry",
+      "text": "",
+      "color": "#c5d1e5",
+      "bbox": {
+        "x_min": 750,
+        "y_min": 501,
+        "x_max": 999,
+        "y_max": 595
+      }
+    },
+    {
+      "id": "video",
+      "type": "Video",
+      "bbox": {
+        "x_min": 907,
+        "y_min": 595,
+        "x_max": 1325,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "QiHDUbctpV",
+      "color": "#6080af",
+      "bbox": {
+        "x_min": 1325,
+        "y_min": 406,
+        "x_max": 1536,
+        "y_max": 501
+      }
+    }
+  ]
+}

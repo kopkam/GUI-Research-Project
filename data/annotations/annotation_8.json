@@ -1,0 +1,139 @@
+{
+  "image": "screenshots/screenshot_8.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "kUBvMehT",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 612,
+        "x_max": 142,
+        "y_max": 680
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "gdZjB",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 680,
+        "x_max": 142,
+        "y_max": 719
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "lDBCHNC",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 719,
+        "x_max": 142,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "CdRdc",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 142,
+        "y_min": 431,
+        "x_max": 282,
+        "y_max": 504
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#9c80b8",
+      "bbox": {
+        "x_min": 142,
+        "y_min": 680,
+        "x_max": 282,
+        "y_max": 719
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "nfFEOIRbHiwRw",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 472,
+        "y_min": 0,
+        "x_max": 560,
+        "y_max": 63
+      }
+    },
+    {
+      "id": "video",
+      "type": "Video",
+      "bbox": {
+        "x_min": 560,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 431
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "uirieER",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 745,
+        "y_min": 680,
+        "x_max": 831,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "odkqsjnvIfKDDGV",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1002,
+        "y_min": 719,
+        "x_max": 1163,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#9c80b8",
+      "bbox": {
+        "x_min": 1163,
+        "y_min": 612,
+        "x_max": 1536,
+        "y_max": 680
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "VRzbZmE",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1318,
+        "y_min": 680,
+        "x_max": 1536,
+        "y_max": 719
+      }
+    }
+  ]
+}

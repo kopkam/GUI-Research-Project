@@ -1,0 +1,210 @@
+{
+  "image": "screenshots/screenshot_125.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#dcafaf",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 0,
+        "x_max": 80,
+        "y_max": 95
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#dcafaf",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 281,
+        "x_max": 80,
+        "y_max": 364
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "XZuhWghLLhxoijP",
+      "color": "#dcafaf",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 395,
+        "x_max": 80,
+        "y_max": 430
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "qQHMMgqS",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 80,
+        "y_min": 0,
+        "x_max": 169,
+        "y_max": 95
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "VDxhQSGyCiJAK",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 430,
+        "x_max": 169,
+        "y_max": 527
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "VwquYSVRdt",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 80,
+        "y_min": 527,
+        "x_max": 169,
+        "y_max": 571
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "NDluwcIrLExQP",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 169,
+        "y_min": 527,
+        "x_max": 506,
+        "y_max": 571
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "nVTaxSIadsBBi",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 0,
+        "x_max": 506,
+        "y_max": 35
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "IlnksQr",
+      "color": "#dcafaf",
+      "bbox": {
+        "x_min": 820,
+        "y_min": 0,
+        "x_max": 918,
+        "y_max": 35
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 918,
+        "y_min": 395,
+        "x_max": 1536,
+        "y_max": 669
+      },
+      "structure": {
+        "rows": 10,
+        "cols": 5,
+        "headers": [
+          "QdWs",
+          "Brv",
+          "gvtMCqD",
+          "tTPkxME",
+          "oCzL"
+        ],
+        "data": [
+          [
+            "iyV",
+            "DNJKjiJzVYm",
+            "OOWbIue",
+            "KQakNqaIdIu",
+            "GSH"
+          ],
+          [
+            "jXOIPxV",
+            "PLOqvmZRgC",
+            "pgiOg",
+            "YLsxKneLe",
+            "NcaCKQuET"
+          ],
+          [
+            "jfzdgYRWRdv",
+            "aEBJTlCGL",
+            "MWWpvcx",
+            "kVUpn",
+            "mdZjp"
+          ],
+          [
+            "UDFxitGwJUI",
+            "SFMPJrz",
+            "pJDrZhnHIu",
+            "hhghIDqBV",
+            "Wwa"
+          ],
+          [
+            "SsvT",
+            "ZXtpmsFxgpm",
+            "TElJ",
+            "bBjc",
+            "eanhFiReyX"
+          ],
+          [
+            "IiqpylgcJ",
+            "GUSB",
+            "MrEJfkWc",
+            "nYug",
+            "Ieh"
+          ],
+          [
+            "IBS",
+            "ZwfFOGRdOGbC",
+            "qZaCnNnLYBd",
+            "BsxPpEj",
+            "SGrNzp"
+          ],
+          [
+            "mfYBJpfo",
+            "HAIiAhAVsbUy",
+            "BxF",
+            "AFpsJufB",
+            "xOPhUKqAS"
+          ],
+          [
+            "SbyYnYZoeWEq",
+            "dsrsK",
+            "lrSlbbRTOi",
+            "FXCXIuTyAP",
+            "UDbIsfnNgM"
+          ],
+          [
+            "YRhNFcbK",
+            "ElELA",
+            "wFJkFMjxkKG",
+            "Eddbayk",
+            "bzdJ"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "image": "screenshots/screenshot_426.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "jVpepdY",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 428,
+        "x_max": 114,
+        "y_max": 522
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "hPWnpSSWH",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 114,
+        "y_min": 808,
+        "x_max": 256,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "DUxSZdKKZB",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 256,
+        "y_min": 0,
+        "x_max": 396,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 396,
+        "y_min": 428,
+        "x_max": 1055,
+        "y_max": 761
+      },
+      "structure": {
+        "rows": 8,
+        "cols": 5,
+        "headers": [
+          "SfYtEYa",
+          "OsQd",
+          "wced",
+          "kuKJJw",
+          "dBUdRV"
+        ],
+        "data": [
+          [
+            "lkfhlQ",
+            "Trwe",
+            "CbumcxIbNN",
+            "BlMY",
+            "alIFGLAjK"
+          ],
+          [
+            "WvcFJbl",
+            "LRy",
+            "YvlyZLeyBynF",
+            "cxHZplbsOu",
+            "PDSotwEh"
+          ],
+          [
+            "wssIRvgR",
+            "xBN",
+            "wGsbAzmAxy",
+            "IIZprKDxMj",
+            "lUgNSNUmA"
+          ],
+          [
+            "iZETqjdzbMck",
+            "jEpz",
+            "XrcDzJfpU",
+            "hNxiwISrAdne",
+            "NRZ"
+          ],
+          [
+            "yHTShD",
+            "uHCUjvm",
+            "EZXBpdP",
+            "ZrOlC",
+            "BkrEoWcw"
+          ],
+          [
+            "dNpHG",
+            "dGpVKVCnPrq",
+            "WzqyKJKjfHm",
+            "iiJ",
+            "RiNy"
+          ],
+          [
+            "xCsPhF",
+            "lSbVj",
+            "HvEaUSaT",
+            "wRfsaLgce",
+            "yiDFENJjAA"
+          ],
+          [
+            "oHVhTUuhd",
+            "BLuhFdvoujeq",
+            "ZflGgbBd",
+            "vkJ",
+            "PhyF"
+          ]
+        ]
+      }
+    }
+  ]
+}

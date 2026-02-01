@@ -1,0 +1,115 @@
+{
+  "image": "screenshots/screenshot_421.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "WZBKPbiHQTpjQP",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 428,
+        "x_max": 85,
+        "y_max": 485
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#b99675",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 558,
+        "x_max": 210,
+        "y_max": 626
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "BKZtN",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 782,
+        "x_max": 85,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "plot",
+      "type": "Plot",
+      "bbox": {
+        "x_min": 85,
+        "y_min": 0,
+        "x_max": 1022,
+        "y_max": 398
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "ZarIGhaVfYDtGr",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 488,
+        "y_min": 782,
+        "x_max": 665,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "woIZYcj",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 665,
+        "y_min": 702,
+        "x_max": 832,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "ahiSuPeZzUlKzJO",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1022,
+        "y_min": 0,
+        "x_max": 1211,
+        "y_max": 93
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#b99675",
+      "bbox": {
+        "x_min": 1022,
+        "y_min": 93,
+        "x_max": 1211,
+        "y_max": 179
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "VfEQaTOUS",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1211,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 93
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "source_image": "real_padded_screenshots/currency_1.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1065,
+        467,
+        1350,
+        532
+      ],
+      "confidence": 0.9385067820549011,
+      "text": "Track exchange rates",
+      "center_x": 1207.5,
+      "center_y": 499.5,
+      "width": 285,
+      "height": 65
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1503,
+        134,
+        1620,
+        177
+      ],
+      "confidence": 0.9048128128051758,
+      "text": "Register",
+      "center_x": 1561.5,
+      "center_y": 155.5,
+      "width": 117,
+      "height": 43
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1356,
+        467,
+        1563,
+        530
+      ],
+      "confidence": 0.8994081616401672,
+      "text": "Send money",
+      "center_x": 1459.5,
+      "center_y": 498.5,
+      "width": 207,
+      "height": 63
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1625,
+        134,
+        1711,
+        178
+      ],
+      "confidence": 0.8107231259346008,
+      "text": "Help",
+      "center_x": 1668.0,
+      "center_y": 156.0,
+      "width": 86,
+      "height": 44
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        36,
+        208,
+        461,
+        281
+      ],
+      "confidence": 0.7902583479881287,
+      "text": "Currency converter",
+      "center_x": 248.5,
+      "center_y": 244.5,
+      "width": 425,
+      "height": 73
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        428,
+        876,
+        538,
+        926
+      ],
+      "confidence": 0.7887899875640869,
+      "text": "Accept",
+      "center_x": 483.0,
+      "center_y": 901.0,
+      "width": 110,
+      "height": 50
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1353,
+        326,
+        1567,
+        451
+      ],
+      "confidence": 0.7182460427284241,
+      "text": "EUR Euro",
+      "center_x": 1460.0,
+      "center_y": 388.5,
+      "width": 214,
+      "height": 125
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        302,
+        880,
+        427,
+        923
+      ],
+      "confidence": 0.5998838543891907,
+      "text": "Customize",
+      "center_x": 364.5,
+      "center_y": 901.5,
+      "width": 125,
+      "height": 43
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1595,
+        274,
+        1883,
+        484
+      ],
+      "confidence": 0.5973258018493652,
+      "text": "",
+      "center_x": 1739.0,
+      "center_y": 379.0,
+      "width": 288,
+      "height": 210
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        34,
+        273,
+        318,
+        483
+      ],
+      "confidence": 0.5710871815681458,
+      "text": "",
+      "center_x": 176.0,
+      "center_y": 378.0,
+      "width": 284,
+      "height": 210
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        456,
+        210,
+        684,
+        284
+      ],
+      "confidence": 0.5396990776062012,
+      "text": "Currency charts",
+      "center_x": 570.0,
+      "center_y": 247.0,
+      "width": 228,
+      "height": 74
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        35,
+        104,
+        464,
+        212
+      ],
+      "confidence": 0.4981323778629303,
+      "text": "xe Personal Bus",
+      "center_x": 249.5,
+      "center_y": 158.0,
+      "width": 429,
+      "height": 108
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        19,
+        102,
+        523,
+        212
+      ],
+      "confidence": 0.47611770033836365,
+      "text": "xe Personal Business",
+      "center_x": 271.0,
+      "center_y": 157.0,
+      "width": 504,
+      "height": 110
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        67,
+        706,
+        557,
+        808
+      ],
+      "confidence": 0.4411329925060272,
+      "text": "We use our own and third-party cookies to analyze our services and to show you advertising related to your preferences based on your browsing habits.",
+      "center_x": 312.0,
+      "center_y": 757.0,
+      "width": 490,
+      "height": 102
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        326,
+        322,
+        911,
+        442
+      ],
+      "confidence": 0.4097340404987335,
+      "text": "From $1.00 USD US Dollar",
+      "center_x": 618.5,
+      "center_y": 382.0,
+      "width": 585,
+      "height": 120
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        53,
+        621,
+        556,
+        718
+      ],
+      "confidence": 0.38730841875076294,
+      "text": "Allow optional cookies?",
+      "center_x": 304.5,
+      "center_y": 669.5,
+      "width": 503,
+      "height": 97
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1380,
+        791,
+        1597,
+        853
+      ],
+      "confidence": 0.3413039445877075,
+      "text": "Sign up today",
+      "center_x": 1488.5,
+      "center_y": 822.0,
+      "width": 217,
+      "height": 62
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1306,
+        576,
+        1563,
+        651
+      ],
+      "confidence": 0.3308911621570587,
+      "text": "money. Login to view send rates",
+      "center_x": 1434.5,
+      "center_y": 613.5,
+      "width": 257,
+      "height": 75
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        882,
+        807,
+        1016,
+        843
+      ],
+      "confidence": 0.2847217321395874,
+      "text": "money",
+      "center_x": 949.0,
+      "center_y": 825.0,
+      "width": 134,
+      "height": 36
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1381,
+        791,
+        1577,
+        853
+      ],
+      "confidence": 0.26850682497024536,
+      "text": "Sign up today",
+      "center_x": 1479.0,
+      "center_y": 822.0,
+      "width": 196,
+      "height": 62
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        526,
+        104,
+        640,
+        207
+      ],
+      "confidence": 0.26046693325042725,
+      "text": "Platform",
+      "center_x": 583.0,
+      "center_y": 155.5,
+      "width": 114,
+      "height": 103
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        56,
+        620,
+        550,
+        726
+      ],
+      "confidence": 0.2550722062587738,
+      "text": "Allow optional cookies?",
+      "center_x": 303.0,
+      "center_y": 673.0,
+      "width": 494,
+      "height": 106
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        460,
+        209,
+        810,
+        284
+      ],
+      "confidence": 0.251371830701828,
+      "text": "Currency charts Get rate aler",
+      "center_x": 635.0,
+      "center_y": 246.5,
+      "width": 350,
+      "height": 75
+    }
+  ]
+}

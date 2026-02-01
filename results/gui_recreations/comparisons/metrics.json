@@ -1,0 +1,365 @@
+[
+  {
+    "total_widgets": 24,
+    "widgets_with_text": 23,
+    "text_coverage": 0.9583333333333334,
+    "average_confidence": 0.6637375267843405,
+    "widget_types": {
+      "Button": 14,
+      "Label": 8,
+      "Entry": 2
+    },
+    "average_widget_size": 15916.333333333334,
+    "coverage_area": 0.18421682098765432,
+    "screenshot": "awwwards.png"
+  },
+  {
+    "total_widgets": 45,
+    "widgets_with_text": 11,
+    "text_coverage": 0.24444444444444444,
+    "average_confidence": 0.7129811081621382,
+    "widget_types": {
+      "Button": 32,
+      "Entry": 12,
+      "Label": 1
+    },
+    "average_widget_size": 22715.28888888889,
+    "coverage_area": 0.4929533179012346,
+    "screenshot": "calculator.png"
+  },
+  {
+    "total_widgets": 53,
+    "widgets_with_text": 16,
+    "text_coverage": 0.3018867924528302,
+    "average_confidence": 0.7061689923394401,
+    "widget_types": {
+      "Button": 33,
+      "Entry": 12,
+      "Label": 8
+    },
+    "average_widget_size": 22290.056603773584,
+    "coverage_area": 0.569720775462963,
+    "screenshot": "calculator_light.png"
+  },
+  {
+    "total_widgets": 23,
+    "widgets_with_text": 21,
+    "text_coverage": 0.9130434782608695,
+    "average_confidence": 0.5375435365282971,
+    "widget_types": {
+      "Button": 11,
+      "Entry": 2,
+      "Label": 10
+    },
+    "average_widget_size": 28557.695652173912,
+    "coverage_area": 0.31675684799382714,
+    "screenshot": "currency_1.png"
+  },
+  {
+    "total_widgets": 19,
+    "widgets_with_text": 17,
+    "text_coverage": 0.8947368421052632,
+    "average_confidence": 0.5573027494706606,
+    "widget_types": {
+      "Button": 9,
+      "Label": 10
+    },
+    "average_widget_size": 22153.894736842107,
+    "coverage_area": 0.20299189814814814,
+    "screenshot": "currency_2.png"
+  },
+  {
+    "total_widgets": 19,
+    "widgets_with_text": 17,
+    "text_coverage": 0.8947368421052632,
+    "average_confidence": 0.630809551791141,
+    "widget_types": {
+      "Entry": 1,
+      "Button": 10,
+      "Label": 7,
+      "Plot": 1
+    },
+    "average_widget_size": 47613.10526315789,
+    "coverage_area": 0.4362697723765432,
+    "screenshot": "currency_3.png"
+  },
+  {
+    "total_widgets": 65,
+    "widgets_with_text": 8,
+    "text_coverage": 0.12307692307692308,
+    "average_confidence": 0.7299681411339687,
+    "widget_types": {
+      "Entry": 55,
+      "Button": 8,
+      "Label": 2
+    },
+    "average_widget_size": 9955.061538461538,
+    "coverage_area": 0.3120558449074074,
+    "screenshot": "currency_4.png"
+  },
+  {
+    "total_widgets": 11,
+    "widgets_with_text": 10,
+    "text_coverage": 0.9090909090909091,
+    "average_confidence": 0.6128851121122186,
+    "widget_types": {
+      "Label": 9,
+      "Table": 1,
+      "Button": 1
+    },
+    "average_widget_size": 39047.454545454544,
+    "coverage_area": 0.2071383101851852,
+    "screenshot": "excel.png"
+  },
+  {
+    "total_widgets": 11,
+    "widgets_with_text": 4,
+    "text_coverage": 0.36363636363636365,
+    "average_confidence": 0.5363604047081687,
+    "widget_types": {
+      "Button": 4,
+      "Entry": 6,
+      "Label": 1
+    },
+    "average_widget_size": 9202.454545454546,
+    "coverage_area": 0.04881703317901234,
+    "screenshot": "excel_1.png"
+  },
+  {
+    "total_widgets": 12,
+    "widgets_with_text": 11,
+    "text_coverage": 0.9166666666666666,
+    "average_confidence": 0.5140680993596712,
+    "widget_types": {
+      "Button": 4,
+      "Label": 7,
+      "Entry": 1
+    },
+    "average_widget_size": 19180.083333333332,
+    "coverage_area": 0.11099585262345679,
+    "screenshot": "geogebra.png"
+  },
+  {
+    "total_widgets": 32,
+    "widgets_with_text": 15,
+    "text_coverage": 0.46875,
+    "average_confidence": 0.49937692284584045,
+    "widget_types": {
+      "Button": 20,
+      "Label": 6,
+      "Table": 1,
+      "Entry": 4,
+      "Plot": 1
+    },
+    "average_widget_size": 19334.84375,
+    "coverage_area": 0.2983772183641975,
+    "screenshot": "geogebra_empty.png"
+  },
+  {
+    "total_widgets": 24,
+    "widgets_with_text": 13,
+    "text_coverage": 0.5416666666666666,
+    "average_confidence": 0.5390142301718394,
+    "widget_types": {
+      "Button": 16,
+      "Table": 1,
+      "Label": 6,
+      "Plot": 1
+    },
+    "average_widget_size": 20884.666666666668,
+    "coverage_area": 0.24172067901234567,
+    "screenshot": "geogebra_plot.png"
+  },
+  {
+    "total_widgets": 16,
+    "widgets_with_text": 4,
+    "text_coverage": 0.25,
+    "average_confidence": 0.520007474347949,
+    "widget_types": {
+      "Button": 14,
+      "Label": 1,
+      "Entry": 1
+    },
+    "average_widget_size": 5127.5625,
+    "coverage_area": 0.03956452546296296,
+    "screenshot": "geogebra_plot_2.png"
+  },
+  {
+    "total_widgets": 17,
+    "widgets_with_text": 17,
+    "text_coverage": 1.0,
+    "average_confidence": 0.4769544426132651,
+    "widget_types": {
+      "Button": 9,
+      "Label": 6,
+      "Table": 1,
+      "Video": 1
+    },
+    "average_widget_size": 53714.82352941176,
+    "coverage_area": 0.44037037037037036,
+    "screenshot": "investing_1.png"
+  },
+  {
+    "total_widgets": 9,
+    "widgets_with_text": 8,
+    "text_coverage": 0.8888888888888888,
+    "average_confidence": 0.6640750534004636,
+    "widget_types": {
+      "Button": 4,
+      "Entry": 1,
+      "Table": 2,
+      "Label": 2
+    },
+    "average_widget_size": 49369.11111111111,
+    "coverage_area": 0.21427565586419753,
+    "screenshot": "investing_2.png"
+  },
+  {
+    "total_widgets": 12,
+    "widgets_with_text": 12,
+    "text_coverage": 1.0,
+    "average_confidence": 0.46175499508778256,
+    "widget_types": {
+      "Button": 4,
+      "Label": 7,
+      "Plot": 1
+    },
+    "average_widget_size": 83996.5,
+    "coverage_area": 0.4860908564814815,
+    "screenshot": "investing_3.png"
+  },
+  {
+    "total_widgets": 9,
+    "widgets_with_text": 8,
+    "text_coverage": 0.8888888888888888,
+    "average_confidence": 0.5679551594787173,
+    "widget_types": {
+      "Button": 2,
+      "Label": 7
+    },
+    "average_widget_size": 20849.333333333332,
+    "coverage_area": 0.09049189814814815,
+    "screenshot": "investing_portfolio.png"
+  },
+  {
+    "total_widgets": 7,
+    "widgets_with_text": 7,
+    "text_coverage": 1.0,
+    "average_confidence": 0.5491754029478345,
+    "widget_types": {
+      "Label": 3,
+      "Button": 1,
+      "Table": 1,
+      "Plot": 2
+    },
+    "average_widget_size": 167610.14285714287,
+    "coverage_area": 0.5658135609567901,
+    "screenshot": "kaggle_1.png"
+  },
+  {
+    "total_widgets": 0,
+    "widgets_with_text": 0,
+    "text_coverage": 0,
+    "average_confidence": 0,
+    "widget_types": {},
+    "average_widget_size": 0,
+    "coverage_area": 0.0,
+    "screenshot": "nosts.png"
+  },
+  {
+    "total_widgets": 5,
+    "widgets_with_text": 5,
+    "text_coverage": 1.0,
+    "average_confidence": 0.9413393139839172,
+    "widget_types": {
+      "Plot": 1,
+      "Button": 3,
+      "Table": 1
+    },
+    "average_widget_size": 69123.8,
+    "coverage_area": 0.16667582947530865,
+    "screenshot": "paint_1.png"
+  },
+  {
+    "total_widgets": 13,
+    "widgets_with_text": 13,
+    "text_coverage": 1.0,
+    "average_confidence": 0.5992698875757364,
+    "widget_types": {
+      "Button": 9,
+      "Entry": 1,
+      "Label": 3
+    },
+    "average_widget_size": 14898.923076923076,
+    "coverage_area": 0.0934056712962963,
+    "screenshot": "putty.png"
+  },
+  {
+    "total_widgets": 9,
+    "widgets_with_text": 8,
+    "text_coverage": 0.8888888888888888,
+    "average_confidence": 0.5068295697371165,
+    "widget_types": {
+      "Table": 1,
+      "Button": 3,
+      "Label": 5
+    },
+    "average_widget_size": 29875.0,
+    "coverage_area": 0.1296657986111111,
+    "screenshot": "reaper.png"
+  },
+  {
+    "total_widgets": 11,
+    "widgets_with_text": 10,
+    "text_coverage": 0.9090909090909091,
+    "average_confidence": 0.6884396780620922,
+    "widget_types": {
+      "Button": 7,
+      "Table": 1,
+      "Label": 1,
+      "Entry": 2
+    },
+    "average_widget_size": 15881.90909090909,
+    "coverage_area": 0.08425009645061729,
+    "screenshot": "winscp.png"
+  },
+  {
+    "total_widgets": 5,
+    "widgets_with_text": 5,
+    "text_coverage": 1.0,
+    "average_confidence": 0.45542392134666443,
+    "widget_types": {
+      "Label": 5
+    },
+    "average_widget_size": 28585.4,
+    "coverage_area": 0.06892698688271605,
+    "screenshot": "wireshark.png"
+  },
+  {
+    "total_widgets": 3,
+    "widgets_with_text": 3,
+    "text_coverage": 1.0,
+    "average_confidence": 0.5488556027412415,
+    "widget_types": {
+      "Video": 1,
+      "Label": 1,
+      "Button": 1
+    },
+    "average_widget_size": 100846.0,
+    "coverage_area": 0.14589988425925926,
+    "screenshot": "youtube.png"
+  },
+  {
+    "total_widgets": 2,
+    "widgets_with_text": 1,
+    "text_coverage": 0.5,
+    "average_confidence": 0.5457104295492172,
+    "widget_types": {
+      "Video": 1,
+      "Button": 1
+    },
+    "average_widget_size": 182957.0,
+    "coverage_area": 0.17646315586419753,
+    "screenshot": "yt_1.png"
+  }
+]

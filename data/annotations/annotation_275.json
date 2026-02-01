@@ -1,0 +1,117 @@
+{
+  "image": "screenshots/screenshot_275.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "yUSRdIOgTT",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 242,
+        "x_max": 105,
+        "y_max": 418
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "ksdcQxIW",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 418,
+        "x_max": 105,
+        "y_max": 459
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 759,
+        "x_max": 105,
+        "y_max": 793
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "SVdLZBJPnQpq",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 105,
+        "y_min": 418,
+        "x_max": 216,
+        "y_max": 459
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "VhzOiPx",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 361,
+        "y_min": 0,
+        "x_max": 520,
+        "y_max": 100
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "shwsFkKnuII",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 842,
+        "y_min": 793,
+        "x_max": 1024,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1193,
+        "y_min": 0,
+        "x_max": 1375,
+        "y_max": 100
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1375,
+        "y_min": 156,
+        "x_max": 1536,
+        "y_max": 242
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "ewVShcp",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1375,
+        "y_min": 242,
+        "x_max": 1536,
+        "y_max": 322
+      }
+    }
+  ]
+}

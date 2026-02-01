@@ -1,0 +1,115 @@
+{
+  "image": "screenshots/screenshot_374.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "kOhHvS",
+      "color": "#64af62",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 494,
+        "x_max": 80,
+        "y_max": 524
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#64af62",
+      "bbox": {
+        "x_min": 371,
+        "y_min": 257,
+        "x_max": 529,
+        "y_max": 289
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 529,
+        "y_min": 257,
+        "x_max": 1078,
+        "y_max": 448
+      },
+      "structure": {
+        "rows": 4,
+        "cols": 4,
+        "headers": [
+          "dKhQDh",
+          "jdqwEa",
+          "ZHBx",
+          "DrEf"
+        ],
+        "data": [
+          [
+            "EQRwTVrxp",
+            "CmZRVHmEqWr",
+            "dMVHnpMcDw",
+            "UGJjcE"
+          ],
+          [
+            "GzMu",
+            "jswezOZ",
+            "yzGljsJR",
+            "AMePyX"
+          ],
+          [
+            "dNRiiqeok",
+            "acm",
+            "qTigIADbJut",
+            "GDVivB"
+          ],
+          [
+            "yayft",
+            "bprkFy",
+            "Kud",
+            "PHklJwKZs"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "HxRWSJjBuJSGnyb",
+      "color": "#64af62",
+      "bbox": {
+        "x_min": 936,
+        "y_min": 745,
+        "x_max": 1078,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "KcMJpzdqUMMa",
+      "color": "#64af62",
+      "bbox": {
+        "x_min": 1320,
+        "y_min": 408,
+        "x_max": 1536,
+        "y_max": 448
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "MBByeyAqSED",
+      "color": "#64af62",
+      "bbox": {
+        "x_min": 1320,
+        "y_min": 624,
+        "x_max": 1536,
+        "y_max": 656
+      }
+    }
+  ]
+}

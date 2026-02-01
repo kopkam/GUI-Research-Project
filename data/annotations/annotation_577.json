@@ -1,0 +1,57 @@
+{
+  "image": "screenshots/screenshot_577.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "bDPRsfbFSh",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 318,
+        "x_max": 191,
+        "y_max": 384
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#dfdecf",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 655,
+        "x_max": 191,
+        "y_max": 710
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "teLabX",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 324,
+        "y_min": 710,
+        "x_max": 475,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "CEhwflLb",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 475,
+        "y_min": 710,
+        "x_max": 638,
+        "y_max": 864
+      }
+    }
+  ]
+}

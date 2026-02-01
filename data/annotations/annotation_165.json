@@ -1,0 +1,115 @@
+{
+  "image": "screenshots/screenshot_165.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "uETSiy",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 127,
+        "x_max": 190,
+        "y_max": 178
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 387,
+        "y_min": 178,
+        "x_max": 495,
+        "y_max": 267
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 387,
+        "y_min": 395,
+        "x_max": 495,
+        "y_max": 425
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "hoZuPlTz",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 387,
+        "y_min": 425,
+        "x_max": 495,
+        "y_max": 480
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "tHoGEOldPbCyNJc",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 387,
+        "y_min": 743,
+        "x_max": 495,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "plot",
+      "type": "Plot",
+      "bbox": {
+        "x_min": 495,
+        "y_min": 178,
+        "x_max": 1205,
+        "y_max": 425
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "hpekDIlmdyYTQ",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 743,
+        "x_max": 1205,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "YvORLxOpZkMdD",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1205,
+        "y_min": 425,
+        "x_max": 1536,
+        "y_max": 480
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "tSSKGQQuIaqCRt",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1336,
+        "y_min": 480,
+        "x_max": 1536,
+        "y_max": 572
+      }
+    }
+  ]
+}

@@ -8,7 +8,8 @@ An AI-powered system for detecting and classifying GUI widgets (Buttons, Labels,
 ✓ Detects Buttons, Labels, Entry fields, and Tables  
 ✓ Fast inference (~60ms per image on CPU)  
 ✓ High precision (95.27%) - few false positives  
-✓ 200 annotated training examples  
+✓ 600 annotated training examples  
+✓ **NEW!** GUI Recreation System - recreate GUIs from real screenshots using AI + OCR
 
 ## 📋 Project Overview
 
@@ -31,10 +32,10 @@ pip install -r requirements.txt
 
 ```bash
 # Test on specific image
-python test_model.py screenshots/screenshot_0.png
+python scripts/inference/test_model.py data/screenshots/screenshot_0.png
 
 # Create visualizations
-python visualize_results.py
+python scripts/inference/visualize_results.py
 ```
 
 ### 2b. NEW: GUI Recreation from Real Screenshots 🎨
@@ -44,13 +45,13 @@ python visualize_results.py
 pip install easyocr
 
 # Interactive demo - detect widgets, extract text, recreate GUI
-python demo_gui_recreation.py
+python scripts/recreation/demo_gui_recreation.py
 
 # Batch process all real screenshots
-python batch_recreate_guis.py
+python scripts/recreation/batch_recreate_guis.py
 
 # Generate executable code (Tkinter/PyQt/HTML)
-python generate_gui_code.py real_padded_screenshots/calculator.png
+python scripts/recreation/generate_gui_code.py data/real_screenshots/calculator.png
 ```
 
 **What it does:**
@@ -59,23 +60,23 @@ python generate_gui_code.py real_padded_screenshots/calculator.png
 3. Analyzes layout structure (rows, columns)
 4. Recreates GUI in Tkinter, HTML, or as executable code
 
-See [README_GUI_RECREATION.md](README_GUI_RECREATION.md) for details.
+See [docs/README_GUI_RECREATION.md](docs/README_GUI_RECREATION.md) for details.
 
 ### 3. Generate More Training Data (Optional)
 
 ```bash
 # Open and run the notebook to generate more GUIs
-jupyter notebook randomized_gui_loop.ipynb
+jupyter notebook notebooks/randomized_gui_loop.ipynb
 ```
 
 ### 4. Retrain (Optional)
 
 ```bash
 # Prepare dataset
-python prepare_yolo_dataset.py
+python scripts/training/prepare_yolo_dataset.py
 
 # Train model
-python train_model.py
+python scripts/training/train_model.py
 ```
 
 ## 📊 Model Performance
@@ -87,49 +88,79 @@ python train_model.py
 | Precision | 95.27% |
 | Recall | 96.84% |
 
-See [TRAINING_RESULTS.md](TRAINING_RESULTS.md) for detailed results.
+See [docs/TRAINING_RESULTS.md](docs/TRAINING_RESULTS.md) for detailed results.
 
 ## 📁 Project Structure
 
 ```
 GUI-Research-Project/
-├── 📊 Data
-│   ├── annotations/              # JSON annotations for training data
-│   ├── screenshots/              # GUI screenshots
-│   └── yolo_dataset/            # YOLO-formatted dataset
+├── 📊 data/                     # Training and test data
+│   ├── annotations/             # JSON annotations (600 samples)
+│   ├── screenshots/             # Synthetic GUI screenshots
+│   ├── real_screenshots/        # Real-world screenshots
+│   └── improved_data/           # Enhanced training data
 │
-├── 🤖 Models
-│   └── gui_widget_detection/    # Trained model weights & results
+├── 🤖 models/                   # Trained models
+│   ├── gui_widget_detection/    # YOLOv8 training results
+│   └── yolov8n.pt              # Base YOLO model
 │
-├── 🛠️ Scripts
-│   ├── prepare_yolo_dataset.py  # Convert annotations to YOLO format
-│   ├── train_model.py           # Train YOLOv8 model
-│   ├── test_model.py            # Evaluate model performance
-│   ├── visualize_results.py     # Create visualizations
-│   └── demo.py                  # Quick demo script
+├── 📦 datasets/                 # Prepared datasets
+│   └── yolo_dataset/           # YOLO-formatted dataset
 │
-├── 🎨 GUI Generation
-│   ├── randomized_gui.py        # GUI generation script
-│   ├── randomized_gui_loop.ipynb # Batch GUI generation
-│   └── randomized_gui.ipynb     # Interactive GUI generation
+├── 🛠️ scripts/                  # All scripts organized by function
+│   ├── training/               # Training & dataset preparation
+│   │   ├── train_model.py
+│   │   └── prepare_yolo_dataset.py
+│   │
+│   ├── inference/              # Testing & visualization
+│   │   ├── test_model.py
+│   │   ├── test_real_world.py
+│   │   └── visualize_results.py
+│   │
+│   ├── recreation/             # GUI Recreation (NEW!)
+│   │   ├── recreate_gui_from_screenshot.py
+│   │   ├── demo_gui_recreation.py
+│   │   ├── batch_recreate_guis.py
+│   │   ├── generate_gui_code.py
+│   │   └── compare_original_recreated.py
+│   │
+│   ├── analysis/               # Analysis & metrics
+│   │   ├── compare_trainings.py
+│   │   ├── get_per_class_metrics.py
+│   │   └── print_final_stats.py
+│   │
+│   └── utils/                  # Utilities
+│       └── randomized_gui.py
 │
-├── 🔄 GUI Recreation (NEW!)
-│   ├── recreate_gui_from_screenshot.py  # Main recreation pipeline
-│   ├── demo_gui_recreation.py           # Interactive demo
-│   ├── batch_recreate_guis.py           # Process all screenshots
-│   ├── generate_gui_code.py             # Generate Tkinter/PyQt/HTML code
-│   ├── compare_original_recreated.py    # Visual comparison tool
-│   └── gui_recreations/                 # Output directory
+├── 📈 results/                  # All outputs
+│   ├── gui_recreations/        # GUI recreation outputs
+│   ├── test_outputs/           # Test results
+│   ├── real_world/             # Real-world test results
+│   ├── presentation/           # Presentation materials
+│   └── runs/                   # Training runs
+│
+├── 📓 notebooks/                # Jupyter notebooks
+│   ├── randomized_gui.ipynb
+│   ├── randomized_gui_loop.ipynb
+│   ├── gui_recreator.ipynb
+│   └── sandbox.ipynb
+│
+├── 📖 docs/                     # Documentation
+│   ├── README.md               # This file
+│   ├── README_MODEL.md         # Model documentation
+│   ├── README_GUI_RECREATION.md # Recreation system docs
+│   ├── RECREATION_QUICKSTART.md # Quick reference
+│   ├── TRAINING_RESULTS.md     # Training results
+│   ├── FULL_PIPELINE.md        # Complete pipeline
+│   └── presentation/           # Presentation slides
 │
 ├── 📝 Configuration
-│   ├── dataset.yaml             # YOLO dataset config
-│   └── requirements.txt         # Python dependencies
+│   ├── dataset.yaml            # YOLO dataset config
+│   ├── requirements.txt        # Python dependencies
+│   └── .gitignore
 │
-└── 📖 Documentation
-    ├── README.md                # This file
-    ├── README_MODEL.md          # Detailed model documentation
-    ├── README_GUI_RECREATION.md # GUI recreation system (NEW!)
-    └── TRAINING_RESULTS.md      # Training results & performance
+└── 🎯 Quick Access
+    └── ideas.txt               # Project ideas & notes
 ```
 
 ## 🎯 Detected Widget Types
@@ -143,7 +174,7 @@ GUI-Research-Project/
 
 - **Model**: YOLOv8 Nano (3M parameters)
 - **Training Time**: ~60 minutes (100 epochs)
-- **Dataset**: 160 train / 40 validation images (200 total)
+- **Dataset**: 160 train / 40 validation images (200 total base, 600 available)
 - **Augmentation**: HSV, rotation, scaling, flipping, mosaic
 - **Hardware**: Trained on CPU (Apple M4)
 
@@ -151,7 +182,7 @@ GUI-Research-Project/
 
 ### Retrain with Different Settings
 
-Edit `train_model.py`:
+Edit `scripts/training/train_model.py`:
 ```python
 MODEL_SIZE = "yolov8s"  # Use larger model (nano/small/medium)
 EPOCHS = 200            # Train longer
@@ -160,17 +191,18 @@ BATCH_SIZE = 32         # Increase batch size
 
 ### Generate More Training Data
 
-Edit `randomized_gui_loop.ipynb`:
+Edit `notebooks/randomized_gui_loop.ipynb`:
 ```python
 for iter in tqdm(range(500)):  # Generate 500 examples
     # ... existing code ...
 ```
 
-
 ## 📚 Documentation
 
-- [README_MODEL.md](README_MODEL.md) - Comprehensive model documentation
-- [TRAINING_RESULTS.md](TRAINING_RESULTS.md) - Training results and analysis
+- [docs/README_MODEL.md](docs/README_MODEL.md) - Comprehensive model documentation
+- [docs/README_GUI_RECREATION.md](docs/README_GUI_RECREATION.md) - GUI recreation system
+- [docs/RECREATION_QUICKSTART.md](docs/RECREATION_QUICKSTART.md) - Quick reference guide
+- [docs/TRAINING_RESULTS.md](docs/TRAINING_RESULTS.md) - Training results and analysis
 - [Ultralytics Docs](https://docs.ultralytics.com/) - YOLOv8 documentation
 
 ## 🎨 Visualization
@@ -179,13 +211,41 @@ The project includes visualization tools to see model predictions:
 
 ```bash
 # Create summary of predictions on multiple images
-python visualize_results.py
+python scripts/inference/visualize_results.py
 
 # Visualize specific image
-python visualize_results.py screenshots/screenshot_0.png
+python scripts/inference/visualize_results.py data/screenshots/screenshot_0.png
 ```
 
 Results are color-coded:
 - 🔴 Red boxes = Buttons
 - 🟢 Green boxes = Labels
 - 🔵 Blue boxes = Entry fields
+
+## 🔮 GUI Recreation Features
+
+- **Object Detection** - YOLO detects all widgets
+- **Text Extraction** - OCR extracts text (96% success rate)
+- **Layout Analysis** - Automatic row/column detection
+- **Code Generation** - Outputs working Tkinter/PyQt/HTML code
+- **Visual Comparison** - Side-by-side original vs recreated
+- **Batch Processing** - Process multiple screenshots at once
+
+## 🚀 Future Improvements
+
+- [ ] Deep learning for better OCR
+- [ ] Hierarchical widget relationships (parent-child)
+- [ ] Style detection (colors, fonts, themes)
+- [ ] Automatic React/Flutter code generation
+- [ ] Real-time GUI recreation from video
+- [ ] Training on more GUI frameworks (Qt, GTK, Web)
+
+## 📄 License
+
+This project is for research and educational purposes.
+
+## 🙏 Acknowledgments
+
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection framework
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Text extraction
+- Tkinter - GUI generation and recreation

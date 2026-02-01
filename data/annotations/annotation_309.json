@@ -1,0 +1,117 @@
+{
+  "image": "screenshots/screenshot_309.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "vexuXapBqg",
+      "color": "#cb9fb9",
+      "bbox": {
+        "x_min": 278,
+        "y_min": 0,
+        "x_max": 376,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "lhisrZJbLcUe",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 552,
+        "y_min": 0,
+        "x_max": 795,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 651,
+        "y_min": 83,
+        "x_max": 795,
+        "y_max": 168
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 552,
+        "y_min": 728,
+        "x_max": 795,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "CPEjqbT",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 933,
+        "y_min": 0,
+        "x_max": 1112,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "czwpSqCbIDFfB",
+      "color": "#cb9fb9",
+      "bbox": {
+        "x_min": 1112,
+        "y_min": 0,
+        "x_max": 1231,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "jsSBAeRZKAD",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 1231,
+        "y_min": 0,
+        "x_max": 1352,
+        "y_max": 83
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#738bb0",
+      "bbox": {
+        "x_min": 1231,
+        "y_min": 83,
+        "x_max": 1352,
+        "y_max": 168
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "JXIoKUbJoLcF",
+      "color": "#cb9fb9",
+      "bbox": {
+        "x_min": 1231,
+        "y_min": 728,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

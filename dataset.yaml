@@ -1,7 +1,7 @@
 # YOLOv8 Dataset Configuration for GUI Widget Detection
 
 # Paths (relative to this file)
-path: yolo_dataset  # dataset root dir
+path: datasets/yolo_dataset  # dataset root dir
 train: train/images  # train images (relative to 'path')
 val: val/images  # val images (relative to 'path')
 
@@ -11,6 +11,8 @@ names:
   1: Label
   2: Entry
   3: Table
+  4: Plot
+  5: Video
 
 # Number of classes
-nc: 4
+nc: 6

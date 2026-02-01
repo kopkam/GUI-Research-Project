@@ -1,0 +1,34 @@
+================================================================================
+SZCZEGÓŁOWA ARCHITEKTURA WARSTW - YOLOV8 NANO
+================================================================================
+
+
+================================================================================
+SZCZEGÓŁY ARCHITEKTURY
+================================================================================
+
+Liczba warstw: 225
+Całkowita liczba parametrów: 3,011,628
+Parametry treningalne: 0
+
+Rozmiar modelu: ~6 MB
+Format: PyTorch (.pt)
+
+================================================================================
+KOMPONENTY MODELU
+================================================================================
+
+1. BACKBONE (Feature Extraction)
+   - Conv layers with SiLU activation
+   - C2f blocks (CSP Bottleneck with 2 Convolutions)
+   - Progressive downsampling
+
+2. NECK (Feature Fusion)
+   - FPN (Feature Pyramid Network)
+   - PAN (Path Aggregation Network)
+   - Multi-scale feature fusion
+
+3. HEAD (Detection)
+   - Classification branch (4 classes)
+   - Bounding box regression
+   - Objectness prediction
