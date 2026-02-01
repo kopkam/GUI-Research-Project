@@ -6,99 +6,135 @@
   },
   "widgets": [
     {
-      "id": "label_1",
-      "type": "Label",
-      "text": "TbaTaq",
-      "color": "#7bbc79",
+      "id": "button_1",
+      "type": "Button",
+      "text": "qLeGxHRslY",
+      "color": "#d0ce97",
       "bbox": {
         "x_min": 0,
-        "y_min": 57,
-        "x_max": 129,
-        "y_max": 92
+        "y_min": 46,
+        "x_max": 126,
+        "y_max": 133
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "JawxEN",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 126,
+        "y_min": 46,
+        "x_max": 211,
+        "y_max": 133
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "WIyViiPlKJjEw",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 211,
+        "y_min": 46,
+        "x_max": 398,
+        "y_max": 133
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "LBETQGBOkXQrv",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 622,
+        "y_min": 0,
+        "x_max": 776,
+        "y_max": 46
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "wEftIGv",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 622,
+        "y_min": 46,
+        "x_max": 776,
+        "y_max": 133
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "XlvpJdxL",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 622,
+        "y_min": 133,
+        "x_max": 776,
+        "y_max": 226
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "cfWkrOYfxoTQQ",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 622,
+        "y_min": 773,
+        "x_max": 896,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "XUEcJBBM",
+      "color": "#d0ce97",
+      "bbox": {
+        "x_min": 776,
+        "y_min": 133,
+        "x_max": 896,
+        "y_max": 226
       }
     },
     {
       "id": "entry_1",
       "type": "Entry",
       "text": "",
-      "color": "#b2b2b2",
+      "color": "#748bac",
       "bbox": {
-        "x_min": 0,
-        "y_min": 186,
-        "x_max": 129,
-        "y_max": 282
-      }
-    },
-    {
-      "id": "label_2",
-      "type": "Label",
-      "text": "iDjBhzebxA",
-      "color": "#7bbc79",
-      "bbox": {
-        "x_min": 129,
-        "y_min": 777,
-        "x_max": 488,
+        "x_min": 896,
+        "y_min": 773,
+        "x_max": 990,
         "y_max": 864
       }
     },
     {
-      "id": "button_1",
+      "id": "button_6",
       "type": "Button",
-      "text": "wDycJ",
-      "color": "#6ca7c1",
+      "text": "EazVKvplDfOBaB",
+      "color": "#d0ce97",
       "bbox": {
-        "x_min": 488,
-        "y_min": 0,
-        "x_max": 682,
-        "y_max": 57
-      }
-    },
-    {
-      "id": "button_2",
-      "type": "Button",
-      "text": "sbbbsWouZIai",
-      "color": "#6ca7c1",
-      "bbox": {
-        "x_min": 772,
-        "y_min": 777,
-        "x_max": 1108,
+        "x_min": 1112,
+        "y_min": 773,
+        "x_max": 1283,
         "y_max": 864
       }
     },
     {
-      "id": "button_3",
+      "id": "button_7",
       "type": "Button",
-      "text": "TKOcd",
-      "color": "#6ca7c1",
+      "text": "ffnuvDHx",
+      "color": "#d0ce97",
       "bbox": {
-        "x_min": 1250,
-        "y_min": 387,
+        "x_min": 1283,
+        "y_min": 596,
         "x_max": 1536,
-        "y_max": 477
-      }
-    },
-    {
-      "id": "label_3",
-      "type": "Label",
-      "text": "EqSalkVpNHnY",
-      "color": "#7bbc79",
-      "bbox": {
-        "x_min": 1250,
-        "y_min": 625,
-        "x_max": 1536,
-        "y_max": 694
-      }
-    },
-    {
-      "id": "label_4",
-      "type": "Label",
-      "text": "eBmgvNnaT",
-      "color": "#7bbc79",
-      "bbox": {
-        "x_min": 1250,
-        "y_min": 694,
-        "x_max": 1536,
-        "y_max": 777
+        "y_max": 673
       }
     }
   ]

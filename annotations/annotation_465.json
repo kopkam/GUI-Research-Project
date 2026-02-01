@@ -1,0 +1,129 @@
+{
+  "image": "screenshots/screenshot_465.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "dYVXDtDm",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 604,
+        "x_max": 103,
+        "y_max": 684
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 103,
+        "y_min": 788,
+        "x_max": 278,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "OceAnhERCIb",
+      "color": "#b9d2b9",
+      "bbox": {
+        "x_min": 392,
+        "y_min": 788,
+        "x_max": 587,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 862,
+        "y_min": 0,
+        "x_max": 1054,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "mQyGzxbsS",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 862,
+        "y_min": 788,
+        "x_max": 1054,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "vUIvyQcmgoLED",
+      "color": "#b9d2b9",
+      "bbox": {
+        "x_min": 1054,
+        "y_min": 0,
+        "x_max": 1146,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "ulNgSYJFc",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1054,
+        "y_min": 788,
+        "x_max": 1146,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "LVaydcdzRNgduf",
+      "color": "#b9d2b9",
+      "bbox": {
+        "x_min": 1146,
+        "y_min": 788,
+        "x_max": 1339,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "CevpQ",
+      "color": "#b9d2b9",
+      "bbox": {
+        "x_min": 1339,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1339,
+        "y_min": 526,
+        "x_max": 1536,
+        "y_max": 604
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_image": "real_padded_screenshots/reaper.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Table",
+      "bbox": [
+        0,
+        716,
+        562,
+        1013
+      ],
+      "confidence": 0.8586583733558655,
+      "text": "center center center center center center +2.7OdB 23.48 7.78 10.0 23.63 8.32 Roure Kue Kue Kue Kue Kue RMS swing drums rhytm rhytm ambient bass MASTER Mono",
+      "center_x": 281.0,
+      "center_y": 864.5,
+      "width": 562,
+      "height": 297
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1759,
+        47,
+        1919,
+        75
+      ],
+      "confidence": 0.6972757577896118,
+      "text": "[audio device closed]",
+      "center_x": 1839.0,
+      "center_y": 61.0,
+      "width": 160,
+      "height": 28
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        0,
+        47,
+        183,
+        75
+      ],
+      "confidence": 0.6117501258850098,
+      "text": "File Edit View Insert",
+      "center_x": 91.5,
+      "center_y": 61.0,
+      "width": 183,
+      "height": 28
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        125,
+        1000,
+        297,
+        1023
+      ],
+      "confidence": 0.5549678206443787,
+      "text": "",
+      "center_x": 211.0,
+      "center_y": 1011.5,
+      "width": 172,
+      "height": 23
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        24,
+        258,
+        372,
+        344
+      ],
+      "confidence": 0.42664387822151184,
+      "text": "rhytm trim",
+      "center_x": 198.0,
+      "center_y": 301.0,
+      "width": 348,
+      "height": 86
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        23,
+        417,
+        334,
+        449
+      ],
+      "confidence": 0.4158393442630768,
+      "text": "ambient 'trim",
+      "center_x": 178.5,
+      "center_y": 433.0,
+      "width": 311,
+      "height": 32
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        23,
+        485,
+        329,
+        520
+      ],
+      "confidence": 0.38756364583969116,
+      "text": "bass ~trim",
+      "center_x": 176.0,
+      "center_y": 502.5,
+      "width": 306,
+      "height": 35
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        24,
+        466,
+        373,
+        553
+      ],
+      "confidence": 0.3427729308605194,
+      "text": "bass",
+      "center_x": 198.5,
+      "center_y": 509.5,
+      "width": 349,
+      "height": 87
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1654,
+        47,
+        1920,
+        75
+      ],
+      "confidence": 0.26599425077438354,
+      "text": "[audio device closed]",
+      "center_x": 1787.0,
+      "center_y": 61.0,
+      "width": 266,
+      "height": 28
+    }
+  ]
+}

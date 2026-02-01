@@ -1,0 +1,223 @@
+{
+  "image": "screenshots/screenshot_583.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "MzaLCmmqqtbec",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 667,
+        "x_max": 102,
+        "y_max": 756
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "Mvlpt",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 756,
+        "x_max": 102,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#60a45f",
+      "bbox": {
+        "x_min": 102,
+        "y_min": 0,
+        "x_max": 215,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "plot",
+      "type": "Plot",
+      "bbox": {
+        "x_min": 215,
+        "y_min": 386,
+        "x_max": 847,
+        "y_max": 667
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "wrJaKNEsXLUSJN",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 215,
+        "y_min": 756,
+        "x_max": 545,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#60a45f",
+      "bbox": {
+        "x_min": 410,
+        "y_min": 0,
+        "x_max": 545,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "xIexNvNjkH",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 545,
+        "y_min": 0,
+        "x_max": 847,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "wJKHWgRSHPbrcv",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 847,
+        "y_min": 0,
+        "x_max": 1037,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "nIMufq",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1037,
+        "y_min": 0,
+        "x_max": 1139,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "XGrMxQKNjJfpYuN",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1037,
+        "y_min": 756,
+        "x_max": 1139,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "DxXboTVDr",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1139,
+        "y_min": 0,
+        "x_max": 1277,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "Qicvyjg",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1139,
+        "y_min": 41,
+        "x_max": 1277,
+        "y_max": 86
+      }
+    },
+    {
+      "id": "button_6",
+      "type": "Button",
+      "text": "BujeT",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1139,
+        "y_min": 86,
+        "x_max": 1277,
+        "y_max": 180
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "leQqIBJTNpTu",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1139,
+        "y_min": 180,
+        "x_max": 1277,
+        "y_max": 235
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "AeSdNztmYWN",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1277,
+        "y_min": 180,
+        "x_max": 1399,
+        "y_max": 235
+      }
+    },
+    {
+      "id": "label_7",
+      "type": "Label",
+      "text": "SQdAMEELdwbXm",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1399,
+        "y_min": 0,
+        "x_max": 1536,
+        "y_max": 41
+      }
+    },
+    {
+      "id": "label_8",
+      "type": "Label",
+      "text": "MkgTVoRHclL",
+      "color": "#b6cbd4",
+      "bbox": {
+        "x_min": 1399,
+        "y_min": 235,
+        "x_max": 1536,
+        "y_max": 317
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#60a45f",
+      "bbox": {
+        "x_min": 1399,
+        "y_min": 667,
+        "x_max": 1536,
+        "y_max": 756
+      }
+    }
+  ]
+}

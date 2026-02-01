@@ -1,0 +1,369 @@
+{
+  "source_image": "real_padded_screenshots/awwwards.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1638,
+        493,
+        1821,
+        560
+      ],
+      "confidence": 0.9652697443962097,
+      "text": "Reset filters",
+      "center_x": 1729.5,
+      "center_y": 526.5,
+      "width": 183,
+      "height": 67
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        242,
+        496,
+        400,
+        560
+      ],
+      "confidence": 0.9405899047851562,
+      "text": "Category",
+      "center_x": 321.0,
+      "center_y": 528.0,
+      "width": 158,
+      "height": 64
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        511,
+        495,
+        682,
+        560
+      ],
+      "confidence": 0.928526759147644,
+      "text": "Technology",
+      "center_x": 596.5,
+      "center_y": 527.5,
+      "width": 171,
+      "height": 65
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1331,
+        401,
+        1534,
+        494
+      ],
+      "confidence": 0.9233042597770691,
+      "text": "Log in Sign Up",
+      "center_x": 1432.5,
+      "center_y": 447.5,
+      "width": 203,
+      "height": 93
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        823,
+        494,
+        968,
+        559
+      ],
+      "confidence": 0.9211418628692627,
+      "text": "Font ~ 1",
+      "center_x": 895.5,
+      "center_y": 526.5,
+      "width": 145,
+      "height": 65
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        679,
+        493,
+        825,
+        560
+      ],
+      "confidence": 0.9162203073501587,
+      "text": "Country",
+      "center_x": 752.0,
+      "center_y": 526.5,
+      "width": 146,
+      "height": 67
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        100,
+        494,
+        247,
+        560
+      ],
+      "confidence": 0.9099757671356201,
+      "text": "Awards",
+      "center_x": 173.5,
+      "center_y": 527.0,
+      "width": 147,
+      "height": 66
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        964,
+        495,
+        1119,
+        559
+      ],
+      "confidence": 0.8945322632789612,
+      "text": "Color",
+      "center_x": 1041.5,
+      "center_y": 527.0,
+      "width": 155,
+      "height": 64
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        398,
+        496,
+        513,
+        558
+      ],
+      "confidence": 0.8843942880630493,
+      "text": "Tag",
+      "center_x": 455.5,
+      "center_y": 527.0,
+      "width": 115,
+      "height": 62
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1526,
+        419,
+        1630,
+        481
+      ],
+      "confidence": 0.819892168045044,
+      "text": "Be Pro",
+      "center_x": 1578.0,
+      "center_y": 450.0,
+      "width": 104,
+      "height": 62
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1633,
+        416,
+        1820,
+        477
+      ],
+      "confidence": 0.7730594277381897,
+      "text": "Submit Website",
+      "center_x": 1726.5,
+      "center_y": 446.5,
+      "width": 187,
+      "height": 61
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1159,
+        561,
+        1477,
+        690
+      ],
+      "confidence": 0.7352272272109985,
+      "text": "Best selection of Retro Website examp",
+      "center_x": 1318.0,
+      "center_y": 625.5,
+      "width": 318,
+      "height": 129
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        535,
+        406,
+        725,
+        496
+      ],
+      "confidence": 0.7111048698425293,
+      "text": "w Jobs Market",
+      "center_x": 630.0,
+      "center_y": 451.0,
+      "width": 190,
+      "height": 90
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        723,
+        421,
+        952,
+        476
+      ],
+      "confidence": 0.6489651203155518,
+      "text": "Search by Websites",
+      "center_x": 837.5,
+      "center_y": 448.5,
+      "width": 229,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        233,
+        408,
+        414,
+        498
+      ],
+      "confidence": 0.5749778747558594,
+      "text": "Explore Directory",
+      "center_x": 323.5,
+      "center_y": 453.0,
+      "width": 181,
+      "height": 90
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        230,
+        409,
+        415,
+        496
+      ],
+      "confidence": 0.46628764271736145,
+      "text": "Explore Directory",
+      "center_x": 322.5,
+      "center_y": 452.5,
+      "width": 185,
+      "height": 87
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1657,
+        593,
+        1825,
+        670
+      ],
+      "confidence": 0.4351118206977844,
+      "text": "Read more",
+      "center_x": 1741.0,
+      "center_y": 631.5,
+      "width": 168,
+      "height": 77
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        400,
+        414,
+        532,
+        496
+      ],
+      "confidence": 0.4266096353530884,
+      "text": "Academy Nev",
+      "center_x": 466.0,
+      "center_y": 455.0,
+      "width": 132,
+      "height": 82
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        96,
+        589,
+        220,
+        678
+      ],
+      "confidence": 0.4185469448566437,
+      "text": "Websites",
+      "center_x": 158.0,
+      "center_y": 633.5,
+      "width": 124,
+      "height": 89
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        973,
+        417,
+        1336,
+        483
+      ],
+      "confidence": 0.389664888381958,
+      "text": "",
+      "center_x": 1154.5,
+      "center_y": 450.0,
+      "width": 363,
+      "height": 66
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1462,
+        559,
+        1663,
+        690
+      ],
+      "confidence": 0.3378200829029083,
+      "text": "mples for your inspiration .",
+      "center_x": 1562.5,
+      "center_y": 624.5,
+      "width": 201,
+      "height": 131
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        71,
+        400,
+        241,
+        497
+      ],
+      "confidence": 0.31597471237182617,
+      "text": "W_",
+      "center_x": 156.0,
+      "center_y": 448.5,
+      "width": 170,
+      "height": 97
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1172,
+        568,
+        1346,
+        686
+      ],
+      "confidence": 0.3020159602165222,
+      "text": "Best selection of Retre",
+      "center_x": 1259.0,
+      "center_y": 627.0,
+      "width": 174,
+      "height": 118
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        728,
+        416,
+        1334,
+        483
+      ],
+      "confidence": 0.2904871106147766,
+      "text": "Search by Websites",
+      "center_x": 1031.0,
+      "center_y": 449.5,
+      "width": 606,
+      "height": 67
+    }
+  ]
+}

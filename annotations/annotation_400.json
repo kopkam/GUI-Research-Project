@@ -1,0 +1,69 @@
+{
+  "image": "screenshots/screenshot_400.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#aa7896",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 408,
+        "x_max": 99,
+        "y_max": 487
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "bwznyZVcIwHX",
+      "color": "#a8cfa7",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 641,
+        "x_max": 99,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#aa7896",
+      "bbox": {
+        "x_min": 575,
+        "y_min": 710,
+        "x_max": 735,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#aa7896",
+      "bbox": {
+        "x_min": 1025,
+        "y_min": 710,
+        "x_max": 1184,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "udckuWp",
+      "color": "#a8cfa7",
+      "bbox": {
+        "x_min": 1184,
+        "y_min": 710,
+        "x_max": 1341,
+        "y_max": 864
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image": "screenshots/screenshot_268.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "teFKFXirFRgaQG",
+      "color": "#c4dac3",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 90,
+        "x_max": 131,
+        "y_max": 161
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "YrEkZcYI",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 708,
+        "x_max": 131,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "yspXGZmFHoctdZ",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 284,
+        "y_min": 624,
+        "x_max": 367,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "CYzSoXhSIdNg",
+      "color": "#c4dac3",
+      "bbox": {
+        "x_min": 1109,
+        "y_min": 708,
+        "x_max": 1259,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "HviWW",
+      "color": "#c4dac3",
+      "bbox": {
+        "x_min": 1259,
+        "y_min": 60,
+        "x_max": 1536,
+        "y_max": 90
+      }
+    }
+  ]
+}

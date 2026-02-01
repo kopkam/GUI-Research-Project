@@ -1,0 +1,294 @@
+{
+  "source_image": "real_padded_screenshots/currency_2.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1499,
+        568,
+        1654,
+        623
+      ],
+      "confidence": 0.898709237575531,
+      "text": "Send",
+      "center_x": 1576.5,
+      "center_y": 595.5,
+      "width": 155,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1499,
+        327,
+        1656,
+        383
+      ],
+      "confidence": 0.8504683971405029,
+      "text": "Send",
+      "center_x": 1577.5,
+      "center_y": 355.0,
+      "width": 157,
+      "height": 56
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        929,
+        688,
+        1020,
+        742
+      ],
+      "confidence": 0.814290463924408,
+      "text": "-0.13%",
+      "center_x": 974.5,
+      "center_y": 715.0,
+      "width": 91,
+      "height": 54
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1499,
+        687,
+        1654,
+        743
+      ],
+      "confidence": 0.8094847798347473,
+      "text": "Send",
+      "center_x": 1576.5,
+      "center_y": 715.0,
+      "width": 155,
+      "height": 56
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1499,
+        447,
+        1661,
+        502
+      ],
+      "confidence": 0.7402052879333496,
+      "text": "Send",
+      "center_x": 1580.0,
+      "center_y": 474.5,
+      "width": 162,
+      "height": 55
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        928,
+        447,
+        1035,
+        502
+      ],
+      "confidence": 0.7300406694412231,
+      "text": "-0.014%",
+      "center_x": 981.5,
+      "center_y": 474.5,
+      "width": 107,
+      "height": 55
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        235,
+        306,
+        765,
+        420
+      ],
+      "confidence": 0.6855621337890625,
+      "text": "Euro 0.8382",
+      "center_x": 500.0,
+      "center_y": 363.0,
+      "width": 530,
+      "height": 114
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        928,
+        567,
+        1030,
+        621
+      ],
+      "confidence": 0.6543427109718323,
+      "text": "+0.58%",
+      "center_x": 979.0,
+      "center_y": 594.0,
+      "width": 102,
+      "height": 54
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        234,
+        414,
+        764,
+        541
+      ],
+      "confidence": 0.6203837990760803,
+      "text": "British Pound 0.72557",
+      "center_x": 499.0,
+      "center_y": 477.5,
+      "width": 530,
+      "height": 127
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        229,
+        533,
+        761,
+        661
+      ],
+      "confidence": 0.6170840859413147,
+      "text": "Japanese Yen 153.68",
+      "center_x": 495.0,
+      "center_y": 597.0,
+      "width": 532,
+      "height": 128
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        673,
+        416,
+        929,
+        537
+      ],
+      "confidence": 0.5992249846458435,
+      "text": "0.72557",
+      "center_x": 801.0,
+      "center_y": 476.5,
+      "width": 256,
+      "height": 121
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1027,
+        534,
+        1318,
+        658
+      ],
+      "confidence": 0.39676645398139954,
+      "text": "",
+      "center_x": 1172.5,
+      "center_y": 596.0,
+      "width": 291,
+      "height": 124
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1028,
+        307,
+        1329,
+        416
+      ],
+      "confidence": 0.3605858087539673,
+      "text": "",
+      "center_x": 1178.5,
+      "center_y": 361.5,
+      "width": 301,
+      "height": 109
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        930,
+        327,
+        1029,
+        380
+      ],
+      "confidence": 0.33446744084358215,
+      "text": "+0.38%",
+      "center_x": 979.5,
+      "center_y": 353.5,
+      "width": 99,
+      "height": 53
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        240,
+        669,
+        455,
+        754
+      ],
+      "confidence": 0.32992154359817505,
+      "text": "Canadian Dollar",
+      "center_x": 347.5,
+      "center_y": 711.5,
+      "width": 215,
+      "height": 85
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        928,
+        327,
+        1030,
+        381
+      ],
+      "confidence": 0.30521640181541443,
+      "text": "+0.38%",
+      "center_x": 979.0,
+      "center_y": 354.0,
+      "width": 102,
+      "height": 54
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        929,
+        448,
+        1035,
+        501
+      ],
+      "confidence": 0.29313579201698303,
+      "text": "-0.014%",
+      "center_x": 982.0,
+      "center_y": 474.5,
+      "width": 106,
+      "height": 53
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        235,
+        659,
+        410,
+        764
+      ],
+      "confidence": 0.279056191444397,
+      "text": "Canadian Dollar",
+      "center_x": 322.5,
+      "center_y": 711.5,
+      "width": 175,
+      "height": 105
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        230,
+        532,
+        394,
+        660
+      ],
+      "confidence": 0.26980605721473694,
+      "text": "Japanese Yen",
+      "center_x": 312.0,
+      "center_y": 596.0,
+      "width": 164,
+      "height": 128
+    }
+  ]
+}

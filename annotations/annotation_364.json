@@ -1,0 +1,117 @@
+{
+  "image": "screenshots/screenshot_364.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "jpUXPHUOEmJqK",
+      "color": "#b599d0",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 67,
+        "x_max": 112,
+        "y_max": 133
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "VRmdMLiS",
+      "color": "#637ca2",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 133,
+        "x_max": 112,
+        "y_max": 185
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "CwGVvg",
+      "color": "#637ca2",
+      "bbox": {
+        "x_min": 544,
+        "y_min": 0,
+        "x_max": 677,
+        "y_max": 67
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "MpzJBuTlBNM",
+      "color": "#b599d0",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 133,
+        "x_max": 1536,
+        "y_max": 185
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 185,
+        "x_max": 1536,
+        "y_max": 243
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "DRISLrwp",
+      "color": "#b599d0",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 387,
+        "x_max": 1536,
+        "y_max": 422
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 500,
+        "x_max": 1536,
+        "y_max": 544
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "luDIKcddevmh",
+      "color": "#b599d0",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 640,
+        "x_max": 1536,
+        "y_max": 734
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "UQuezJEztskagoY",
+      "color": "#637ca2",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 734,
+        "x_max": 1536,
+        "y_max": 864
+      }
+    }
+  ]
+}

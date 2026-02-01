@@ -1,0 +1,204 @@
+{
+  "source_image": "real_padded_screenshots/putty.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        916,
+        674,
+        1154,
+        735
+      ],
+      "confidence": 0.9191458225250244,
+      "text": "ver Only on clean exit",
+      "center_x": 1035.0,
+      "center_y": 704.5,
+      "width": 238,
+      "height": 61
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1035,
+        741,
+        1152,
+        782
+      ],
+      "confidence": 0.8636486530303955,
+      "text": "Cancel",
+      "center_x": 1093.5,
+      "center_y": 761.5,
+      "width": 117,
+      "height": 41
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1050,
+        538,
+        1145,
+        577
+      ],
+      "confidence": 0.8046194911003113,
+      "text": "Load",
+      "center_x": 1097.5,
+      "center_y": 557.5,
+      "width": 95,
+      "height": 39
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        770,
+        526,
+        1052,
+        668
+      ],
+      "confidence": 0.7500373125076294,
+      "text": "Default Settings final hpcugent",
+      "center_x": 911.0,
+      "center_y": 597.0,
+      "width": 282,
+      "height": 142
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        771,
+        673,
+        1145,
+        728
+      ],
+      "confidence": 0.719731330871582,
+      "text": "Close window on exit Always Never Only on clean exit",
+      "center_x": 958.0,
+      "center_y": 700.5,
+      "width": 374,
+      "height": 55
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        775,
+        524,
+        1045,
+        666
+      ],
+      "confidence": 0.6046911478042603,
+      "text": "Default Settings final hpcugent",
+      "center_x": 910.0,
+      "center_y": 595.0,
+      "width": 270,
+      "height": 142
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        771,
+        462,
+        1096,
+        527
+      ],
+      "confidence": 0.5617356300354004,
+      "text": "Load save or delete stored session Saved Sessions",
+      "center_x": 933.5,
+      "center_y": 494.5,
+      "width": 325,
+      "height": 65
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        770,
+        673,
+        918,
+        725
+      ],
+      "confidence": 0.5600824952125549,
+      "text": "Close window on exit: Always Neve",
+      "center_x": 844.0,
+      "center_y": 699.0,
+      "width": 148,
+      "height": 52
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1049,
+        590,
+        1148,
+        673
+      ],
+      "confidence": 0.4910060167312622,
+      "text": "Save Delete",
+      "center_x": 1098.5,
+      "center_y": 631.5,
+      "width": 99,
+      "height": 83
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        771,
+        337,
+        1152,
+        400
+      ],
+      "confidence": 0.46994608640670776,
+      "text": "Specify the destination you want to connectto Host Name (or IP address) Port",
+      "center_x": 961.5,
+      "center_y": 368.5,
+      "width": 381,
+      "height": 63
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        923,
+        740,
+        1036,
+        782
+      ],
+      "confidence": 0.393289178609848,
+      "text": "Open",
+      "center_x": 979.5,
+      "center_y": 761.0,
+      "width": 113,
+      "height": 42
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1051,
+        572,
+        1146,
+        605
+      ],
+      "confidence": 0.3619990646839142,
+      "text": "Save",
+      "center_x": 1098.5,
+      "center_y": 588.5,
+      "width": 95,
+      "height": 33
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1051,
+        561,
+        1144,
+        591
+      ],
+      "confidence": 0.290576308965683,
+      "text": "Save",
+      "center_x": 1097.5,
+      "center_y": 576.0,
+      "width": 93,
+      "height": 30
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_image": "real_padded_screenshots/investing_portfolio.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1217,
+        186,
+        1376,
+        232
+      ],
+      "confidence": 0.9401543736457825,
+      "text": "Create my portfolio",
+      "center_x": 1296.5,
+      "center_y": 209.0,
+      "width": 159,
+      "height": 46
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1536,
+        112,
+        1694,
+        168
+      ],
+      "confidence": 0.9193212389945984,
+      "text": "Log In Sign Up",
+      "center_x": 1615.0,
+      "center_y": 140.0,
+      "width": 158,
+      "height": 56
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1113,
+        105,
+        1462,
+        185
+      ],
+      "confidence": 0.7405461668968201,
+      "text": "120k companies worldwide",
+      "center_x": 1287.5,
+      "center_y": 145.0,
+      "width": 349,
+      "height": 80
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        216,
+        107,
+        449,
+        182
+      ],
+      "confidence": 0.7265948057174683,
+      "text": "SIMPLY WALLSI",
+      "center_x": 332.5,
+      "center_y": 144.5,
+      "width": 233,
+      "height": 75
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1229,
+        808,
+        1578,
+        892
+      ],
+      "confidence": 0.40016043186187744,
+      "text": "A growth Portfolio with a solid track record",
+      "center_x": 1403.5,
+      "center_y": 850.0,
+      "width": 349,
+      "height": 84
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1374,
+        176,
+        1701,
+        242
+      ],
+      "confidence": 0.39500710368156433,
+      "text": "",
+      "center_x": 1537.5,
+      "center_y": 209.0,
+      "width": 327,
+      "height": 66
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1222,
+        403,
+        1689,
+        488
+      ],
+      "confidence": 0.3892689347267151,
+      "text": "Portfolio Snowflake",
+      "center_x": 1455.5,
+      "center_y": 445.5,
+      "width": 467,
+      "height": 85
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1226,
+        424,
+        1419,
+        472
+      ],
+      "confidence": 0.3075188100337982,
+      "text": "Portfolio Snowflake",
+      "center_x": 1322.5,
+      "center_y": 448.0,
+      "width": 193,
+      "height": 48
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        217,
+        179,
+        647,
+        240
+      ],
+      "confidence": 0.29302456974983215,
+      "text": "Want a portfe",
+      "center_x": 432.0,
+      "center_y": 209.5,
+      "width": 430,
+      "height": 61
+    }
+  ]
+}

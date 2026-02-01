@@ -8,37 +8,191 @@
     {
       "id": "button_1",
       "type": "Button",
-      "text": "gGmiOoyajm",
-      "color": "#4c75b3",
+      "text": "rPNGF",
+      "color": "#bdba64",
       "bbox": {
         "x_min": 0,
-        "y_min": 533,
-        "x_max": 123,
-        "y_max": 584
+        "y_min": 542,
+        "x_max": 257,
+        "y_max": 592
       }
     },
     {
       "id": "button_2",
       "type": "Button",
-      "text": "LhyaG",
-      "color": "#4c75b3",
+      "text": "ahUgDjSOPsGX",
+      "color": "#bdba64",
       "bbox": {
-        "x_min": 123,
-        "y_min": 723,
-        "x_max": 307,
+        "x_min": 126,
+        "y_min": 779,
+        "x_max": 257,
         "y_max": 864
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "JduOdiI",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 257,
+        "y_min": 779,
+        "x_max": 380,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "rhxiwZAuUCBf",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 380,
+        "y_min": 0,
+        "x_max": 488,
+        "y_max": 92
       }
     },
     {
       "id": "entry_1",
       "type": "Entry",
       "text": "",
-      "color": "#dcb6cd",
+      "color": "#bdba64",
       "bbox": {
-        "x_min": 1304,
-        "y_min": 533,
+        "x_min": 488,
+        "y_min": 0,
+        "x_max": 584,
+        "y_max": 126
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "KbrgJWGjSSfF",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 488,
+        "y_min": 779,
+        "x_max": 584,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "rGhoQGohVP",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 584,
+        "y_min": 0,
+        "x_max": 716,
+        "y_max": 92
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "yytSxGICGgIyPG",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 584,
+        "y_min": 92,
+        "x_max": 716,
+        "y_max": 126
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "qsPDR",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 716,
+        "y_min": 92,
+        "x_max": 812,
+        "y_max": 126
+      }
+    },
+    {
+      "id": "table",
+      "type": "Table",
+      "bbox": {
+        "x_min": 812,
+        "y_min": 592,
+        "x_max": 1251,
+        "y_max": 864
+      },
+      "structure": {
+        "rows": 5,
+        "cols": 5,
+        "headers": [
+          "dSs",
+          "USH",
+          "NeCFMhY",
+          "FvlHLN",
+          "icK"
+        ],
+        "data": [
+          [
+            "HNQIBUpVg",
+            "bIRooS",
+            "QNoiss",
+            "iIEvuf",
+            "NpgSIZhAgs"
+          ],
+          [
+            "uluREeVpx",
+            "ixQaXbazC",
+            "DzeFQ",
+            "pAh",
+            "dlockIhxMZ"
+          ],
+          [
+            "QpyFC",
+            "QJfYdGIfTT",
+            "oEWDrstVj",
+            "prSgzmFnYecw",
+            "ZeRklXpKKRh"
+          ],
+          [
+            "PnDiwbUDfdr",
+            "JBOxxU",
+            "UpOTP",
+            "iLJmGNgSP",
+            "FTdNNSEhWW"
+          ],
+          [
+            "WHdVpyIfSk",
+            "cGv",
+            "NIEvX",
+            "tebGsNpsEGO",
+            "cdKYb"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "button_6",
+      "type": "Button",
+      "text": "IOqDMLVuq",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 1251,
+        "y_min": 0,
         "x_max": 1536,
-        "y_max": 584
+        "y_max": 92
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "RoInVGII",
+      "color": "#bdba64",
+      "bbox": {
+        "x_min": 1251,
+        "y_min": 126,
+        "x_max": 1536,
+        "y_max": 208
       }
     }
   ]

@@ -6,147 +6,87 @@
   },
   "widgets": [
     {
-      "id": "table",
-      "type": "Table",
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#e1cab6",
       "bbox": {
         "x_min": 0,
-        "y_min": 401,
-        "x_max": 614,
-        "y_max": 660
-      },
-      "structure": {
-        "rows": 9,
-        "cols": 6,
-        "headers": [
-          "ZDa",
-          "eSgW",
-          "LJA",
-          "vYuipa",
-          "lvoKblh",
-          "UrYYXYDJ"
-        ],
-        "data": [
-          [
-            "GRsFTJTf",
-            "GYR",
-            "hLIOabCQe",
-            "KNrBUA",
-            "CbGCJSht",
-            "bUctoKH"
-          ],
-          [
-            "lVcPwsRxC",
-            "FtrDdYbR",
-            "UYXTyynWZd",
-            "ljVmACHcQu",
-            "oby",
-            "dCvqvTBvnQJi"
-          ],
-          [
-            "EPYtAYHCwpdw",
-            "WvEzyV",
-            "fsPHi",
-            "NbbZwk",
-            "eQIFJ",
-            "ztBP"
-          ],
-          [
-            "EZn",
-            "oRXtrotYKf",
-            "ShE",
-            "GxsjFUZXU",
-            "xahBA",
-            "hAtlVpxtNE"
-          ],
-          [
-            "UwZaKRtqF",
-            "tUFJfRKkdcV",
-            "awazpRuZA",
-            "ImXOMfsxVAg",
-            "dCxM",
-            "DtYAZ"
-          ],
-          [
-            "LSIaNXiBcU",
-            "fDrkVjYEfYl",
-            "DFGK",
-            "dhPuOxrfc",
-            "QklpqIwx",
-            "BaRJkHAdPCuu"
-          ],
-          [
-            "PKobNzccSaJy",
-            "TiomoHe",
-            "DlMUZd",
-            "DnqcnJE",
-            "AJA",
-            "rQelOkltWa"
-          ],
-          [
-            "QiommCuN",
-            "ORPVqvhYoW",
-            "VdINptrFjPo",
-            "glmzPBHLMFMy",
-            "RqThrknXJ",
-            "niaAcs"
-          ],
-          [
-            "nQIaDihLdOja",
-            "FQbcJuOwj",
-            "eBUvGV",
-            "BNwEwIEvToT",
-            "mrmhmrWD",
-            "gEmroNa"
-          ]
-        ]
+        "y_min": 0,
+        "x_max": 192,
+        "y_max": 75
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#e1cab6",
+      "bbox": {
+        "x_min": 456,
+        "y_min": 374,
+        "x_max": 577,
+        "y_max": 450
       }
     },
     {
       "id": "button_1",
       "type": "Button",
-      "text": "UYcTDt",
-      "color": "#c8c6a7",
+      "text": "YrtjJJV",
+      "color": "#e1cab6",
       "bbox": {
-        "x_min": 290,
-        "y_min": 828,
-        "x_max": 467,
-        "y_max": 864
+        "x_min": 866,
+        "y_min": 0,
+        "x_max": 999,
+        "y_max": 75
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#e1cab6",
+      "bbox": {
+        "x_min": 866,
+        "y_min": 75,
+        "x_max": 999,
+        "y_max": 134
       }
     },
     {
       "id": "label_1",
       "type": "Label",
-      "text": "XLayluW",
-      "color": "#ffffff",
+      "text": "wjlSGJGjUIO",
+      "color": "#b3d3e2",
       "bbox": {
-        "x_min": 878,
-        "y_min": 783,
-        "x_max": 980,
-        "y_max": 864
-      }
-    },
-    {
-      "id": "entry_1",
-      "type": "Entry",
-      "text": "",
-      "color": "#7294a2",
-      "bbox": {
-        "x_min": 1263,
+        "x_min": 1279,
         "y_min": 0,
         "x_max": 1536,
-        "y_max": 80
+        "y_max": 75
       }
     },
     {
       "id": "button_2",
       "type": "Button",
-      "text": "oLHfvX",
-      "color": "#c8c6a7",
+      "text": "IgmcGyEPDve",
+      "color": "#e1cab6",
       "bbox": {
-        "x_min": 1263,
-        "y_min": 453,
+        "x_min": 1279,
+        "y_min": 75,
         "x_max": 1536,
-        "y_max": 524
+        "y_max": 134
+      }
+    },
+    {
+      "id": "entry_4",
+      "type": "Entry",
+      "text": "",
+      "color": "#e1cab6",
+      "bbox": {
+        "x_min": 1279,
+        "y_min": 243,
+        "x_max": 1536,
+        "y_max": 315
       }
     }
   ]

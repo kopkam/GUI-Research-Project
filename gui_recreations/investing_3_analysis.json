@@ -1,0 +1,189 @@
+{
+  "source_image": "real_padded_screenshots/investing_3.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        229,
+        844,
+        605,
+        904
+      ],
+      "confidence": 0.9350253343582153,
+      "text": "CALCULATE",
+      "center_x": 417.0,
+      "center_y": 874.0,
+      "width": 376,
+      "height": 60
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        643,
+        177,
+        1139,
+        299
+      ],
+      "confidence": 0.7885090708732605,
+      "text": "Total Contributions 436,000",
+      "center_x": 891.0,
+      "center_y": 238.0,
+      "width": 496,
+      "height": 122
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1172,
+        188,
+        1672,
+        329
+      ],
+      "confidence": 0.4948856234550476,
+      "text": "Interest Earned $89,975",
+      "center_x": 1422.0,
+      "center_y": 258.5,
+      "width": 500,
+      "height": 141
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1173,
+        179,
+        1670,
+        322
+      ],
+      "confidence": 0.4935469329357147,
+      "text": "Interest Earned $89,975",
+      "center_x": 1421.5,
+      "center_y": 250.5,
+      "width": 497,
+      "height": 143
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        640,
+        236,
+        1144,
+        329
+      ],
+      "confidence": 0.4833824336528778,
+      "text": "$36,000",
+      "center_x": 892.0,
+      "center_y": 282.5,
+      "width": 504,
+      "height": 93
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        645,
+        181,
+        1144,
+        329
+      ],
+      "confidence": 0.4353899657726288,
+      "text": "Total Contributions $36,000",
+      "center_x": 894.5,
+      "center_y": 255.0,
+      "width": 499,
+      "height": 148
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        239,
+        317,
+        594,
+        366
+      ],
+      "confidence": 0.3815285265445709,
+      "text": "Compound frequency",
+      "center_x": 416.5,
+      "center_y": 341.5,
+      "width": 355,
+      "height": 49
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        641,
+        257,
+        1139,
+        330
+      ],
+      "confidence": 0.3468254506587982,
+      "text": "$36,000",
+      "center_x": 890.0,
+      "center_y": 293.5,
+      "width": 498,
+      "height": 73
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        231,
+        688,
+        601,
+        738
+      ],
+      "confidence": 0.33065685629844666,
+      "text": "Recurring investment frequency",
+      "center_x": 416.0,
+      "center_y": 713.0,
+      "width": 370,
+      "height": 50
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        228,
+        363,
+        601,
+        529
+      ],
+      "confidence": 0.3040046989917755,
+      "text": "Daily Choose how often interest is added to your investment. For most investments like stocks and bonds choose daily compounding.",
+      "center_x": 414.5,
+      "center_y": 446.0,
+      "width": 373,
+      "height": 166
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        236,
+        515,
+        586,
+        567
+      ],
+      "confidence": 0.2879844605922699,
+      "text": "Amount of recurring investments",
+      "center_x": 411.0,
+      "center_y": 541.0,
+      "width": 350,
+      "height": 52
+    },
+    {
+      "widget_type": "Plot",
+      "bbox": [
+        617,
+        443,
+        1761,
+        889
+      ],
+      "confidence": 0.25932058691978455,
+      "text": "$13Ok $1OOk $79k $52k $26k $0 Now 2041 2056",
+      "center_x": 1189.0,
+      "center_y": 666.0,
+      "width": 1144,
+      "height": 446
+    }
+  ]
+}

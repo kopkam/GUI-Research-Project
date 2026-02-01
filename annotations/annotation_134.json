@@ -6,111 +6,135 @@
   },
   "widgets": [
     {
-      "id": "button_1",
-      "type": "Button",
-      "text": "EdjqSH",
-      "color": "#b2b2b2",
+      "id": "label_1",
+      "type": "Label",
+      "text": "FTytjbBXqYADM",
+      "color": "#acb7c8",
       "bbox": {
         "x_min": 0,
-        "y_min": 376,
-        "x_max": 82,
-        "y_max": 465
-      }
-    },
-    {
-      "id": "button_2",
-      "type": "Button",
-      "text": "BdaRAuGpBRh",
-      "color": "#b2b2b2",
-      "bbox": {
-        "x_min": 0,
-        "y_min": 650,
-        "x_max": 82,
-        "y_max": 723
+        "y_min": 152,
+        "x_max": 99,
+        "y_max": 220
       }
     },
     {
       "id": "entry_1",
       "type": "Entry",
       "text": "",
-      "color": "#b2b2b2",
+      "color": "#9dbf9c",
       "bbox": {
-        "x_min": 82,
-        "y_min": 768,
-        "x_max": 187,
-        "y_max": 864
+        "x_min": 0,
+        "y_min": 399,
+        "x_max": 99,
+        "y_max": 477
       }
     },
     {
-      "id": "button_3",
-      "type": "Button",
-      "text": "XciMdZfmUG",
-      "color": "#b2b2b2",
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#9dbf9c",
       "bbox": {
-        "x_min": 82,
-        "y_min": 0,
-        "x_max": 384,
-        "y_max": 86
+        "x_min": 0,
+        "y_min": 477,
+        "x_max": 99,
+        "y_max": 523
       }
     },
     {
-      "id": "button_4",
-      "type": "Button",
-      "text": "EgEfMewLl",
-      "color": "#b2b2b2",
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#9dbf9c",
       "bbox": {
-        "x_min": 187,
-        "y_min": 768,
-        "x_max": 384,
-        "y_max": 864
+        "x_min": 0,
+        "y_min": 621,
+        "x_max": 99,
+        "y_max": 777
       }
     },
     {
-      "id": "label_1",
-      "type": "Label",
-      "text": "jLumMTpCeEZEjK",
-      "color": "#b2b2b2",
+      "id": "entry_4",
+      "type": "Entry",
+      "text": "",
+      "color": "#9dbf9c",
       "bbox": {
-        "x_min": 510,
-        "y_min": 0,
-        "x_max": 623,
-        "y_max": 86
+        "x_min": 99,
+        "y_min": 258,
+        "x_max": 266,
+        "y_max": 358
+      }
+    },
+    {
+      "id": "entry_5",
+      "type": "Entry",
+      "text": "",
+      "color": "#9dbf9c",
+      "bbox": {
+        "x_min": 539,
+        "y_min": 60,
+        "x_max": 702,
+        "y_max": 152
       }
     },
     {
       "id": "label_2",
       "type": "Label",
-      "text": "fnENAVZNDexyKQW",
-      "color": "#b2b2b2",
+      "text": "LMsJzzWSzzcHV",
+      "color": "#acb7c8",
       "bbox": {
-        "x_min": 922,
-        "y_min": 768,
-        "x_max": 1232,
+        "x_min": 539,
+        "y_min": 0,
+        "x_max": 814,
+        "y_max": 60
+      }
+    },
+    {
+      "id": "entry_6",
+      "type": "Entry",
+      "text": "",
+      "color": "#9dbf9c",
+      "bbox": {
+        "x_min": 702,
+        "y_min": 809,
+        "x_max": 814,
         "y_max": 864
       }
     },
     {
-      "id": "button_5",
-      "type": "Button",
-      "text": "XlNQDStEZtlyGZ",
-      "color": "#b2b2b2",
+      "id": "label_3",
+      "type": "Label",
+      "text": "CkLwIQva",
+      "color": "#acb7c8",
       "bbox": {
         "x_min": 1395,
-        "y_min": 270,
+        "y_min": 60,
         "x_max": 1536,
-        "y_max": 332
+        "y_max": 152
       }
     },
     {
-      "id": "button_6",
-      "type": "Button",
-      "text": "XaUWcZERMai",
-      "color": "#b2b2b2",
+      "id": "label_4",
+      "type": "Label",
+      "text": "XRCgH",
+      "color": "#acb7c8",
       "bbox": {
         "x_min": 1395,
-        "y_min": 465,
+        "y_min": 717,
         "x_max": 1536,
-        "y_max": 532
+        "y_max": 777
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "ilgvY",
+      "color": "#acb7c8",
+      "bbox": {
+        "x_min": 1395,
+        "y_min": 809,
+        "x_max": 1536,
+        "y_max": 864
       }
     }
   ]

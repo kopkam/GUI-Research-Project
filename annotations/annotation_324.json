@@ -1,0 +1,213 @@
+{
+  "image": "screenshots/screenshot_324.png",
+  "resolution": {
+    "width": 1536,
+    "height": 864
+  },
+  "widgets": [
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "KcLjz",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 58,
+        "x_max": 94,
+        "y_max": 135
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "yOJqwpMblojeYi",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 212,
+        "x_max": 94,
+        "y_max": 269
+      }
+    },
+    {
+      "id": "button_3",
+      "type": "Button",
+      "text": "QrDxeYcmKyU",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 702,
+        "x_max": 94,
+        "y_max": 792
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "LdxhdRcqwesja",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 792,
+        "x_max": 94,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "yLdFYEHib",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 94,
+        "y_min": 58,
+        "x_max": 246,
+        "y_max": 135
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "zUKIoLZE",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 94,
+        "y_min": 387,
+        "x_max": 246,
+        "y_max": 420
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "QUTZpY",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 409,
+        "y_min": 0,
+        "x_max": 589,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "button_5",
+      "type": "Button",
+      "text": "QmsTHCbS",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 854,
+        "y_min": 0,
+        "x_max": 944,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "iBObTmAi",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 854,
+        "y_min": 58,
+        "x_max": 944,
+        "y_max": 212
+      }
+    },
+    {
+      "id": "button_6",
+      "type": "Button",
+      "text": "XFpztnrWu",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1248,
+        "y_min": 330,
+        "x_max": 1394,
+        "y_max": 387
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#dca6a6",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 58,
+        "x_max": 1536,
+        "y_max": 135
+      }
+    },
+    {
+      "id": "button_7",
+      "type": "Button",
+      "text": "DOkbWFrJJGrsx",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 135,
+        "x_max": 1536,
+        "y_max": 269
+      }
+    },
+    {
+      "id": "button_8",
+      "type": "Button",
+      "text": "wFBdQi",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 269,
+        "x_max": 1536,
+        "y_max": 330
+      }
+    },
+    {
+      "id": "button_9",
+      "type": "Button",
+      "text": "qYZchnvQLokYUz",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 330,
+        "x_max": 1536,
+        "y_max": 387
+      }
+    },
+    {
+      "id": "entry_2",
+      "type": "Entry",
+      "text": "",
+      "color": "#dca6a6",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 462,
+        "x_max": 1536,
+        "y_max": 552
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "ftiQIxRIFG",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 552,
+        "x_max": 1536,
+        "y_max": 611
+      }
+    },
+    {
+      "id": "label_6",
+      "type": "Label",
+      "text": "AfyGCo",
+      "color": "#b88fa8",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 702,
+        "x_max": 1536,
+        "y_max": 792
+      }
+    }
+  ]
+}

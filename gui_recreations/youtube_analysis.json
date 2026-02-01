@@ -1,0 +1,54 @@
+{
+  "source_image": "real_padded_screenshots/youtube.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Video",
+      "bbox": [
+        653,
+        292,
+        1241,
+        724
+      ],
+      "confidence": 0.777696430683136,
+      "text": "ut HD 720p Watch later core 190 Lves '{oulube",
+      "center_x": 947.0,
+      "center_y": 508.0,
+      "width": 588,
+      "height": 432
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        497,
+        716,
+        787,
+        785
+      ],
+      "confidence": 0.4915373623371124,
+      "text": "Breakout Thisis the InfoNav",
+      "center_x": 642.0,
+      "center_y": 750.5,
+      "width": 290,
+      "height": 69
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        916,
+        794,
+        1348,
+        860
+      ],
+      "confidence": 0.37733301520347595,
+      "text": "ell as easter egg themed backgrouds. Get points for taking out targets either the paddle ball_or targetsu!",
+      "center_x": 1132.0,
+      "center_y": 827.0,
+      "width": 432,
+      "height": 66
+    }
+  ]
+}

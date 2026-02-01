@@ -1,0 +1,984 @@
+{
+  "source_image": "real_padded_screenshots/currency_4.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1107,
+        414,
+        1227,
+        470
+      ],
+      "confidence": 0.9749600291252136,
+      "text": "",
+      "center_x": 1167.0,
+      "center_y": 442.0,
+      "width": 120,
+      "height": 56
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        278,
+        416,
+        506,
+        470
+      ],
+      "confidence": 0.9665907621383667,
+      "text": "",
+      "center_x": 392.0,
+      "center_y": 443.0,
+      "width": 228,
+      "height": 54
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1347,
+        411,
+        1467,
+        470
+      ],
+      "confidence": 0.9519335627555847,
+      "text": "",
+      "center_x": 1407.0,
+      "center_y": 440.5,
+      "width": 120,
+      "height": 59
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1469,
+        346,
+        1590,
+        407
+      ],
+      "confidence": 0.9376790523529053,
+      "text": "10y",
+      "center_x": 1529.5,
+      "center_y": 376.5,
+      "width": 121,
+      "height": 61
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        863,
+        621,
+        1110,
+        779
+      ],
+      "confidence": 0.9365906715393066,
+      "text": "",
+      "center_x": 986.5,
+      "center_y": 700.0,
+      "width": 247,
+      "height": 158
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        749,
+        776,
+        866,
+        828
+      ],
+      "confidence": 0.933272123336792,
+      "text": "",
+      "center_x": 807.5,
+      "center_y": 802.0,
+      "width": 117,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1465,
+        412,
+        1700,
+        470
+      ],
+      "confidence": 0.9068878889083862,
+      "text": "",
+      "center_x": 1582.5,
+      "center_y": 441.0,
+      "width": 235,
+      "height": 58
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        417,
+        749,
+        469
+      ],
+      "confidence": 0.9011635780334473,
+      "text": "",
+      "center_x": 686.5,
+      "center_y": 443.0,
+      "width": 125,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1227,
+        618,
+        1349,
+        778
+      ],
+      "confidence": 0.8986832499504089,
+      "text": "",
+      "center_x": 1288.0,
+      "center_y": 698.0,
+      "width": 122,
+      "height": 160
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1465,
+        776,
+        1698,
+        830
+      ],
+      "confidence": 0.8982607126235962,
+      "text": "",
+      "center_x": 1581.5,
+      "center_y": 803.0,
+      "width": 233,
+      "height": 54
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        748,
+        416,
+        866,
+        469
+      ],
+      "confidence": 0.8955115675926208,
+      "text": "",
+      "center_x": 807.0,
+      "center_y": 442.5,
+      "width": 118,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        507,
+        417,
+        626,
+        469
+      ],
+      "confidence": 0.8952282071113586,
+      "text": "",
+      "center_x": 566.5,
+      "center_y": 443.0,
+      "width": 119,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        865,
+        828,
+        1103,
+        879
+      ],
+      "confidence": 0.8926015496253967,
+      "text": "",
+      "center_x": 984.0,
+      "center_y": 853.5,
+      "width": 238,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1465,
+        570,
+        1699,
+        623
+      ],
+      "confidence": 0.8917425870895386,
+      "text": "",
+      "center_x": 1582.0,
+      "center_y": 596.5,
+      "width": 234,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1465,
+        469,
+        1698,
+        518
+      ],
+      "confidence": 0.8911890387535095,
+      "text": "",
+      "center_x": 1581.5,
+      "center_y": 493.5,
+      "width": 233,
+      "height": 49
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1245,
+        347,
+        1356,
+        408
+      ],
+      "confidence": 0.8868558406829834,
+      "text": "6m",
+      "center_x": 1300.5,
+      "center_y": 377.5,
+      "width": 111,
+      "height": 61
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1590,
+        347,
+        1699,
+        406
+      ],
+      "confidence": 0.875998318195343,
+      "text": "all",
+      "center_x": 1644.5,
+      "center_y": 376.5,
+      "width": 109,
+      "height": 59
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1466,
+        829,
+        1699,
+        879
+      ],
+      "confidence": 0.870512843132019,
+      "text": "",
+      "center_x": 1582.5,
+      "center_y": 854.0,
+      "width": 233,
+      "height": 50
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1227,
+        571,
+        1347,
+        619
+      ],
+      "confidence": 0.8690555095672607,
+      "text": "",
+      "center_x": 1287.0,
+      "center_y": 595.0,
+      "width": 120,
+      "height": 48
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1108,
+        777,
+        1226,
+        828
+      ],
+      "confidence": 0.8685441613197327,
+      "text": "",
+      "center_x": 1167.0,
+      "center_y": 802.5,
+      "width": 118,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1108,
+        571,
+        1227,
+        620
+      ],
+      "confidence": 0.8672101497650146,
+      "text": "",
+      "center_x": 1167.5,
+      "center_y": 595.5,
+      "width": 119,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1348,
+        572,
+        1467,
+        620
+      ],
+      "confidence": 0.859893798828125,
+      "text": "",
+      "center_x": 1407.5,
+      "center_y": 596.0,
+      "width": 119,
+      "height": 48
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1348,
+        777,
+        1466,
+        828
+      ],
+      "confidence": 0.8562725782394409,
+      "text": "",
+      "center_x": 1407.0,
+      "center_y": 802.5,
+      "width": 118,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        865,
+        416,
+        1108,
+        470
+      ],
+      "confidence": 0.8387860059738159,
+      "text": "",
+      "center_x": 986.5,
+      "center_y": 443.0,
+      "width": 243,
+      "height": 54
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1107,
+        829,
+        1225,
+        878
+      ],
+      "confidence": 0.838214635848999,
+      "text": "",
+      "center_x": 1166.0,
+      "center_y": 853.5,
+      "width": 118,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        469,
+        748,
+        519
+      ],
+      "confidence": 0.8324236869812012,
+      "text": "",
+      "center_x": 686.0,
+      "center_y": 494.0,
+      "width": 124,
+      "height": 50
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        507,
+        469,
+        626,
+        518
+      ],
+      "confidence": 0.8216134309768677,
+      "text": "",
+      "center_x": 566.5,
+      "center_y": 493.5,
+      "width": 119,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        747,
+        469,
+        866,
+        519
+      ],
+      "confidence": 0.8205283284187317,
+      "text": "",
+      "center_x": 806.5,
+      "center_y": 494.0,
+      "width": 119,
+      "height": 50
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1226,
+        829,
+        1347,
+        878
+      ],
+      "confidence": 0.8141511678695679,
+      "text": "",
+      "center_x": 1286.5,
+      "center_y": 853.5,
+      "width": 121,
+      "height": 49
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1359,
+        347,
+        1470,
+        408
+      ],
+      "confidence": 0.8134384751319885,
+      "text": "Iy",
+      "center_x": 1414.5,
+      "center_y": 377.5,
+      "width": 111,
+      "height": 61
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1228,
+        776,
+        1347,
+        828
+      ],
+      "confidence": 0.7931991815567017,
+      "text": "",
+      "center_x": 1287.5,
+      "center_y": 802.0,
+      "width": 119,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        829,
+        748,
+        878
+      ],
+      "confidence": 0.790070116519928,
+      "text": "",
+      "center_x": 686.0,
+      "center_y": 853.5,
+      "width": 124,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        747,
+        829,
+        866,
+        878
+      ],
+      "confidence": 0.7853837013244629,
+      "text": "",
+      "center_x": 806.5,
+      "center_y": 853.5,
+      "width": 119,
+      "height": 49
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1131,
+        347,
+        1244,
+        408
+      ],
+      "confidence": 0.7786576151847839,
+      "text": "Im",
+      "center_x": 1187.5,
+      "center_y": 377.5,
+      "width": 113,
+      "height": 61
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1696,
+        200,
+        1753,
+        264
+      ],
+      "confidence": 0.7765217423439026,
+      "text": "",
+      "center_x": 1724.5,
+      "center_y": 232.0,
+      "width": 57,
+      "height": 64
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        625,
+        776,
+        748,
+        829
+      ],
+      "confidence": 0.7732161283493042,
+      "text": "",
+      "center_x": 686.5,
+      "center_y": 802.5,
+      "width": 123,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        866,
+        468,
+        1106,
+        524
+      ],
+      "confidence": 0.7682575583457947,
+      "text": "",
+      "center_x": 986.0,
+      "center_y": 496.0,
+      "width": 240,
+      "height": 56
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        865,
+        776,
+        1103,
+        829
+      ],
+      "confidence": 0.7681671380996704,
+      "text": "",
+      "center_x": 984.0,
+      "center_y": 802.5,
+      "width": 238,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1349,
+        521,
+        1467,
+        571
+      ],
+      "confidence": 0.7668527960777283,
+      "text": "",
+      "center_x": 1408.0,
+      "center_y": 546.0,
+      "width": 118,
+      "height": 50
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1346,
+        829,
+        1466,
+        878
+      ],
+      "confidence": 0.7607336044311523,
+      "text": "",
+      "center_x": 1406.0,
+      "center_y": 853.5,
+      "width": 120,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        509,
+        776,
+        625,
+        829
+      ],
+      "confidence": 0.7537052035331726,
+      "text": "",
+      "center_x": 567.0,
+      "center_y": 802.5,
+      "width": 116,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        339,
+        254,
+        898,
+        331
+      ],
+      "confidence": 0.7292733192443848,
+      "text": "EUR vs. CAD",
+      "center_x": 618.5,
+      "center_y": 292.5,
+      "width": 559,
+      "height": 77
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        519,
+        748,
+        572
+      ],
+      "confidence": 0.7275416254997253,
+      "text": "",
+      "center_x": 686.0,
+      "center_y": 545.5,
+      "width": 124,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        277,
+        571,
+        506,
+        624
+      ],
+      "confidence": 0.7088873982429504,
+      "text": "",
+      "center_x": 391.5,
+      "center_y": 597.5,
+      "width": 229,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        506,
+        519,
+        626,
+        571
+      ],
+      "confidence": 0.703656792640686,
+      "text": "",
+      "center_x": 566.0,
+      "center_y": 545.0,
+      "width": 120,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        571,
+        748,
+        623
+      ],
+      "confidence": 0.6848992705345154,
+      "text": "",
+      "center_x": 686.0,
+      "center_y": 597.0,
+      "width": 124,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        278,
+        469,
+        505,
+        520
+      ],
+      "confidence": 0.6801039576530457,
+      "text": "",
+      "center_x": 391.5,
+      "center_y": 494.5,
+      "width": 227,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1226,
+        520,
+        1348,
+        571
+      ],
+      "confidence": 0.6720238327980042,
+      "text": "",
+      "center_x": 1287.0,
+      "center_y": 545.5,
+      "width": 122,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1225,
+        413,
+        1349,
+        471
+      ],
+      "confidence": 0.6408729553222656,
+      "text": "",
+      "center_x": 1287.0,
+      "center_y": 442.0,
+      "width": 124,
+      "height": 58
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1347,
+        619,
+        1467,
+        778
+      ],
+      "confidence": 0.5924437642097473,
+      "text": "",
+      "center_x": 1407.0,
+      "center_y": 698.5,
+      "width": 120,
+      "height": 159
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1466,
+        515,
+        1699,
+        568
+      ],
+      "confidence": 0.5853086709976196,
+      "text": "",
+      "center_x": 1582.5,
+      "center_y": 541.5,
+      "width": 233,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1108,
+        520,
+        1227,
+        571
+      ],
+      "confidence": 0.5667514204978943,
+      "text": "",
+      "center_x": 1167.5,
+      "center_y": 545.5,
+      "width": 119,
+      "height": 51
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        507,
+        829,
+        625,
+        878
+      ],
+      "confidence": 0.5635316371917725,
+      "text": "",
+      "center_x": 566.0,
+      "center_y": 853.5,
+      "width": 118,
+      "height": 49
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        351,
+        347,
+        549,
+        415
+      ],
+      "confidence": 0.5593254566192627,
+      "text": "28/01/2025",
+      "center_x": 450.0,
+      "center_y": 381.0,
+      "width": 198,
+      "height": 68
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1107,
+        617,
+        1228,
+        779
+      ],
+      "confidence": 0.4663184881210327,
+      "text": "",
+      "center_x": 1167.5,
+      "center_y": 698.0,
+      "width": 121,
+      "height": 162
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        625,
+        701,
+        749,
+        778
+      ],
+      "confidence": 0.43288153409957886,
+      "text": "",
+      "center_x": 687.0,
+      "center_y": 739.5,
+      "width": 124,
+      "height": 77
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1226,
+        879,
+        1346,
+        931
+      ],
+      "confidence": 0.41382765769958496,
+      "text": "",
+      "center_x": 1286.0,
+      "center_y": 905.0,
+      "width": 120,
+      "height": 52
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        746,
+        879,
+        866,
+        932
+      ],
+      "confidence": 0.40616583824157715,
+      "text": "",
+      "center_x": 806.0,
+      "center_y": 905.5,
+      "width": 120,
+      "height": 53
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        624,
+        621,
+        748,
+        701
+      ],
+      "confidence": 0.4004690647125244,
+      "text": "",
+      "center_x": 686.0,
+      "center_y": 661.0,
+      "width": 124,
+      "height": 80
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1234,
+        929,
+        1699,
+        978
+      ],
+      "confidence": 0.37089237570762634,
+      "text": "Oct Nov Dec 2026",
+      "center_x": 1466.5,
+      "center_y": 953.5,
+      "width": 465,
+      "height": 49
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        624,
+        644,
+        749,
+        778
+      ],
+      "confidence": 0.33063632249832153,
+      "text": "",
+      "center_x": 686.5,
+      "center_y": 711.0,
+      "width": 125,
+      "height": 134
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        277,
+        518,
+        502,
+        574
+      ],
+      "confidence": 0.3260173797607422,
+      "text": "",
+      "center_x": 389.5,
+      "center_y": 546.0,
+      "width": 225,
+      "height": 56
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        866,
+        878,
+        1099,
+        931
+      ],
+      "confidence": 0.3235248625278473,
+      "text": "",
+      "center_x": 982.5,
+      "center_y": 904.5,
+      "width": 233,
+      "height": 53
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        626,
+        878,
+        747,
+        932
+      ],
+      "confidence": 0.2714110314846039,
+      "text": "",
+      "center_x": 686.5,
+      "center_y": 905.0,
+      "width": 121,
+      "height": 54
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1106,
+        879,
+        1225,
+        930
+      ],
+      "confidence": 0.27060621976852417,
+      "text": "",
+      "center_x": 1165.5,
+      "center_y": 904.5,
+      "width": 119,
+      "height": 51
+    }
+  ]
+}
