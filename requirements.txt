@@ -16,3 +16,6 @@ tqdm>=4.65.0  # Progress bars
 # Optional but recommended
 pandas>=2.0.0  # Data analysis
 seaborn>=0.12.0  # Better plots
+
+# GUI Recreation (for extracting text from real screenshots)
+easyocr>=1.7.0  # OCR for text extraction

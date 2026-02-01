@@ -12,10 +12,11 @@ An AI-powered system for detecting and classifying GUI widgets (Buttons, Labels,
 
 ## 📋 Project Overview
 
-This project consists of two main components:
+This project consists of three main components:
 
 1. **Synthetic GUI Generator** - Creates randomized GUI layouts with annotations
 2. **YOLOv8 Object Detector** - Trains and detects GUI widgets in screenshots
+3. **GUI Recreation System** - Recreates real-world GUIs from screenshots using AI (NEW! 🎨)
 
 ## 🚀 Quick Start
 
@@ -35,6 +36,30 @@ python test_model.py screenshots/screenshot_0.png
 # Create visualizations
 python visualize_results.py
 ```
+
+### 2b. NEW: GUI Recreation from Real Screenshots 🎨
+
+```bash
+# Install OCR dependency
+pip install easyocr
+
+# Interactive demo - detect widgets, extract text, recreate GUI
+python demo_gui_recreation.py
+
+# Batch process all real screenshots
+python batch_recreate_guis.py
+
+# Generate executable code (Tkinter/PyQt/HTML)
+python generate_gui_code.py real_padded_screenshots/calculator.png
+```
+
+**What it does:**
+1. Detects widgets using trained YOLO model
+2. Extracts text from each widget using OCR
+3. Analyzes layout structure (rows, columns)
+4. Recreates GUI in Tkinter, HTML, or as executable code
+
+See [README_GUI_RECREATION.md](README_GUI_RECREATION.md) for details.
 
 ### 3. Generate More Training Data (Optional)
 
@@ -88,6 +113,14 @@ GUI-Research-Project/
 │   ├── randomized_gui_loop.ipynb # Batch GUI generation
 │   └── randomized_gui.ipynb     # Interactive GUI generation
 │
+├── 🔄 GUI Recreation (NEW!)
+│   ├── recreate_gui_from_screenshot.py  # Main recreation pipeline
+│   ├── demo_gui_recreation.py           # Interactive demo
+│   ├── batch_recreate_guis.py           # Process all screenshots
+│   ├── generate_gui_code.py             # Generate Tkinter/PyQt/HTML code
+│   ├── compare_original_recreated.py    # Visual comparison tool
+│   └── gui_recreations/                 # Output directory
+│
 ├── 📝 Configuration
 │   ├── dataset.yaml             # YOLO dataset config
 │   └── requirements.txt         # Python dependencies
@@ -95,6 +128,7 @@ GUI-Research-Project/
 └── 📖 Documentation
     ├── README.md                # This file
     ├── README_MODEL.md          # Detailed model documentation
+    ├── README_GUI_RECREATION.md # GUI recreation system (NEW!)
     └── TRAINING_RESULTS.md      # Training results & performance
 ```
 
