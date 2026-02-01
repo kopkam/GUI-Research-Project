@@ -1,0 +1,189 @@
+{
+  "source_image": "real_padded_screenshots/geogebra.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Button",
+      "bbox": [
+        219,
+        623,
+        413,
+        688
+      ],
+      "confidence": 0.9615657329559326,
+      "text": "Start Calculator",
+      "center_x": 316.0,
+      "center_y": 655.5,
+      "width": 194,
+      "height": 65
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1103,
+        856,
+        1372,
+        971
+      ],
+      "confidence": 0.8837379813194275,
+      "text": "Probability and Statistics",
+      "center_x": 1237.5,
+      "center_y": 913.5,
+      "width": 269,
+      "height": 115
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        170,
+        106,
+        425,
+        193
+      ],
+      "confidence": 0.7297930717468262,
+      "text": "Ge Gebra",
+      "center_x": 297.5,
+      "center_y": 149.5,
+      "width": 255,
+      "height": 87
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        753,
+        876,
+        908,
+        948
+      ],
+      "confidence": 0.648331880569458,
+      "text": "Measurement",
+      "center_x": 830.5,
+      "center_y": 912.0,
+      "width": 155,
+      "height": 72
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        216,
+        767,
+        442,
+        821
+      ],
+      "confidence": 0.6333684325218201,
+      "text": "Recommended",
+      "center_x": 329.0,
+      "center_y": 794.0,
+      "width": 226,
+      "height": 54
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        416,
+        97,
+        643,
+        192
+      ],
+      "confidence": 0.43078386783599854,
+      "text": "Resources",
+      "center_x": 529.5,
+      "center_y": 144.5,
+      "width": 227,
+      "height": 95
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        216,
+        546,
+        611,
+        628
+      ],
+      "confidence": 0.35337957739830017,
+      "text": "explore and learn about math.",
+      "center_x": 413.5,
+      "center_y": 587.0,
+      "width": 395,
+      "height": 82
+    },
+    {
+      "widget_type": "Entry",
+      "bbox": [
+        1245,
+        465,
+        1335,
+        526
+      ],
+      "confidence": 0.3509024977684021,
+      "text": "",
+      "center_x": 1290.0,
+      "center_y": 495.5,
+      "width": 90,
+      "height": 61
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        441,
+        628,
+        613,
+        675
+      ],
+      "confidence": 0.3041071891784668,
+      "text": "Math Resources",
+      "center_x": 527.0,
+      "center_y": 651.5,
+      "width": 172,
+      "height": 47
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        928,
+        867,
+        1109,
+        956
+      ],
+      "confidence": 0.30284053087234497,
+      "text": "Geometry",
+      "center_x": 1018.5,
+      "center_y": 911.5,
+      "width": 181,
+      "height": 89
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        214,
+        751,
+        695,
+        838
+      ],
+      "confidence": 0.29762786626815796,
+      "text": "Recommended math resources",
+      "center_x": 454.5,
+      "center_y": 794.5,
+      "width": 481,
+      "height": 87
+    },
+    {
+      "widget_type": "Button",
+      "bbox": [
+        1601,
+        95,
+        1760,
+        193
+      ],
+      "confidence": 0.2723785638809204,
+      "text": "Sign in",
+      "center_x": 1680.5,
+      "center_y": 144.0,
+      "width": 159,
+      "height": 98
+    }
+  ]
+}

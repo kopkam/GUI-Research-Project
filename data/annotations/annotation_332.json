@@ -1,11 +1,23 @@
 {
+<<<<<<< HEAD:data/annotations/annotation_332.json
+<<<<<<<< HEAD:data/annotations/annotation_332.json
   "image": "screenshots/screenshot_332.png",
+========
+  "image": "screenshots/screenshot_192.png",
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_192.json
+=======
+  "image": "screenshots/screenshot_332.png",
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
   "resolution": {
     "width": 1536,
     "height": 864
   },
   "widgets": [
     {
+<<<<<<< HEAD:data/annotations/annotation_332.json
+<<<<<<<< HEAD:data/annotations/annotation_332.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       "id": "entry_1",
       "type": "Entry",
       "text": "",
@@ -39,11 +51,29 @@
         "y_min": 409,
         "x_max": 191,
         "y_max": 442
+<<<<<<< HEAD:data/annotations/annotation_332.json
+========
+      "id": "label_1",
+      "type": "Label",
+      "text": "LgCUwFXClul",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 244,
+        "x_max": 158,
+        "y_max": 308
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_192.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       }
     },
     {
       "id": "label_2",
       "type": "Label",
+<<<<<<< HEAD:data/annotations/annotation_332.json
+<<<<<<<< HEAD:data/annotations/annotation_332.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       "text": "BpBzHcUdBrUUHyB",
       "color": "#ffffff",
       "bbox": {
@@ -97,11 +127,27 @@
         "y_min": 815,
         "x_max": 1086,
         "y_max": 864
+<<<<<<< HEAD:data/annotations/annotation_332.json
+========
+      "text": "HmJNGkjM",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 596,
+        "x_max": 158,
+        "y_max": 692
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_192.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       }
     },
     {
       "id": "label_3",
       "type": "Label",
+<<<<<<< HEAD:data/annotations/annotation_332.json
+<<<<<<<< HEAD:data/annotations/annotation_332.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       "text": "rpJziV",
       "color": "#ffffff",
       "bbox": {
@@ -109,11 +155,51 @@
         "y_min": 135,
         "x_max": 1536,
         "y_max": 201
+<<<<<<< HEAD:data/annotations/annotation_332.json
+========
+      "text": "gJVkFufMXtgtb",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 158,
+        "y_min": 0,
+        "x_max": 302,
+        "y_max": 58
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "kApUrQoOm",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 643,
+        "y_min": 149,
+        "x_max": 813,
+        "y_max": 244
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "fbYGagA",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1268,
+        "y_min": 58,
+        "x_max": 1536,
+        "y_max": 149
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_192.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       }
     },
     {
       "id": "button_3",
       "type": "Button",
+<<<<<<< HEAD:data/annotations/annotation_332.json
+<<<<<<<< HEAD:data/annotations/annotation_332.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       "text": "clXLqFr",
       "color": "#ffffff",
       "bbox": {
@@ -145,6 +231,18 @@
         "y_min": 442,
         "x_max": 1536,
         "y_max": 491
+<<<<<<< HEAD:data/annotations/annotation_332.json
+========
+      "text": "doZILc",
+      "color": "#ffffff",
+      "bbox": {
+        "x_min": 1268,
+        "y_min": 692,
+        "x_max": 1536,
+        "y_max": 864
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_192.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_332.json
       }
     }
   ]

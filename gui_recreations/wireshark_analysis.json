@@ -1,0 +1,84 @@
+{
+  "source_image": "real_padded_screenshots/wireshark.png",
+  "image_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "widgets": [
+    {
+      "widget_type": "Label",
+      "bbox": [
+        3,
+        991,
+        213,
+        1079
+      ],
+      "confidence": 0.6168738007545471,
+      "text": "Ready to load or capture",
+      "center_x": 108.0,
+      "center_y": 1035.0,
+      "width": 210,
+      "height": 88
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        270,
+        471,
+        548,
+        575
+      ],
+      "confidence": 0.48775729537010193,
+      "text": "Połączenie lokalne* Ethernet Event Tracing for Windows (ETW) reader",
+      "center_x": 409.0,
+      "center_y": 523.0,
+      "width": 278,
+      "height": 104
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        687,
+        864,
+        956,
+        1011
+      ],
+      "confidence": 0.424882709980011,
+      "text": "SharkFest Wireshark Discord e automatic updates",
+      "center_x": 821.5,
+      "center_y": 937.5,
+      "width": 269,
+      "height": 147
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        383,
+        871,
+        695,
+        1012
+      ],
+      "confidence": 0.40243470668792725,
+      "text": "Questions and Answers Mailing Lists ark 4.20 (v4.20-0-954eedfc63953). You receive",
+      "center_x": 539.0,
+      "center_y": 941.5,
+      "width": 312,
+      "height": 141
+    },
+    {
+      "widget_type": "Label",
+      "bbox": [
+        1800,
+        978,
+        1920,
+        1078
+      ],
+      "confidence": 0.34517109394073486,
+      "text": "Profile: Default",
+      "center_x": 1860.0,
+      "center_y": 1028.0,
+      "width": 120,
+      "height": 100
+    }
+  ]
+}

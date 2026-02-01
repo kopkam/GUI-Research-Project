@@ -1,11 +1,23 @@
 {
+<<<<<<< HEAD:data/annotations/annotation_372.json
+<<<<<<<< HEAD:data/annotations/annotation_372.json
   "image": "screenshots/screenshot_372.png",
+========
+  "image": "screenshots/screenshot_168.png",
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_168.json
+=======
+  "image": "screenshots/screenshot_372.png",
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
   "resolution": {
     "width": 1536,
     "height": 864
   },
   "widgets": [
     {
+<<<<<<< HEAD:data/annotations/annotation_372.json
+<<<<<<<< HEAD:data/annotations/annotation_372.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       "id": "entry_1",
       "type": "Entry",
       "text": "",
@@ -15,12 +27,100 @@
         "y_min": 163,
         "x_max": 149,
         "y_max": 212
+<<<<<<< HEAD:data/annotations/annotation_372.json
+========
+      "id": "label_1",
+      "type": "Label",
+      "text": "gzvYwxn",
+      "color": "#d9c3b0",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 82,
+        "x_max": 187,
+        "y_max": 180
+      }
+    },
+    {
+      "id": "button_1",
+      "type": "Button",
+      "text": "cvUKpfrZL",
+      "color": "#a683c9",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 622,
+        "x_max": 187,
+        "y_max": 670
+      }
+    },
+    {
+      "id": "label_2",
+      "type": "Label",
+      "text": "FvBwreh",
+      "color": "#d9c3b0",
+      "bbox": {
+        "x_min": 187,
+        "y_min": 82,
+        "x_max": 379,
+        "y_max": 180
+      }
+    },
+    {
+      "id": "video",
+      "type": "Video",
+      "bbox": {
+        "x_min": 187,
+        "y_min": 422,
+        "x_max": 912,
+        "y_max": 769
+      }
+    },
+    {
+      "id": "button_2",
+      "type": "Button",
+      "text": "OXsjpGfhcRqQmM",
+      "color": "#a683c9",
+      "bbox": {
+        "x_min": 379,
+        "y_min": 769,
+        "x_max": 558,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_3",
+      "type": "Label",
+      "text": "BwcoeZ",
+      "color": "#d9c3b0",
+      "bbox": {
+        "x_min": 558,
+        "y_min": 0,
+        "x_max": 643,
+        "y_max": 82
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#4eb84c",
+      "bbox": {
+        "x_min": 558,
+        "y_min": 82,
+        "x_max": 643,
+        "y_max": 180
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_168.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       }
     },
     {
       "id": "entry_2",
       "type": "Entry",
       "text": "",
+<<<<<<< HEAD:data/annotations/annotation_372.json
+<<<<<<<< HEAD:data/annotations/annotation_372.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       "color": "#ffffff",
       "bbox": {
         "x_min": 0,
@@ -63,11 +163,74 @@
         "y_min": 0,
         "x_max": 933,
         "y_max": 96
+<<<<<<< HEAD:data/annotations/annotation_372.json
+========
+      "color": "#4eb84c",
+      "bbox": {
+        "x_min": 643,
+        "y_min": 0,
+        "x_max": 748,
+        "y_max": 82
+      }
+    },
+    {
+      "id": "entry_3",
+      "type": "Entry",
+      "text": "",
+      "color": "#4eb84c",
+      "bbox": {
+        "x_min": 643,
+        "y_min": 769,
+        "x_max": 748,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "entry_4",
+      "type": "Entry",
+      "text": "",
+      "color": "#4eb84c",
+      "bbox": {
+        "x_min": 912,
+        "y_min": 769,
+        "x_max": 1025,
+        "y_max": 864
+      }
+    },
+    {
+      "id": "label_4",
+      "type": "Label",
+      "text": "uSYgMyHAjp",
+      "color": "#d9c3b0",
+      "bbox": {
+        "x_min": 1025,
+        "y_min": 0,
+        "x_max": 1224,
+        "y_max": 82
+      }
+    },
+    {
+      "id": "label_5",
+      "type": "Label",
+      "text": "GZZwjPDWn",
+      "color": "#d9c3b0",
+      "bbox": {
+        "x_min": 1025,
+        "y_min": 769,
+        "x_max": 1224,
+        "y_max": 864
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_168.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       }
     },
     {
       "id": "button_3",
       "type": "Button",
+<<<<<<< HEAD:data/annotations/annotation_372.json
+<<<<<<<< HEAD:data/annotations/annotation_372.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       "text": "hGCZxRafeW",
       "color": "#ffffff",
       "bbox": {
@@ -87,6 +250,30 @@
         "y_min": 758,
         "x_max": 1536,
         "y_max": 815
+<<<<<<< HEAD:data/annotations/annotation_372.json
+========
+      "text": "zliREMWqJYq",
+      "color": "#a683c9",
+      "bbox": {
+        "x_min": 1224,
+        "y_min": 82,
+        "x_max": 1536,
+        "y_max": 180
+      }
+    },
+    {
+      "id": "button_4",
+      "type": "Button",
+      "text": "jxvCc",
+      "color": "#a683c9",
+      "bbox": {
+        "x_min": 1224,
+        "y_min": 422,
+        "x_max": 1536,
+        "y_max": 458
+>>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_168.json
+=======
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_372.json
       }
     }
   ]

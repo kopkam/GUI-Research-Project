@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD:data/annotations/annotation_192.json
   "image": "screenshots/screenshot_192.png",
+=======
+  "image": "screenshots/screenshot_82.png",
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_82.json
   "resolution": {
     "width": 1536,
     "height": 864
   },
   "widgets": [
     {
+<<<<<<< HEAD:data/annotations/annotation_192.json
       "id": "label_1",
       "type": "Label",
       "text": "LgCUwFXClul",
@@ -15,11 +20,57 @@
         "y_min": 244,
         "x_max": 158,
         "y_max": 308
+=======
+      "id": "button_1",
+      "type": "Button",
+      "text": "qcaFoJdM",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 0,
+        "y_min": 375,
+        "x_max": 123,
+        "y_max": 465
+      }
+    },
+    {
+      "id": "label_1",
+      "type": "Label",
+      "text": "UqGJIbeTLjHRh",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 123,
+        "y_min": 375,
+        "x_max": 230,
+        "y_max": 465
+      }
+    },
+    {
+      "id": "entry_1",
+      "type": "Entry",
+      "text": "",
+      "color": "#a8d8a7",
+      "bbox": {
+        "x_min": 321,
+        "y_min": 0,
+        "x_max": 429,
+        "y_max": 59
+      }
+    },
+    {
+      "id": "video",
+      "type": "Video",
+      "bbox": {
+        "x_min": 429,
+        "y_min": 0,
+        "x_max": 1239,
+        "y_max": 375
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_82.json
       }
     },
     {
       "id": "label_2",
       "type": "Label",
+<<<<<<< HEAD:data/annotations/annotation_192.json
       "text": "HmJNGkjM",
       "color": "#ffffff",
       "bbox": {
@@ -51,11 +102,21 @@
         "y_min": 149,
         "x_max": 813,
         "y_max": 244
+=======
+      "text": "CDMTupKJSzz",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 59,
+        "x_max": 1536,
+        "y_max": 134
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_82.json
       }
     },
     {
       "id": "button_2",
       "type": "Button",
+<<<<<<< HEAD:data/annotations/annotation_192.json
       "text": "fbYGagA",
       "color": "#ffffff",
       "bbox": {
@@ -75,6 +136,15 @@
         "y_min": 692,
         "x_max": 1536,
         "y_max": 864
+=======
+      "text": "iIjlUOmgeUxR",
+      "color": "#b2b2b2",
+      "bbox": {
+        "x_min": 1394,
+        "y_min": 375,
+        "x_max": 1536,
+        "y_max": 523
+>>>>>>> cf738de240f0de9fb8ea2725880c3972266c090b:annotations/annotation_82.json
       }
     }
   ]
